@@ -1,0 +1,446 @@
+[
+    {
+        "name": "Norwich",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Store Lama Alpaca Maybe",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 1429,
+                        "y": 884,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Gym",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 1211,
+                        "y": 613,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Vending Machine and Brob Energy",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Vending Machine (accepts doubloons)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Store Brob Energy",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 955,
+                        "y": 406,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store DOUBLOONS",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 1207,
+                        "y": 729,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store unregistered firearm",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 1170,
+                        "y": 63,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Heavy Stone Torch",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 816,
+                        "y": 210,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Computer Monitor (60hz)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 1463,
+                        "y": 1452,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Sign",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 1211,
+                        "y": 1031,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Crack Head",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 1621,
+                        "y": 1358,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Toastie",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 1031,
+                        "y": 342,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Flower Blimbo",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 1166,
+                        "y": 1147,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Michelle Cat",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Find Michelle Cat",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Norwich",
+                                "x": 963,
+                                "y": 289,
+                                "size": 28,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Store Michelle Cat",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Norwich",
+                                "x": 963,
+                                "y": 289,
+                                "size": 28,
+                                "shape": "rect"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Find Sun Hat",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 1512,
+                        "y": 387,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Euro at train station",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 790,
+                        "y": 696,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Euro at chicken farm island",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 3036,
+                        "y": 729,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

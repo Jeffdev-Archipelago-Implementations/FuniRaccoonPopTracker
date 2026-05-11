@@ -1,0 +1,1168 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Beenie Death",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Beenie Death"
+                    ]
+                }
+            },
+            {
+                "title": "Beenie Factory",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Beenie Factory"
+                    ]
+                }
+            },
+            {
+                "title": "Beenie HQ",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Back",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Beenie HQ Back"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Front",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Beenie HQ Front"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Inside",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Beenie HQ Inside"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Behrman Speedway",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Behrman Speedway"
+                    ]
+                }
+            },
+            {
+                "title": "Bildal Mines",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Bildal Mines"
+                    ]
+                }
+            },
+            {
+                "title": "Blimbo City",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Blimbo City",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Bottom Main",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Bottom Main"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Girders",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Girders"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Middle",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Middle"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Middle Back",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Middle Back"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Middle Casino",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Middle Casino"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "PURGATORY",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City PURGATORY"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Pub",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Pub"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Reactor",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Reactor"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Top",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Top"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Upper Towers",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Upper Towers"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Blimbo Village",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Blimbo Village",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo Village"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Start",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo Village Start"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Town",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo Village Town"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Canyon",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Main",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Canyon Main"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Pharmacy",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Canyon Pharmacy"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chamber",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Chamber"
+                    ]
+                }
+            },
+            {
+                "title": "Chicken Farm",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Chicken Farm"
+                    ]
+                }
+            },
+            {
+                "title": "Church",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Church"
+                    ]
+                }
+            },
+            {
+                "title": "Cleaners",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cleaners"
+                    ]
+                }
+            },
+            {
+                "title": "Cliffs of Nowher",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cliffs of Nowher"
+                    ]
+                }
+            },
+            {
+                "title": "Cricket",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cricket"
+                    ]
+                }
+            },
+            {
+                "title": "Desert",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Desert"
+                    ]
+                }
+            },
+            {
+                "title": "Dry Zone",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Dry Zone"
+                    ]
+                }
+            },
+            {
+                "title": "FRIDGE WORLD",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "FRIDGE WORLD"
+                    ]
+                }
+            },
+            {
+                "title": "Fields",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Fields"
+                    ]
+                }
+            },
+            {
+                "title": "Fish Vore",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Fish Vore"
+                    ]
+                }
+            },
+            {
+                "title": "Forest",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Forest"
+                    ]
+                }
+            },
+            {
+                "title": "Garden",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Garden"
+                    ]
+                }
+            },
+            {
+                "title": "Gym",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Inside",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Gym Inside"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Outside",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Gym Outside"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Hat Store",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Hat Store"
+                    ]
+                }
+            },
+            {
+                "title": "Howth",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "End",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Howth End"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Start",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Howth Start"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Mikk Barge",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Mikk Barge"
+                    ]
+                }
+            },
+            {
+                "title": "Municipal Wastes",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Municipal Wastes"
+                    ]
+                }
+            },
+            {
+                "title": "Museum",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Museum"
+                    ]
+                }
+            },
+            {
+                "title": "Norwich",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Norwich"
+                    ]
+                }
+            },
+            {
+                "title": "Office",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Office"
+                    ]
+                }
+            },
+            {
+                "title": "Petrol Station",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Petrol Station"
+                    ]
+                }
+            },
+            {
+                "title": "Raccoon Central Station",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Raccoon Central Station"
+                    ]
+                }
+            },
+            {
+                "title": "THE MACHINE",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "THE MACHINE"
+                    ]
+                }
+            },
+            {
+                "title": "The Gully",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Gully"
+                    ]
+                }
+            },
+            {
+                "title": "The Process",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Process"
+                    ]
+                }
+            },
+            {
+                "title": "Trasco Carpark",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Trasco Carpark",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Trasco Carpark"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Main",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Trasco Carpark Main"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Piss Shrine",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Trasco Carpark Piss Shrine"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Side",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Trasco Carpark Side"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Tyre World",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tyre World"
+                    ]
+                }
+            },
+            {
+                "title": "Underground Metro",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Underground Metro"
+                    ]
+                }
+            },
+            {
+                "title": "Water Zone",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Water Zone"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Beenie Death",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Beenie Death"
+                    ]
+                }
+            },
+            {
+                "title": "Beenie Factory",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Beenie Factory"
+                    ]
+                }
+            },
+            {
+                "title": "Beenie HQ",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Back",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Beenie HQ Back"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Front",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Beenie HQ Front"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Inside",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Beenie HQ Inside"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Behrman Speedway",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Behrman Speedway"
+                    ]
+                }
+            },
+            {
+                "title": "Bildal Mines",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Bildal Mines"
+                    ]
+                }
+            },
+            {
+                "title": "Blimbo City",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Blimbo City",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Bottom Main",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Bottom Main"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Girders",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Girders"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Middle",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Middle"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Middle Back",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Middle Back"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Middle Casino",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Middle Casino"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "PURGATORY",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City PURGATORY"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Pub",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Pub"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Reactor",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Reactor"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Top",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Top"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Upper Towers",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo City Upper Towers"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Blimbo Village",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Blimbo Village",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo Village"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Start",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo Village Start"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Town",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Blimbo Village Town"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Canyon",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Main",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Canyon Main"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Pharmacy",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Canyon Pharmacy"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chamber",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Chamber"
+                    ]
+                }
+            },
+            {
+                "title": "Chicken Farm",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Chicken Farm"
+                    ]
+                }
+            },
+            {
+                "title": "Church",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Church"
+                    ]
+                }
+            },
+            {
+                "title": "Cleaners",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cleaners"
+                    ]
+                }
+            },
+            {
+                "title": "Cliffs of Nowher",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cliffs of Nowher"
+                    ]
+                }
+            },
+            {
+                "title": "Cricket",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Cricket"
+                    ]
+                }
+            },
+            {
+                "title": "Desert",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Desert"
+                    ]
+                }
+            },
+            {
+                "title": "Dry Zone",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Dry Zone"
+                    ]
+                }
+            },
+            {
+                "title": "FRIDGE WORLD",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "FRIDGE WORLD"
+                    ]
+                }
+            },
+            {
+                "title": "Fields",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Fields"
+                    ]
+                }
+            },
+            {
+                "title": "Fish Vore",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Fish Vore"
+                    ]
+                }
+            },
+            {
+                "title": "Forest",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Forest"
+                    ]
+                }
+            },
+            {
+                "title": "Garden",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Garden"
+                    ]
+                }
+            },
+            {
+                "title": "Gym",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Inside",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Gym Inside"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Outside",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Gym Outside"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Hat Store",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Hat Store"
+                    ]
+                }
+            },
+            {
+                "title": "Howth",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "End",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Howth End"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Start",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Howth Start"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Mikk Barge",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Mikk Barge"
+                    ]
+                }
+            },
+            {
+                "title": "Municipal Wastes",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Municipal Wastes"
+                    ]
+                }
+            },
+            {
+                "title": "Museum",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Museum"
+                    ]
+                }
+            },
+            {
+                "title": "Norwich",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Norwich"
+                    ]
+                }
+            },
+            {
+                "title": "Office",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Office"
+                    ]
+                }
+            },
+            {
+                "title": "Petrol Station",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Petrol Station"
+                    ]
+                }
+            },
+            {
+                "title": "Raccoon Central Station",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Raccoon Central Station"
+                    ]
+                }
+            },
+            {
+                "title": "THE MACHINE",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "THE MACHINE"
+                    ]
+                }
+            },
+            {
+                "title": "The Gully",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Gully"
+                    ]
+                }
+            },
+            {
+                "title": "The Process",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Process"
+                    ]
+                }
+            },
+            {
+                "title": "Trasco Carpark",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Trasco Carpark",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Trasco Carpark"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Main",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Trasco Carpark Main"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Piss Shrine",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Trasco Carpark Piss Shrine"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Side",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Trasco Carpark Side"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Tyre World",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Tyre World"
+                    ]
+                }
+            },
+            {
+                "title": "Underground Metro",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Underground Metro"
+                    ]
+                }
+            },
+            {
+                "title": "Water Zone",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Water Zone"
+                    ]
+                }
+            }
+        ]
+    }
+}

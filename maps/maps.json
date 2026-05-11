@@ -1,0 +1,350 @@
+[
+    {
+        "name": "Beenie Death",
+        "img": "images/maps/Beenie Death.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Beenie Factory",
+        "img": "images/maps/Beenie Factory.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Beenie HQ Back",
+        "img": "images/maps/Beenie HQ Back.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Beenie HQ Front",
+        "img": "images/maps/Beenie HQ Front.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Beenie HQ Inside",
+        "img": "images/maps/Beenie HQ Inside.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Behrman Speedway",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Behrman Speedway.png"
+    },
+    {
+        "name": "Bildal Mines",
+        "img": "images/maps/Bildal Mines.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo City",
+        "img": "images/maps/Blimbo City.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo City Bottom Main",
+        "img": "images/maps/Blimbo City Bottom Main.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo City Girders",
+        "img": "images/maps/Blimbo City Girders.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo City Middle",
+        "img": "images/maps/Blimbo City Middle.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo City Middle Back",
+        "img": "images/maps/Blimbo City Middle Back.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo City Middle Casino",
+        "img": "images/maps/Blimbo City Middle Casino.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo City PURGATORY",
+        "img": "images/maps/Blimbo City PURGATORY.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo City Pub",
+        "img": "images/maps/Blimbo City Pub.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo City Reactor",
+        "img": "images/maps/Blimbo City Reactor.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo City Top",
+        "img": "images/maps/Blimbo City Top.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo City Upper Towers",
+        "img": "images/maps/Blimbo City Upper Towers.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo Village",
+        "img": "images/maps/Blimbo Village.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo Village Start",
+        "img": "images/maps/Blimbo Village Start.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Blimbo Village Town",
+        "img": "images/maps/Blimbo Village Town.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Canyon Main",
+        "img": "images/maps/Canyon Main.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Canyon Pharmacy",
+        "img": "images/maps/Canyon Pharmacy.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Chamber",
+        "img": "images/maps/Chamber.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Chicken Farm",
+        "img": "images/maps/Chicken Farm.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Church",
+        "img": "images/maps/Church.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Cleaners",
+        "img": "images/maps/Cleaners.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Cliffs of Nowher",
+        "img": "images/maps/Cliffs of Nowher.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Cricket",
+        "img": "images/maps/Cricket.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Desert",
+        "img": "images/maps/Desert.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Dry Zone",
+        "img": "images/maps/Dry Zone.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "FRIDGE WORLD",
+        "img": "images/maps/FRIDGE WORLD.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Fields",
+        "img": "images/maps/Fields.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Fish Vore",
+        "img": "images/maps/Fish Vore.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Forest",
+        "img": "images/maps/Forest.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Garden",
+        "img": "images/maps/Garden.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Gym Inside",
+        "img": "images/maps/Gym Inside.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Gym Outside",
+        "img": "images/maps/Gym Outside.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Hat Store",
+        "img": "images/maps/Hat Store.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Howth End",
+        "img": "images/maps/Howth End.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Howth Start",
+        "img": "images/maps/Howth Start.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Mikk Barge",
+        "img": "images/maps/Mikk Barge.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Municipal Wastes",
+        "img": "images/maps/Municipal Wastes.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Museum",
+        "img": "images/maps/Museum.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Norwich",
+        "img": "images/Norwich.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Office",
+        "img": "images/maps/Office.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Petrol Station",
+        "img": "images/maps/Petrol Station.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Raccoon Central Station",
+        "img": "images/maps/Raccoon Central Station.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "THE MACHINE",
+        "img": "images/maps/THE MACHINE.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "The Gully",
+        "img": "images/maps/The Gully.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "The Process",
+        "img": "images/maps/The Process.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Trasco Carpark",
+        "img": "images/maps/Trasco Carpark.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Trasco Carpark Main",
+        "img": "images/maps/Trasco Carpark Main.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Trasco Carpark Piss Shrine",
+        "img": "images/maps/Trasco Carpark Piss Shrine.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Trasco Carpark Side",
+        "img": "images/maps/Trasco Carpark Side.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Tyre World",
+        "img": "images/maps/Tyre World.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Underground Metro",
+        "img": "images/maps/Underground Metro.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    },
+    {
+        "name": "Water Zone",
+        "img": "images/maps/Water Zone.png",
+        "location_border_thickness": 1,
+        "location_size": 6
+    }
+]
