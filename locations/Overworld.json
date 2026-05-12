@@ -9,33 +9,6 @@
         ],
         "children": [
             {
-                "name": "Beenie Death",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Priestess - ",
-                        "ref": "Beenie Death/Store Priestess/"
-                    },
-                    {
-                        "name": "Euro behind cross - ",
-                        "ref": "Beenie Death/Euro behind cross/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 1321,
-                        "y": 2300,
-                        "size": 6
-                    }
-                ]
-            },
-            {
                 "name": "Beenie Factory",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -54,20 +27,20 @@
                     },
                     {
                         "name": "Store Funi Marketable Plushie - ",
-                        "ref": "Beenie Factory/Store Funi Marketable Plushie/"
+                        "ref": "Beenie HQ Inside/Store Funi Marketable Plushie/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1973,
-                        "y": 543,
+                        "x": 821,
+                        "y": 671,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Beenie HQ",
+                "name": "Beenie HQ Back",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -76,53 +49,33 @@
                 ],
                 "sections": [
                     {
-                        "name": "Store Crayon - ",
-                        "ref": "Beenie HQ/Front/Store Crayon/"
-                    },
-                    {
-                        "name": "Store Evil Fish - ",
-                        "ref": "Beenie HQ/Front/Store Evil Fish/"
-                    },
-                    {
-                        "name": "Store Patrick OHara - ",
-                        "ref": "Beenie HQ/Front/Store Patrick OHara/"
-                    },
-                    {
-                        "name": "Store Toaster - ",
-                        "ref": "Beenie HQ/Inside/Store Toaster/"
-                    },
-                    {
-                        "name": "Store Beenie the Birthday Boy - ",
-                        "ref": "Beenie HQ/Inside/Store Beenie the Birthday Boy/"
-                    },
-                    {
                         "name": "Store Letter B - ",
-                        "ref": "Beenie HQ/Back/Store Letter B/"
+                        "ref": "Beenie HQ Back/Store Letter B/"
                     },
                     {
                         "name": "Store Brick - ",
-                        "ref": "Beenie HQ/Back/Store Brick/"
+                        "ref": "Beenie HQ Back/Store Brick/"
                     },
                     {
                         "name": "Store Beach Ball - ",
-                        "ref": "Beenie HQ/Back/Store Beach Ball/"
+                        "ref": "Beenie HQ Back/Store Beach Ball/"
                     },
                     {
                         "name": "Store Book Stack - ",
-                        "ref": "Beenie HQ/Back/Store Book Stack/"
+                        "ref": "Beenie HQ Back/Store Book Stack/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2169,
-                        "y": 2263,
+                        "x": 776,
+                        "y": 970,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Behrman Speedway",
+                "name": "Beenie HQ Front",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -131,15 +84,94 @@
                 ],
                 "sections": [
                     {
-                        "name": "Complete Behrman Speedway in under 1 minute - ",
-                        "ref": "Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
+                        "name": "Keksz Cat - Store Keksz Cat",
+                        "ref": "Beenie HQ Back/Keksz Cat/Store Keksz Cat"
+                    },
+                    {
+                        "name": "Keksz Cat - Find Keksz Cat",
+                        "ref": "Beenie HQ Back/Keksz Cat/Find Keksz Cat"
+                    },
+                    {
+                        "name": "Store Crayon - ",
+                        "ref": "Beenie HQ Front/Store Crayon/"
+                    },
+                    {
+                        "name": "Store Pirate - ",
+                        "ref": "Beenie HQ Front/Fish Vore/Store Pirate"
+                    },
+                    {
+                        "name": "Store Pirate 2 - ",
+                        "ref": "Beenie HQ Front/Fish Vore/Store Pirate 2"
+                    },
+                    {
+                        "name": "Store Pirate 3 - ",
+                        "ref": "Beenie HQ Front/Fish Vore/Store Pirate 3"
+                    },
+                    {
+                        "name": "Store Evil Fish - ",
+                        "ref": "Beenie HQ Front/Store Evil Fish/"
+                    },
+                    {
+                        "name": "Store Feral Dog - ",
+                        "ref": "Beenie HQ Front/Fields/Store Feral Dog"
+                    },
+                    {
+                        "name": "Store Windmill - ",
+                        "ref": "Beenie HQ Front/Fields/Store Windmill"
+                    },
+                    {
+                        "name": "Store Crisp - ",
+                        "ref": "Beenie HQ Front/Crisp and Crisps Undying Love/Store Crisp"
+                    },
+                    {
+                        "name": "Store Crisps Undying Love - ",
+                        "ref": "Beenie HQ Front/Crisp and Crisps Undying Love/Store Crisps Undying Love"
+                    },
+                    {
+                        "name": "Store Patrick OHara - ",
+                        "ref": "Beenie HQ Front/Store Patrick OHara/"
+                    },
+                    {
+                        "name": "Store Priestess - ",
+                        "ref": "THE MACHINE/Beenie Death/Store Priestess"
+                    },
+                    {
+                        "name": "Euro behind cross - ",
+                        "ref": "THE MACHINE/Beenie Death/Euro behind cross"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1993,
-                        "y": 881,
+                        "x": 649,
+                        "y": 1900,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Beenie HQ Inside",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Toaster - ",
+                        "ref": "Beenie HQ Inside/Store Toaster/"
+                    },
+                    {
+                        "name": "Store Beenie the Birthday Boy - ",
+                        "ref": "Beenie HQ Inside/Store Beenie the Birthday Boy/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 829,
+                        "y": 1112,
                         "size": 6
                     }
                 ]
@@ -154,8 +186,12 @@
                 ],
                 "sections": [
                     {
-                        "name": "Store boingler Cat - ",
-                        "ref": "Bildal Mines/Store boingler Cat/"
+                        "name": "boingler Cat - Store boingler Cat",
+                        "ref": "Bildal Mines/boingler Cat/Store boingler Cat"
+                    },
+                    {
+                        "name": "boingler Cat - Find boingler Cat",
+                        "ref": "Bildal Mines/boingler Cat/Find boingler Cat"
                     },
                     {
                         "name": "Store Pickaxe - ",
@@ -164,17 +200,13 @@
                     {
                         "name": "Store Broken Wall - ",
                         "ref": "Bildal Mines/Store Broken Wall/"
-                    },
-                    {
-                        "name": "Find boingler Cat - ",
-                        "ref": "Bildal Mines/boingler Cat/Find boingler Cat/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 516,
-                        "y": 1914,
+                        "x": 2028,
+                        "y": 2089,
                         "size": 6
                     }
                 ]
@@ -189,137 +221,335 @@
                 ],
                 "sections": [
                     {
-                        "name": "Store My Favourite Chair - ",
-                        "ref": "Blimbo City/PURGATORY/Store My Favourite Chair/"
+                        "name": "Store Cricket Bat - ",
+                        "ref": "Blimbo City/Cricket/Store Cricket Bat/"
                     },
                     {
-                        "name": "Store Cooling Rod - ",
-                        "ref": "Blimbo City/Reactor/Store Cooling Rod/"
-                    },
-                    {
-                        "name": "Store Warning - ",
-                        "ref": "Blimbo City/Reactor/Store Warning/"
-                    },
-                    {
-                        "name": "Store Demon Core - ",
-                        "ref": "Blimbo City/Reactor/Store Demon Core/"
-                    },
-                    {
-                        "name": "Store Fone - ",
-                        "ref": "Blimbo City/Bottom Main/Store Fone/"
-                    },
-                    {
-                        "name": "Store Radiator - ",
-                        "ref": "Blimbo City/Bottom Main/Store Radiator/"
-                    },
-                    {
-                        "name": "Store Evil Raccoon - ",
-                        "ref": "Blimbo City/Bottom Main/Store Evil Raccoon/"
-                    },
-                    {
-                        "name": "Store Naked Fella - ",
-                        "ref": "Blimbo City/Bottom Main/Store Naked Fella/"
-                    },
-                    {
-                        "name": "Store Bell Boy - ",
-                        "ref": "Blimbo City/Bottom Main/Store Bell Boy/"
-                    },
-                    {
-                        "name": "Store TV Remote - ",
-                        "ref": "Blimbo City/Bottom Main/Store TV Remote/"
-                    },
-                    {
-                        "name": "Store Yolky - ",
-                        "ref": "Blimbo City/Bottom Main/Store Yolky/"
-                    },
-                    {
-                        "name": "Euro on watertower - ",
-                        "ref": "Blimbo City/Bottom Main/Euro on watertower/"
-                    },
-                    {
-                        "name": "Euro near boat on edge of city - ",
-                        "ref": "Blimbo City/Bottom Main/Euro near boat on edge of city/"
+                        "name": "Store Cricket - ",
+                        "ref": "Blimbo City/Cricket/Store Cricket/"
                     },
                     {
                         "name": "Store Coffee Cup - ",
                         "ref": "Blimbo City/Store Coffee Cup/"
-                    },
-                    {
-                        "name": "Store Bin - ",
-                        "ref": "Blimbo City/Middle/Store Bin/"
-                    },
-                    {
-                        "name": "Store Apple - ",
-                        "ref": "Blimbo City/Middle/Store Apple/"
-                    },
-                    {
-                        "name": "Store Patrick O Bobble - ",
-                        "ref": "Blimbo City/Middle/Store Patrick O Bobble/"
-                    },
-                    {
-                        "name": "Euro near Guns stands - ",
-                        "ref": "Blimbo City/Middle/Euro near Guns stands/"
-                    },
-                    {
-                        "name": "Euro under city on girders 3 - ",
-                        "ref": "Blimbo City/Middle/Euro under city on girders 3/"
-                    },
-                    {
-                        "name": "Euro near cheese wheel - ",
-                        "ref": "Blimbo City/Middle/Euro near cheese wheel/"
-                    },
-                    {
-                        "name": "Store Suitcase - ",
-                        "ref": "Blimbo City/Upper Towers/Store Suitcase/"
-                    },
-                    {
-                        "name": "Store Dice - ",
-                        "ref": "Blimbo City/Upper Towers/Store Dice/"
-                    },
-                    {
-                        "name": "Store Cheeky Pint - ",
-                        "ref": "Blimbo City/Pub/Store Cheeky Pint/"
-                    },
-                    {
-                        "name": "Find Patty Hat - ",
-                        "ref": "Blimbo City/Pub/Find Patty Hat/"
-                    },
-                    {
-                        "name": "Store Average Canadian - ",
-                        "ref": "Blimbo City/Top/Store Average Canadian/"
-                    },
-                    {
-                        "name": "Euro at Robin P. Bobin Store - ",
-                        "ref": "Blimbo City/Middle Back/Euro at Robin P. Bobin Store/"
-                    },
-                    {
-                        "name": "Euro next to Robin P. Bobin Store - ",
-                        "ref": "Blimbo City/Middle Back/Euro next to Robin P. Bobin Store/"
-                    },
-                    {
-                        "name": "Euro under city on girders 1 - ",
-                        "ref": "Blimbo City/Girders/Euro under city on girders 1/"
-                    },
-                    {
-                        "name": "Euro under city on girders 2 - ",
-                        "ref": "Blimbo City/Girders/Euro under city on girders 2/"
-                    },
-                    {
-                        "name": "Euro under city on girders 4 - ",
-                        "ref": "Blimbo City/Middle Casino/Euro under city on girders 4/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2320,
-                        "y": 1816,
+                        "x": 1965,
+                        "y": 1317,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Blimbo Village",
+                "name": "Blimbo City Bottom Main",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Fone - ",
+                        "ref": "Blimbo City Bottom Main/Store Fone/"
+                    },
+                    {
+                        "name": "Store Radiator - ",
+                        "ref": "Blimbo City Bottom Main/Store Radiator/"
+                    },
+                    {
+                        "name": "Store Evil Raccoon - ",
+                        "ref": "Blimbo City Bottom Main/Store Evil Raccoon/"
+                    },
+                    {
+                        "name": "Store Naked Fella - ",
+                        "ref": "Blimbo City Bottom Main/Store Naked Fella/"
+                    },
+                    {
+                        "name": "Store Bell Boy - ",
+                        "ref": "Blimbo City Bottom Main/Store Bell Boy/"
+                    },
+                    {
+                        "name": "Store TV Remote - ",
+                        "ref": "Blimbo City Bottom Main/Store TV Remote/"
+                    },
+                    {
+                        "name": "Store Yolky - ",
+                        "ref": "Blimbo City Bottom Main/Store Yolky/"
+                    },
+                    {
+                        "name": "Euro on watertower - ",
+                        "ref": "Blimbo City Bottom Main/Euro on watertower/"
+                    },
+                    {
+                        "name": "Euro near boat on edge of city - ",
+                        "ref": "Blimbo City Bottom Main/Euro near boat on edge of city/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1252,
+                        "y": 2046,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City Girders",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Euro under city on girders 1 - ",
+                        "ref": "Blimbo City Girders/Euro under city on girders 1/"
+                    },
+                    {
+                        "name": "Euro under city on girders 2 - ",
+                        "ref": "Blimbo City Girders/Euro under city on girders 2/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2069,
+                        "y": 1505,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City Middle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Bin - ",
+                        "ref": "Blimbo City Middle/Store Bin/"
+                    },
+                    {
+                        "name": "Store Apple - ",
+                        "ref": "Blimbo City Middle/Store Apple/"
+                    },
+                    {
+                        "name": "Store Patrick O Bobble - ",
+                        "ref": "Blimbo City Middle/Store Patrick O Bobble/"
+                    },
+                    {
+                        "name": "Euro near Guns stands - ",
+                        "ref": "Blimbo City Middle/Euro near Guns stands/"
+                    },
+                    {
+                        "name": "Euro under city on girders 3 - ",
+                        "ref": "Blimbo City Middle/Euro under city on girders 3/"
+                    },
+                    {
+                        "name": "Euro near cheese wheel - ",
+                        "ref": "Blimbo City Middle/Euro near cheese wheel/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1164,
+                        "y": 1311,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City Middle Back",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Euro at Robin P. Bobin Store - ",
+                        "ref": "Blimbo City Middle Back/Euro at Robin P. Bobin Store/"
+                    },
+                    {
+                        "name": "Euro next to Robin P. Bobin Store - ",
+                        "ref": "Blimbo City Middle Back/Euro next to Robin P. Bobin Store/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 877,
+                        "y": 111,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City Middle Casino",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Euro under city on girders 4 - ",
+                        "ref": "Blimbo City Middle Casino/Euro under city on girders 4/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 649,
+                        "y": 1749,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City PURGATORY",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store My Favourite Chair - ",
+                        "ref": "Blimbo City PURGATORY/Store My Favourite Chair/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 38,
+                        "y": 2176,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City Pub",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Cheeky Pint - ",
+                        "ref": "Blimbo City Pub/Store Cheeky Pint/"
+                    },
+                    {
+                        "name": "Find Patty Hat - ",
+                        "ref": "Blimbo City Pub/Find Patty Hat/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 75,
+                        "y": 161,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City Reactor",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Cooling Rod - ",
+                        "ref": "Blimbo City Reactor/Store Cooling Rod/"
+                    },
+                    {
+                        "name": "Store Warning - ",
+                        "ref": "Blimbo City Reactor/Store Warning/"
+                    },
+                    {
+                        "name": "Store Demon Core - ",
+                        "ref": "Blimbo City Reactor/Store Demon Core/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1450,
+                        "y": 1081,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City Top",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Average Canadian - ",
+                        "ref": "Blimbo City Top/Store Average Canadian/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1063,
+                        "y": 80,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City Upper Towers",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Suitcase - ",
+                        "ref": "Blimbo City Upper Towers/Store Suitcase/"
+                    },
+                    {
+                        "name": "Store Dice - ",
+                        "ref": "Blimbo City Upper Towers/Store Dice/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1995,
+                        "y": 1387,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo Village Start",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -329,94 +559,121 @@
                 "sections": [
                     {
                         "name": "Store Under Construction - ",
-                        "ref": "Blimbo Village/Start/Store Under Construction/"
+                        "ref": "Blimbo Village Start/Store Under Construction/"
                     },
                     {
                         "name": "Store ROAD NOT DONE - ",
-                        "ref": "Blimbo Village/Start/Store ROAD NOT DONE/"
+                        "ref": "Blimbo Village Start/Store ROAD NOT DONE/"
                     },
                     {
                         "name": "Store Blimbo Village Sign - ",
-                        "ref": "Blimbo Village/Start/Store Blimbo Village Sign/"
+                        "ref": "Blimbo Village Start/Store Blimbo Village Sign/"
                     },
                     {
                         "name": "Store Ougham Stone - ",
-                        "ref": "Blimbo Village/Start/Store Ougham Stone/"
+                        "ref": "Blimbo Village Start/Store Ougham Stone/"
                     },
                     {
                         "name": "Store Cow - ",
-                        "ref": "Blimbo Village/Start/Store Cow/"
+                        "ref": "Blimbo Village Start/Store Cow/"
                     },
                     {
                         "name": "Store Old Ass Rusty Ass Key - ",
-                        "ref": "Blimbo Village/Start/Store Old Ass Rusty Ass Key/"
+                        "ref": "Blimbo Village Start/Store Old Ass Rusty Ass Key/"
+                    },
+                    {
+                        "name": "Store Eel Can - ",
+                        "ref": "Blimbo Village Start/Forest/Store Eel Can/"
+                    },
+                    {
+                        "name": "Find Raccoon Hat - ",
+                        "ref": "Blimbo Village Start/Forest/Find Raccoon Hat/"
+                    },
+                    {
+                        "name": "Kei Truck Score - Get 1000 Score with Kei Truck",
+                        "ref": "Blimbo Village Start/Kei Truck Score/Get 1000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Kei Truck Score - Get 2000 Score with Kei Truck",
+                        "ref": "Blimbo Village Start/Kei Truck Score/Get 2000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Kei Truck Score - Get 3000 Score with Kei Truck",
+                        "ref": "Blimbo Village Start/Kei Truck Score/Get 3000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Kei Truck Score - Get 4000 Score with Kei Truck",
+                        "ref": "Blimbo Village Start/Kei Truck Score/Get 4000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Kei Truck Score - Get 5000 Score with Kei Truck",
+                        "ref": "Blimbo Village Start/Kei Truck Score/Get 5000 Score with Kei Truck"
                     },
                     {
                         "name": "Find Media Player Hat - ",
-                        "ref": "Blimbo Village/Start/Find Media Player Hat/"
-                    },
-                    {
-                        "name": "Store Plimbo - ",
-                        "ref": "Blimbo Village/Town/Store Plimbo/"
-                    },
-                    {
-                        "name": "Store CHEESE - ",
-                        "ref": "Blimbo Village/Town/Store CHEESE/"
-                    },
-                    {
-                        "name": "Store Gas Drum - ",
-                        "ref": "Blimbo Village/Town/Store Gas Drum/"
-                    },
-                    {
-                        "name": "Store Door - ",
-                        "ref": "Blimbo Village/Town/Store Door/"
-                    },
-                    {
-                        "name": "Purchase Kei Truck Radio - ",
-                        "ref": "Blimbo Village/Town/Purchase Kei Truck Radio/"
-                    },
-                    {
-                        "name": "Purchase Kei Truck Toaster - ",
-                        "ref": "Blimbo Village/Town/Purchase Kei Truck Toaster/"
-                    },
-                    {
-                        "name": "Purchase Kei Truck Boost - ",
-                        "ref": "Blimbo Village/Town/Purchase Kei Truck Boost/"
-                    },
-                    {
-                        "name": "Euro on castle - ",
-                        "ref": "Blimbo Village/Town/Euro on castle/"
-                    },
-                    {
-                        "name": "Euro near furnace - ",
-                        "ref": "Blimbo Village/Town/Euro near furnace/"
-                    },
-                    {
-                        "name": "Get 1000 Score with Kei Truck - ",
-                        "ref": "Blimbo Village/Get 1000 Score with Kei Truck/"
-                    },
-                    {
-                        "name": "Get 2000 Score with Kei Truck - ",
-                        "ref": "Blimbo Village/Get 2000 Score with Kei Truck/"
-                    },
-                    {
-                        "name": "Get 3000 Score with Kei Truck - ",
-                        "ref": "Blimbo Village/Get 3000 Score with Kei Truck/"
-                    },
-                    {
-                        "name": "Get 4000 Score with Kei Truck - ",
-                        "ref": "Blimbo Village/Get 4000 Score with Kei Truck/"
-                    },
-                    {
-                        "name": "Get 5000 Score with Kei Truck - ",
-                        "ref": "Blimbo Village/Get 5000 Score with Kei Truck/"
+                        "ref": "Blimbo Village Start/Find Media Player Hat/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 455,
-                        "y": 1706,
+                        "x": 1267,
+                        "y": 145,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo Village Town",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Plimbo - ",
+                        "ref": "Blimbo Village Town/Store Plimbo/"
+                    },
+                    {
+                        "name": "Store CHEESE - ",
+                        "ref": "Blimbo Village Town/Store CHEESE/"
+                    },
+                    {
+                        "name": "Store Gas Drum - ",
+                        "ref": "Blimbo Village Town/Store Gas Drum/"
+                    },
+                    {
+                        "name": "Store Door - ",
+                        "ref": "Blimbo Village Town/Store Door/"
+                    },
+                    {
+                        "name": "Purchase Kei Truck Radio - ",
+                        "ref": "Blimbo Village Town/Purchase Kei Truck Radio/"
+                    },
+                    {
+                        "name": "Purchase Kei Truck Toaster - ",
+                        "ref": "Blimbo Village Town/Purchase Kei Truck Toaster/"
+                    },
+                    {
+                        "name": "Purchase Kei Truck Boost - ",
+                        "ref": "Blimbo Village Town/Purchase Kei Truck Boost/"
+                    },
+                    {
+                        "name": "Euro on castle - ",
+                        "ref": "Blimbo Village Town/Euro on castle/"
+                    },
+                    {
+                        "name": "Euro near furnace - ",
+                        "ref": "Blimbo Village Town/Euro near furnace/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1052,
+                        "y": 389,
                         "size": 6
                     }
                 ]
@@ -432,196 +689,49 @@
                 "sections": [
                     {
                         "name": "Store Anti Sads - ",
-                        "ref": "Canyon/Pharmacy/Store Anti Sads/"
+                        "ref": "Canyon/Pharmacy/Store Anti Sads"
                     },
                     {
                         "name": "Store Leeches! - ",
-                        "ref": "Canyon/Pharmacy/Store Leeches!/"
-                    },
+                        "ref": "Canyon/Pharmacy/Store Leeches!"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 517,
+                        "y": 1637,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Canyon Main",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
                     {
                         "name": "Store BookBlo - ",
-                        "ref": "Canyon/Main/Store BookBlo/"
+                        "ref": "Canyon Main/Store BookBlo/"
                     },
                     {
                         "name": "Store Cheese Wife - ",
-                        "ref": "Canyon/Main/Store Cheese Wife/"
+                        "ref": "Canyon Main/Store Cheese Wife/"
                     },
                     {
                         "name": "Euro on edge of canyon - ",
-                        "ref": "Canyon/Main/Euro on edge of canyon/"
+                        "ref": "Canyon Main/Euro on edge of canyon/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2094,
-                        "y": 1276,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Chamber",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Michi Cat - ",
-                        "ref": "Chamber/Michi Cat/Store Michi Cat/"
-                    },
-                    {
-                        "name": "Find Michi Cat - ",
-                        "ref": "Chamber/Michi Cat/Find Michi Cat/"
-                    },
-                    {
-                        "name": "Act 2 - ",
-                        "ref": "Chamber/Eat Mystical Dumbbell/Act 2/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 1919,
-                        "y": 282,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Chicken Farm",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Chicken - ",
-                        "ref": "Chicken Farm/Store Chicken/"
-                    },
-                    {
-                        "name": "Find Sombrero - ",
-                        "ref": "Chicken Farm/Find Sombrero/"
-                    },
-                    {
-                        "name": "Euro on pillar - ",
-                        "ref": "Chicken Farm/Euro on pillar/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 177,
-                        "y": 765,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Church",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Folding Chair - ",
-                        "ref": "Church/Store Folding Chair/"
-                    },
-                    {
-                        "name": "Store GREENISH ABOMINATION - ",
-                        "ref": "Church/Store GREENISH ABOMINATION/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 1411,
-                        "y": 61,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Cleaners",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Washing Machine - ",
-                        "ref": "Cleaners/Store Washing Machine/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 932,
-                        "y": 1806,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Cliffs of Nowher",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Butterfly - ",
-                        "ref": "Cliffs of Nowher/Store Butterfly/"
-                    },
-                    {
-                        "name": "Store Lughling - ",
-                        "ref": "Cliffs of Nowher/Store Lughling/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 2003,
-                        "y": 484,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Cricket",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Cricket Bat - ",
-                        "ref": "Cricket/Store Cricket Bat/"
-                    },
-                    {
-                        "name": "Store Cricket - ",
-                        "ref": "Cricket/Store Cricket/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 2321,
-                        "y": 458,
+                        "x": 217,
+                        "y": 2281,
                         "size": 6
                     }
                 ]
@@ -652,6 +762,14 @@
                         "ref": "Desert/Store Fridge Kings Cooling Rod/"
                     },
                     {
+                        "name": "Store Butterfly - ",
+                        "ref": "Desert/Cliffs of Nowher/Store Butterfly/"
+                    },
+                    {
+                        "name": "Store Lughling - ",
+                        "ref": "Desert/Cliffs of Nowher/Store Lughling/"
+                    },
+                    {
                         "name": "Find Fridge Crown - ",
                         "ref": "Desert/Find Fridge Crown/"
                     },
@@ -660,28 +778,28 @@
                         "ref": "Desert/Euro on tilted building/"
                     },
                     {
-                        "name": "Euro in moai head pool 1 - ",
-                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 1/"
+                        "name": "Moai Head Euro - Euro in moai head pool 1",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 1"
                     },
                     {
-                        "name": "Euro in moai head pool 2 - ",
-                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 2/"
+                        "name": "Moai Head Euro - Euro in moai head pool 2",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 2"
                     },
                     {
-                        "name": "Euro in moai head pool 3 - ",
-                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 3/"
+                        "name": "Moai Head Euro - Euro in moai head pool 3",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 3"
                     },
                     {
-                        "name": "Euro in moai head pool 4 - ",
-                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 4/"
+                        "name": "Moai Head Euro - Euro in moai head pool 4",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 4"
                     },
                     {
-                        "name": "Euro in moai head pool 5 - ",
-                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 5/"
+                        "name": "Moai Head Euro - Euro in moai head pool 5",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 5"
                     },
                     {
-                        "name": "Euro in moai head pool 6 - ",
-                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 6/"
+                        "name": "Moai Head Euro - Euro in moai head pool 6",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 6"
                     },
                     {
                         "name": "Euro on pillar near MFC - ",
@@ -711,8 +829,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1649,
-                        "y": 1851,
+                        "x": 2001,
+                        "y": 1301,
                         "size": 6
                     }
                 ]
@@ -734,8 +852,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1518,
-                        "y": 773,
+                        "x": 1637,
+                        "y": 252,
                         "size": 6
                     }
                 ]
@@ -751,107 +869,14 @@
                 "sections": [
                     {
                         "name": "Store Milk Klubnika - ",
-                        "ref": "FRIDGE WORLD/Store Milk Klubnika/"
+                        "ref": "Trasco Carpark/Store Milk Klubnika/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2262,
-                        "y": 615,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Fields",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Feral Dog - ",
-                        "ref": "Fields/Store Feral Dog/"
-                    },
-                    {
-                        "name": "Store Windmill - ",
-                        "ref": "Fields/Store Windmill/"
-                    },
-                    {
-                        "name": "Store Crisp - ",
-                        "ref": "Fields/Store Crisp/"
-                    },
-                    {
-                        "name": "Store Crisps Undying Love - ",
-                        "ref": "Fields/Store Crisps Undying Love/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 751,
-                        "y": 747,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Fish Vore",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Pirate - ",
-                        "ref": "Fish Vore/Store Pirate/"
-                    },
-                    {
-                        "name": "Store Pirate 2 - ",
-                        "ref": "Fish Vore/Store Pirate 2/"
-                    },
-                    {
-                        "name": "Store Pirate 3 - ",
-                        "ref": "Fish Vore/Store Pirate 3/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 2307,
-                        "y": 1202,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Forest",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Eel Can - ",
-                        "ref": "Forest/Store Eel Can/"
-                    },
-                    {
-                        "name": "Find Raccoon Hat - ",
-                        "ref": "Forest/Find Raccoon Hat/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 1347,
-                        "y": 1656,
+                        "x": 2162,
+                        "y": 1432,
                         "size": 6
                     }
                 ]
@@ -872,19 +897,58 @@
                     {
                         "name": "Store Radio Blimbo - ",
                         "ref": "Garden/Store Radio Blimbo/"
+                    },
+                    {
+                        "name": "Eat Purple Mystical Gem - ",
+                        "ref": "Garden/Mikk Barge/Eat Purple Mystical Gem/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2463,
-                        "y": 309,
+                        "x": 194,
+                        "y": 2276,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Gym",
+                "name": "Gym Inside",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Funbells - ",
+                        "ref": "Gym Inside/Store Funbells/"
+                    },
+                    {
+                        "name": "Store Washing Machine - ",
+                        "ref": "Gym Outside/Cleaners/Store Washing Machine/"
+                    },
+                    {
+                        "name": "Store Paracetamol 650mg - ",
+                        "ref": "Gym Inside/Store Paracetamol 650mg/"
+                    },
+                    {
+                        "name": "Act 1 - ",
+                        "ref": "Gym Inside/Eat Mystical Dumbbell/Act 1/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 751,
+                        "y": 495,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Gym Outside",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -894,64 +958,52 @@
                 "sections": [
                     {
                         "name": "Store Moai - ",
-                        "ref": "Gym/Outside/Store Moai/"
+                        "ref": "Gym Outside/Store Moai/"
                     },
                     {
                         "name": "Store Radio - ",
-                        "ref": "Gym/Outside/Store Radio/"
+                        "ref": "Gym Outside/Store Radio/"
                     },
                     {
-                        "name": "Store Concrete Cat - ",
-                        "ref": "Gym/Outside/Store Concrete Cat/"
+                        "name": "Concrete Cat - Store Concrete Cat",
+                        "ref": "Gym Outside/Concrete Cat/Store Concrete Cat"
+                    },
+                    {
+                        "name": "Concrete Cat - Find Concrete Cat",
+                        "ref": "Gym Outside/Concrete Cat/Find Concrete Cat"
                     },
                     {
                         "name": "Store Digital Polaroid Camera - ",
-                        "ref": "Gym/Outside/Store Digital Polaroid Camera/"
-                    },
-                    {
-                        "name": "Find Concrete Cat - ",
-                        "ref": "Gym/Outside/Concrete Cat/Find Concrete Cat/"
+                        "ref": "Gym Outside/Store Digital Polaroid Camera/"
                     },
                     {
                         "name": "Euro on roof with vending machine - ",
-                        "ref": "Gym/Outside/Euro on roof with vending machine/"
+                        "ref": "Gym Outside/Euro on roof with vending machine/"
                     },
                     {
                         "name": "Euro behind building - ",
-                        "ref": "Gym/Outside/Euro behind building/"
+                        "ref": "Gym Outside/Euro behind building/"
                     },
                     {
                         "name": "Euro at end of train tracks - ",
-                        "ref": "Gym/Outside/Euro at end of train tracks/"
+                        "ref": "Gym Outside/Euro at end of train tracks/"
                     },
                     {
                         "name": "Euro on bee sign under clouds - ",
-                        "ref": "Gym/Outside/Euro on bee sign under clouds/"
-                    },
-                    {
-                        "name": "Store Funbells - ",
-                        "ref": "Gym/Inside/Store Funbells/"
-                    },
-                    {
-                        "name": "Store Paracetamol 650mg - ",
-                        "ref": "Gym/Inside/Store Paracetamol 650mg/"
-                    },
-                    {
-                        "name": "Act 1 - ",
-                        "ref": "Gym/Inside/Eat Mystical Dumbbell/Act 1/"
+                        "ref": "Gym Outside/Euro on bee sign under clouds/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1978,
-                        "y": 2122,
+                        "x": 2174,
+                        "y": 869,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Hat Store",
+                "name": "Howth End",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -960,25 +1012,21 @@
                 ],
                 "sections": [
                     {
-                        "name": "Store Ms. Heel - ",
-                        "ref": "Hat Store/Store Ms. Heel/"
-                    },
-                    {
-                        "name": "Store Mr. Heel - ",
-                        "ref": "Hat Store/Store Mr. Heel/"
+                        "name": "Eat Blue Mystical Gem - ",
+                        "ref": "Howth End/Eat Blue Mystical Gem/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2039,
-                        "y": 2422,
+                        "x": 2071,
+                        "y": 1810,
                         "size": 6
                     }
                 ]
             },
             {
-                "name": "Howth",
+                "name": "Howth Start",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -988,45 +1036,18 @@
                 "sections": [
                     {
                         "name": "Store Street Lamp - ",
-                        "ref": "Howth/Start/Store Street Lamp/"
+                        "ref": "Howth Start/Store Street Lamp/"
                     },
                     {
                         "name": "Store Kettle - ",
-                        "ref": "Howth/Start/Store Kettle/"
-                    },
-                    {
-                        "name": "Eat Blue Mystical Gem - ",
-                        "ref": "Howth/End/Eat Blue Mystical Gem/"
+                        "ref": "Howth Start/Store Kettle/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1330,
-                        "y": 1276,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Mikk Barge",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Eat Purple Mystical Gem - ",
-                        "ref": "Mikk Barge/Eat Purple Mystical Gem/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 18,
-                        "y": 1469,
+                        "x": 1562,
+                        "y": 1466,
                         "size": 6
                     }
                 ]
@@ -1096,8 +1117,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1333,
-                        "y": 750,
+                        "x": 60,
+                        "y": 911,
                         "size": 6
                     }
                 ]
@@ -1111,6 +1132,18 @@
                     " "
                 ],
                 "sections": [
+                    {
+                        "name": "Store Michi Cat - ",
+                        "ref": "Museum/Chamber/Store Michi Cat/"
+                    },
+                    {
+                        "name": "Act 2 - ",
+                        "ref": "Museum/Chamber/Act 2/"
+                    },
+                    {
+                        "name": "Find Michi Cat - ",
+                        "ref": "Museum/Chamber/Find Michi Cat/"
+                    },
                     {
                         "name": "Store Logan Left - ",
                         "ref": "Museum/Store Logan Left/"
@@ -1159,8 +1192,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 991,
-                        "y": 854,
+                        "x": 2214,
+                        "y": 421,
                         "size": 6
                     }
                 ]
@@ -1183,8 +1216,12 @@
                         "ref": "Norwich/Store Gym/"
                     },
                     {
-                        "name": "Store Vending Machine (accepts doubloons) - ",
-                        "ref": "Norwich/Store Vending Machine (accepts doubloons)/"
+                        "name": "Vending Machine and Brob Energy - Store Vending Machine (accepts doubloons)",
+                        "ref": "Norwich/Vending Machine and Brob Energy/Store Vending Machine (accepts doubloons)"
+                    },
+                    {
+                        "name": "Vending Machine and Brob Energy - Store Brob Energy",
+                        "ref": "Norwich/Vending Machine and Brob Energy/Store Brob Energy"
                     },
                     {
                         "name": "Store DOUBLOONS - ",
@@ -1195,12 +1232,24 @@
                         "ref": "Norwich/Store unregistered firearm/"
                     },
                     {
-                        "name": "Store Michelle Cat - ",
-                        "ref": "Norwich/Store Michelle Cat/"
+                        "name": "Chicken Farm - Store Chicken",
+                        "ref": "Norwich/Chicken Farm/Store Chicken"
                     },
                     {
-                        "name": "Store Brob Energy - ",
-                        "ref": "Norwich/Store Brob Energy/"
+                        "name": "Chicken Farm - Find Sombrero",
+                        "ref": "Norwich/Chicken Farm/Find Sombrero"
+                    },
+                    {
+                        "name": "Chicken Farm - Euro on pillar",
+                        "ref": "Norwich/Chicken Farm/Euro on pillar"
+                    },
+                    {
+                        "name": "Michelle Cat - Store Michelle Cat",
+                        "ref": "Norwich/Michelle Cat/Store Michelle Cat"
+                    },
+                    {
+                        "name": "Michelle Cat - Find Michelle Cat",
+                        "ref": "Norwich/Michelle Cat/Find Michelle Cat"
                     },
                     {
                         "name": "Store Heavy Stone Torch - ",
@@ -1223,12 +1272,24 @@
                         "ref": "Norwich/Store Toastie/"
                     },
                     {
+                        "name": "Church - Store Folding Chair",
+                        "ref": "Norwich/Church/Store Folding Chair"
+                    },
+                    {
+                        "name": "Church - Store GREENISH ABOMINATION",
+                        "ref": "Norwich/Church/Store GREENISH ABOMINATION"
+                    },
+                    {
                         "name": "Store Flower Blimbo - ",
                         "ref": "Norwich/Store Flower Blimbo/"
                     },
                     {
-                        "name": "Find Michelle Cat - ",
-                        "ref": "Norwich/Michelle Cat/Find Michelle Cat/"
+                        "name": "Store Ms. Heel - ",
+                        "ref": "Norwich/Hat Store/Store Ms. Heel"
+                    },
+                    {
+                        "name": "Store Mr. Heel - ",
+                        "ref": "Norwich/Hat Store/Store Mr. Heel"
                     },
                     {
                         "name": "Find Sun Hat - ",
@@ -1241,13 +1302,17 @@
                     {
                         "name": "Euro at chicken farm island - ",
                         "ref": "Norwich/Euro at chicken farm island/"
+                    },
+                    {
+                        "name": "Complete Behrman Speedway in under 1 minute - ",
+                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1823,
-                        "y": 2035,
+                        "x": 2262,
+                        "y": 2043,
                         "size": 6
                     }
                 ]
@@ -1281,8 +1346,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1482,
-                        "y": 1034,
+                        "x": 1132,
+                        "y": 1535,
                         "size": 6
                     }
                 ]
@@ -1320,8 +1385,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2401,
-                        "y": 2287,
+                        "x": 1249,
+                        "y": 761,
                         "size": 6
                     }
                 ]
@@ -1363,39 +1428,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1110,
-                        "y": 2104,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "THE MACHINE",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Beenie, Our Savior - ",
-                        "ref": "THE MACHINE/Store Beenie, Our Savior/"
-                    },
-                    {
-                        "name": "Store Candle - ",
-                        "ref": "THE MACHINE/Store Candle/"
-                    },
-                    {
-                        "name": "Store Beenie Saves The Orphans - ",
-                        "ref": "THE MACHINE/Store Beenie Saves The Orphans/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 2132,
-                        "y": 1795,
+                        "x": 2495,
+                        "y": 940,
                         "size": 6
                     }
                 ]
@@ -1421,8 +1455,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 776,
-                        "y": 2019,
+                        "x": 1356,
+                        "y": 1657,
                         "size": 6
                     }
                 ]
@@ -1445,6 +1479,18 @@
                         "ref": "The Process/Store Microwave/"
                     },
                     {
+                        "name": "Store Beenie, Our Savior - ",
+                        "ref": "THE MACHINE/Store Beenie, Our Savior"
+                    },
+                    {
+                        "name": "Store Candle - ",
+                        "ref": "THE MACHINE/Store Candle"
+                    },
+                    {
+                        "name": "Store Beenie Saves The Orphans - ",
+                        "ref": "THE MACHINE/Store Beenie Saves The Orphans"
+                    },
+                    {
                         "name": "Store Beautiful Flower - ",
                         "ref": "The Process/Store Beautiful Flower/"
                     },
@@ -1460,8 +1506,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1031,
-                        "y": 1490,
+                        "x": 2431,
+                        "y": 1381,
                         "size": 6
                     }
                 ]
@@ -1476,113 +1522,47 @@
                 ],
                 "sections": [
                     {
-                        "name": "Store Fridge Key - ",
-                        "ref": "Trasco Carpark/Main/Store Fridge Key/"
-                    },
-                    {
-                        "name": "Store Coffee Shop (closed) - ",
-                        "ref": "Trasco Carpark/Main/Store Coffee Shop (closed)/"
-                    },
-                    {
-                        "name": "Store Trolley - ",
-                        "ref": "Trasco Carpark/Main/Store Trolley/"
-                    },
-                    {
-                        "name": "Store Fridge - ",
-                        "ref": "Trasco Carpark/Main/Store Fridge/"
-                    },
-                    {
-                        "name": "Store CD Player - ",
-                        "ref": "Trasco Carpark/Piss Shrine/Store CD Player/"
-                    },
-                    {
                         "name": "Act 3 - ",
                         "ref": "Trasco Carpark/Eat Mystical Dumbbell/Act 3/"
                     },
                     {
-                        "name": "Euro on edge wall 1 - ",
-                        "ref": "Trasco Carpark/Side/Euro on edge wall 1/"
+                        "name": "Euro on Edge - Euro on edge wall 1",
+                        "ref": "Trasco Carpark/Euro on Edge/Euro on edge wall 1"
                     },
                     {
-                        "name": "Euro on edge wall 2 - ",
-                        "ref": "Trasco Carpark/Side/Euro on edge wall 2/"
+                        "name": "Euro on Edge - Euro on edge wall 2",
+                        "ref": "Trasco Carpark/Euro on Edge/Euro on edge wall 2"
                     },
                     {
-                        "name": "Euro on edge wall 3 - ",
-                        "ref": "Trasco Carpark/Side/Euro on edge wall 3/"
+                        "name": "Euro on Edge - Euro on edge wall 3",
+                        "ref": "Trasco Carpark/Euro on Edge/Euro on edge wall 3"
+                    },
+                    {
+                        "name": "Store Fridge Key - ",
+                        "ref": "Trasco Carpark/Store Fridge Key/"
+                    },
+                    {
+                        "name": "Store Coffee Shop (closed) - ",
+                        "ref": "Trasco Carpark/Store Coffee Shop (closed)/"
+                    },
+                    {
+                        "name": "Store Trolley - ",
+                        "ref": "Trasco Carpark/Store Trolley/"
+                    },
+                    {
+                        "name": "Store Fridge - ",
+                        "ref": "Trasco Carpark/Store Fridge/"
+                    },
+                    {
+                        "name": "Store CD Player - ",
+                        "ref": "Trasco Carpark/Store CD Player/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1139,
-                        "y": 1399,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Tyre World",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Orphan Tyre - ",
-                        "ref": "Tyre World/Store Orphan Tyre/"
-                    },
-                    {
-                        "name": "Store Papa Tyre - ",
-                        "ref": "Tyre World/Store Papa Tyre/"
-                    },
-                    {
-                        "name": "Store Smoker - ",
-                        "ref": "Tyre World/Store Smoker/"
-                    },
-                    {
-                        "name": "Store Broken Truck - ",
-                        "ref": "Tyre World/Store Broken Truck/"
-                    },
-                    {
-                        "name": "Euro on roof of entrance - ",
-                        "ref": "Tyre World/Euro on roof of entrance/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 372,
-                        "y": 344,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Underground Metro",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Keksz Cat - ",
-                        "ref": "Underground Metro/Store Keksz Cat/"
-                    },
-                    {
-                        "name": "Find Keksz Cat - ",
-                        "ref": "Underground Metro/Keksz Cat/Find Keksz Cat/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 1567,
-                        "y": 810,
+                        "x": 2214,
+                        "y": 1094,
                         "size": 6
                     }
                 ]
@@ -1597,16 +1577,16 @@
                 ],
                 "sections": [
                     {
-                        "name": "Store Gizmo Cat - ",
-                        "ref": "Water Zone/Store Gizmo Cat/"
+                        "name": "Gizmo Cat - Store Gizmo Cat",
+                        "ref": "Water Zone/Gizmo Cat/Store Gizmo Cat"
+                    },
+                    {
+                        "name": "Gizmo Cat - Find Gizmo Cat",
+                        "ref": "Water Zone/Gizmo Cat/Find Gizmo Cat"
                     },
                     {
                         "name": "Store Fan - ",
                         "ref": "Water Zone/Store Fan/"
-                    },
-                    {
-                        "name": "Find Gizmo Cat - ",
-                        "ref": "Water Zone/Gizmo Cat/Find Gizmo Cat/"
                     },
                     {
                         "name": "Eat Green Mystical Gem - ",
@@ -1620,8 +1600,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1264,
-                        "y": 586,
+                        "x": 12,
+                        "y": 761,
                         "size": 6
                     }
                 ]

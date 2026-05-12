@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 2023,
-                        "y": 483,
+                        "x": 1109,
+                        "y": 1139,
                         "size": 6
                     }
                 ]
@@ -52,8 +52,39 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 1606,
-                        "y": 2161,
+                        "x": 1546,
+                        "y": 112,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Concrete Cat",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Concrete Cat",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Find Concrete Cat",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gym Outside",
+                        "x": 2216,
+                        "y": 846,
                         "size": 6
                     }
                 ]
@@ -77,70 +108,9 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 1286,
-                        "y": 527,
+                        "x": 714,
+                        "y": 1508,
                         "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Concrete Cat",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "Store Concrete Cat",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gym Outside",
-                                "x": 210,
-                                "y": 289,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Find Concrete Cat",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gym Outside",
-                                "x": 2459,
-                                "y": 626,
-                                "size": 6
-                            }
-                        ]
                     }
                 ]
             },
@@ -163,8 +133,8 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 2350,
-                        "y": 2278,
+                        "x": 1497,
+                        "y": 683,
                         "size": 6
                     }
                 ]
@@ -188,8 +158,8 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 859,
-                        "y": 1915,
+                        "x": 1489,
+                        "y": 777,
                         "size": 6
                     }
                 ]
@@ -213,8 +183,8 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 441,
-                        "y": 500,
+                        "x": 1710,
+                        "y": 2396,
                         "size": 6
                     }
                 ]
@@ -238,8 +208,93 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 899,
-                        "y": 1560,
+                        "x": 1585,
+                        "y": 299,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Cleaners",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Store Washing Machine",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gym Outside",
+                                "x": 915,
+                                "y": 252,
+                                "size": 6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tyre World",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Orphan Tyre",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Store Papa Tyre",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Store Smoker",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Store Broken Truck",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Euro on roof of entrance",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gym Outside",
+                        "x": 2004,
+                        "y": 517,
                         "size": 6
                     }
                 ]

@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Gym Inside",
-                        "x": 449,
-                        "y": 2238,
+                        "x": 2335,
+                        "y": 460,
                         "size": 6
                     }
                 ]
@@ -52,8 +52,8 @@
                 "map_locations": [
                     {
                         "map": "Gym Inside",
-                        "x": 1861,
-                        "y": 1746,
+                        "x": 1990,
+                        "y": 447,
                         "size": 6
                     }
                 ]
@@ -86,8 +86,8 @@
                         "map_locations": [
                             {
                                 "map": "Gym Inside",
-                                "x": 377,
-                                "y": 670,
+                                "x": 703,
+                                "y": 1109,
                                 "size": 6
                             }
                         ]

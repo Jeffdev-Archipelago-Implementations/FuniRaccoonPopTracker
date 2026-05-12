@@ -9,6 +9,92 @@
         ],
         "children": [
             {
+                "name": "Chamber",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Store Michi Cat",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum",
+                                "x": 1656,
+                                "y": 579,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Act 2",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum",
+                                "x": 1406,
+                                "y": 751,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Find Michi Cat",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum",
+                                "x": 2494,
+                                "y": 2439,
+                                "size": 6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "name": "Store Logan Left",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -27,8 +113,8 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 532,
-                        "y": 640,
+                        "x": 2443,
+                        "y": 2289,
                         "size": 6
                     }
                 ]
@@ -52,8 +138,8 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 2418,
-                        "y": 2276,
+                        "x": 1899,
+                        "y": 360,
                         "size": 6
                     }
                 ]
@@ -77,8 +163,8 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 852,
-                        "y": 2263,
+                        "x": 990,
+                        "y": 1871,
                         "size": 6
                     }
                 ]
@@ -102,8 +188,8 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 2184,
-                        "y": 1801,
+                        "x": 910,
+                        "y": 941,
                         "size": 6
                     }
                 ]
@@ -127,8 +213,8 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 52,
-                        "y": 794,
+                        "x": 629,
+                        "y": 590,
                         "size": 6
                     }
                 ]
@@ -152,8 +238,8 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 1255,
-                        "y": 1653,
+                        "x": 1407,
+                        "y": 1015,
                         "size": 6
                     }
                 ]
@@ -177,8 +263,8 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 2034,
-                        "y": 2406,
+                        "x": 2305,
+                        "y": 280,
                         "size": 6
                     }
                 ]
@@ -202,8 +288,8 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 2482,
-                        "y": 1024,
+                        "x": 2265,
+                        "y": 774,
                         "size": 6
                     }
                 ]
@@ -227,8 +313,8 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 320,
-                        "y": 933,
+                        "x": 1597,
+                        "y": 26,
                         "size": 6
                     }
                 ]
@@ -252,8 +338,8 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 618,
-                        "y": 2284,
+                        "x": 2393,
+                        "y": 2004,
                         "size": 6
                     }
                 ]
@@ -277,8 +363,8 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 2392,
-                        "y": 691,
+                        "x": 2190,
+                        "y": 1966,
                         "size": 6
                     }
                 ]

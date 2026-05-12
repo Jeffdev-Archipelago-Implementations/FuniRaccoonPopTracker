@@ -9,6 +9,37 @@
         ],
         "children": [
             {
+                "name": "Gizmo Cat",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Gizmo Cat",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Find Gizmo Cat",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Water Zone",
+                        "x": 358,
+                        "y": 1288,
+                        "size": 6
+                    }
+                ]
+            },
+            {
                 "name": "Store Fan",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -27,70 +58,9 @@
                 "map_locations": [
                     {
                         "map": "Water Zone",
-                        "x": 1339,
-                        "y": 649,
+                        "x": 390,
+                        "y": 1232,
                         "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Gizmo Cat",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "Store Gizmo Cat",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water Zone",
-                                "x": 1366,
-                                "y": 1325,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Find Gizmo Cat",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Water Zone",
-                                "x": 135,
-                                "y": 692,
-                                "size": 6
-                            }
-                        ]
                     }
                 ]
             },
@@ -113,8 +83,8 @@
                 "map_locations": [
                     {
                         "map": "Water Zone",
-                        "x": 282,
-                        "y": 525,
+                        "x": 789,
+                        "y": 467,
                         "size": 6
                     }
                 ]
@@ -138,8 +108,8 @@
                 "map_locations": [
                     {
                         "map": "Water Zone",
-                        "x": 878,
-                        "y": 814,
+                        "x": 1256,
+                        "y": 905,
                         "size": 6
                     }
                 ]

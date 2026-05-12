@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Start",
-                        "x": 217,
-                        "y": 381,
+                        "x": 1120,
+                        "y": 120,
                         "size": 6
                     }
                 ]
@@ -52,8 +52,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Start",
-                        "x": 1227,
-                        "y": 1948,
+                        "x": 679,
+                        "y": 263,
                         "size": 6
                     }
                 ]
@@ -77,8 +77,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Start",
-                        "x": 1155,
-                        "y": 834,
+                        "x": 1506,
+                        "y": 667,
                         "size": 6
                     }
                 ]
@@ -102,8 +102,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Start",
-                        "x": 1072,
-                        "y": 2163,
+                        "x": 1802,
+                        "y": 982,
                         "size": 6
                     }
                 ]
@@ -127,8 +127,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Start",
-                        "x": 121,
-                        "y": 2244,
+                        "x": 1979,
+                        "y": 656,
                         "size": 6
                     }
                 ]
@@ -152,8 +152,118 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Start",
-                        "x": 1843,
-                        "y": 301,
+                        "x": 1257,
+                        "y": 166,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Store Eel Can",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Blimbo Village Start",
+                                "x": 2259,
+                                "y": 1941,
+                                "size": 6
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Find Raccoon Hat",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Blimbo Village Start",
+                                "x": 146,
+                                "y": 2379,
+                                "size": 6
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kei Truck Score",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Get 1000 Score with Kei Truck",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Get 2000 Score with Kei Truck",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Get 3000 Score with Kei Truck",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Get 4000 Score with Kei Truck",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Get 5000 Score with Kei Truck",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blimbo Village Start",
+                        "x": 1790,
+                        "y": 537,
                         "size": 6
                     }
                 ]
@@ -177,8 +287,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Start",
-                        "x": 1216,
-                        "y": 437,
+                        "x": 1279,
+                        "y": 497,
                         "size": 6
                     }
                 ]

@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Office",
-                        "x": 2125,
-                        "y": 1489,
+                        "x": 2248,
+                        "y": 219,
                         "size": 6
                     }
                 ]
@@ -52,8 +52,8 @@
                 "map_locations": [
                     {
                         "map": "Office",
-                        "x": 138,
-                        "y": 903,
+                        "x": 1208,
+                        "y": 1488,
                         "size": 6
                     }
                 ]
@@ -77,8 +77,8 @@
                 "map_locations": [
                     {
                         "map": "Office",
-                        "x": 551,
-                        "y": 1595,
+                        "x": 359,
+                        "y": 1076,
                         "size": 6
                     }
                 ]
@@ -102,8 +102,8 @@
                 "map_locations": [
                     {
                         "map": "Office",
-                        "x": 52,
-                        "y": 796,
+                        "x": 2097,
+                        "y": 60,
                         "size": 6
                     }
                 ]

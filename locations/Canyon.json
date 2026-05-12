@@ -1,6 +1,6 @@
 [
     {
-        "name": "Beenie Death",
+        "name": "Canyon",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
@@ -9,7 +9,7 @@
         ],
         "children": [
             {
-                "name": "Store Priestess",
+                "name": "Pharmacy",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -18,7 +18,13 @@
                 ],
                 "sections": [
                     {
-                        "name": "",
+                        "name": "Store Anti Sads",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Store Leeches!",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -26,34 +32,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Beenie Death",
-                        "x": 2470,
-                        "y": 588,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Euro behind cross",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Beenie Death",
-                        "x": 1989,
-                        "y": 60,
+                        "map": "Canyon",
+                        "x": 250,
+                        "y": 274,
                         "size": 6
                     }
                 ]

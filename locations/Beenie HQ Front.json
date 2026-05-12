@@ -9,6 +9,44 @@
         ],
         "children": [
             {
+                "name": "Fish Vore",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Pirate",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Store Pirate 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Store Pirate 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Beenie HQ Front",
+                        "x": 714,
+                        "y": 1362,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Store Crayon",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -27,9 +65,10 @@
                 "map_locations": [
                     {
                         "map": "Beenie HQ Front",
-                        "x": 438,
-                        "y": 2135,
-                        "size": 6
+                        "x": 1614,
+                        "y": 1069,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -52,9 +91,74 @@
                 "map_locations": [
                     {
                         "map": "Beenie HQ Front",
-                        "x": 1459,
-                        "y": 2078,
-                        "size": 6
+                        "x": 953,
+                        "y": 1403,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fields",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Feral Dog",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Store Windmill",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Beenie HQ Front",
+                        "x": 1841,
+                        "y": 648,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Crisp and Crisps Undying Love",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Crisp",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Store Crisps Undying Love",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Beenie HQ Front",
+                        "x": 1203,
+                        "y": 869,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -77,9 +181,10 @@
                 "map_locations": [
                     {
                         "map": "Beenie HQ Front",
-                        "x": 1232,
-                        "y": 1323,
-                        "size": 6
+                        "x": 1457,
+                        "y": 1110,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

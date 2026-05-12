@@ -9,6 +9,37 @@
         ],
         "children": [
             {
+                "name": "boingler Cat",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store boingler Cat",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Find boingler Cat",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bildal Mines",
+                        "x": 474,
+                        "y": 1018,
+                        "size": 6
+                    }
+                ]
+            },
+            {
                 "name": "Store Pickaxe",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -27,8 +58,8 @@
                 "map_locations": [
                     {
                         "map": "Bildal Mines",
-                        "x": 1652,
-                        "y": 413,
+                        "x": 152,
+                        "y": 2400,
                         "size": 6
                     }
                 ]
@@ -52,70 +83,9 @@
                 "map_locations": [
                     {
                         "map": "Bildal Mines",
-                        "x": 1001,
-                        "y": 2166,
+                        "x": 1110,
+                        "y": 1704,
                         "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "boingler Cat",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "Store boingler Cat",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Bildal Mines",
-                                "x": 886,
-                                "y": 1204,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Find boingler Cat",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Bildal Mines",
-                                "x": 1102,
-                                "y": 13,
-                                "size": 6
-                            }
-                        ]
                     }
                 ]
             }

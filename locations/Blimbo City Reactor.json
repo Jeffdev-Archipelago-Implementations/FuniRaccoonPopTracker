@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Reactor",
-                        "x": 1596,
-                        "y": 1730,
+                        "x": 216,
+                        "y": 1429,
                         "size": 6
                     }
                 ]
@@ -52,8 +52,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Reactor",
-                        "x": 1072,
-                        "y": 1476,
+                        "x": 873,
+                        "y": 1823,
                         "size": 6
                     }
                 ]
@@ -77,8 +77,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Reactor",
-                        "x": 2038,
-                        "y": 2309,
+                        "x": 1316,
+                        "y": 2099,
                         "size": 6
                     }
                 ]

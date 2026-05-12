@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 2359,
-                        "y": 450,
+                        "x": 1543,
+                        "y": 1019,
                         "size": 6
                     }
                 ]
@@ -52,8 +52,8 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 1406,
-                        "y": 590,
+                        "x": 1399,
+                        "y": 2025,
                         "size": 6
                     }
                 ]
@@ -77,8 +77,8 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 396,
-                        "y": 1819,
+                        "x": 246,
+                        "y": 1010,
                         "size": 6
                     }
                 ]
@@ -102,8 +102,8 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 2406,
-                        "y": 2099,
+                        "x": 625,
+                        "y": 583,
                         "size": 6
                     }
                 ]
@@ -127,8 +127,8 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 691,
-                        "y": 956,
+                        "x": 2332,
+                        "y": 403,
                         "size": 6
                     }
                 ]
@@ -152,8 +152,8 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 2092,
-                        "y": 1481,
+                        "x": 2206,
+                        "y": 964,
                         "size": 6
                     }
                 ]

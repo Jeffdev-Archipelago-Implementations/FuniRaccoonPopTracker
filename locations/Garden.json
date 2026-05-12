@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Garden",
-                        "x": 2076,
-                        "y": 2377,
+                        "x": 1013,
+                        "y": 275,
                         "size": 6
                     }
                 ]
@@ -52,9 +52,45 @@
                 "map_locations": [
                     {
                         "map": "Garden",
-                        "x": 1609,
-                        "y": 1423,
+                        "x": 308,
+                        "y": 1453,
                         "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Mikk Barge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "children": [
+                    {
+                        "name": "Eat Purple Mystical Gem",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Garden",
+                                "x": 759,
+                                "y": 875,
+                                "size": 6
+                            }
+                        ]
                     }
                 ]
             }

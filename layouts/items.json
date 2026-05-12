@@ -9,6 +9,28 @@
                 "orientation": "horizontal",
                 "margin": "0,0",
                 "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "progressivecoolingrod, progressivecoolingrod_stage1",
+                                "bluemysticalgem, bluemysticalgem_stage1",
+                                "redmysticalgem, redmysticalgem_stage1",
+                                "greenmysticalgem, greenmysticalgem_stage1",
+                                "purplemysticalgem, purplemysticalgem_stage1",
+                                "keitruck, keitruck_stage1",
+                                "orb",
+                                "belgiumwaffle",
+                                "dumpster_counter"
+                            ]
+                        ]
+                    }
                 ]
             }
         ]
@@ -18,6 +40,35 @@
         "orientation": "vertical",
         "margin": "0,0",
         "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "progressivecoolingrod, progressivecoolingrod_stage1",
+                                "bluemysticalgem, bluemysticalgem_stage1",
+                                "redmysticalgem, redmysticalgem_stage1",
+                                "greenmysticalgem, greenmysticalgem_stage1",
+                                "purplemysticalgem, purplemysticalgem_stage1",
+                                "keitruck, keitruck_stage1",
+                                "orb",
+                                "belgiumwaffle",
+                                "dumpster_counter"
+                            ]
+                        ]
+                    }
+                ]
+            }
         ]
     }
 }

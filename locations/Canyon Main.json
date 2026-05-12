@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Canyon Main",
-                        "x": 225,
-                        "y": 1910,
+                        "x": 997,
+                        "y": 338,
                         "size": 6
                     }
                 ]
@@ -52,8 +52,8 @@
                 "map_locations": [
                     {
                         "map": "Canyon Main",
-                        "x": 2442,
-                        "y": 1192,
+                        "x": 1297,
+                        "y": 542,
                         "size": 6
                     }
                 ]
@@ -77,8 +77,8 @@
                 "map_locations": [
                     {
                         "map": "Canyon Main",
-                        "x": 512,
-                        "y": 2233,
+                        "x": 2425,
+                        "y": 58,
                         "size": 6
                     }
                 ]

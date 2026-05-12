@@ -9,7 +9,7 @@
         ],
         "children": [
             {
-                "name": "Store Beenie, Our Savior",
+                "name": "Beenie Death",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -18,7 +18,13 @@
                 ],
                 "sections": [
                     {
-                        "name": "",
+                        "name": "Store Priestess",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Euro behind cross",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -26,62 +32,40 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "THE MACHINE",
-                        "x": 1317,
-                        "y": 1685,
+                        "map": "The Machine",
+                        "x": 500,
+                        "y": 500,
                         "size": 6
                     }
                 ]
+            }
+        ],
+        "sections": [
+            {
+                "name": "Store Beenie, Our Savior",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
             },
             {
                 "name": "Store Candle",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "THE MACHINE",
-                        "x": 1099,
-                        "y": 1407,
-                        "size": 6
-                    }
-                ]
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
             },
             {
                 "name": "Store Beenie Saves The Orphans",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "THE MACHINE",
-                        "x": 2327,
-                        "y": 110,
-                        "size": 6
-                    }
-                ]
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "The Machine",
+                "x": 1000,
+                "y": 1000,
+                "size": 6
             }
         ]
     }

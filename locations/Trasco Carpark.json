@@ -36,11 +36,198 @@
                         "map_locations": [
                             {
                                 "map": "Trasco Carpark",
-                                "x": 1704,
-                                "y": 302,
+                                "x": 1766,
+                                "y": 1996,
                                 "size": 6
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "name": "Euro on Edge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Euro on edge wall 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Euro on edge wall 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Euro on edge wall 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 934,
+                        "y": 1570,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Store Fridge Key",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 1987,
+                        "y": 526,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Store Coffee Shop (closed)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 827,
+                        "y": 1112,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Store Trolley",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 283,
+                        "y": 1951,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Store Fridge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 966,
+                        "y": 599,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Store CD Player",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 1185,
+                        "y": 825,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Store Milk Klubnika",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 609,
+                        "y": 1728,
+                        "size": 6
                     }
                 ]
             }

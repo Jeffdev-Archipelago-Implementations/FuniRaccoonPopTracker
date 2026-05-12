@@ -27,9 +27,10 @@
                 "map_locations": [
                     {
                         "map": "Beenie HQ Back",
-                        "x": 1713,
-                        "y": 411,
-                        "size": 6
+                        "x": 1786,
+                        "y": 499,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -52,9 +53,10 @@
                 "map_locations": [
                     {
                         "map": "Beenie HQ Back",
-                        "x": 815,
-                        "y": 1135,
-                        "size": 6
+                        "x": 559,
+                        "y": 1064,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -77,9 +79,42 @@
                 "map_locations": [
                     {
                         "map": "Beenie HQ Back",
-                        "x": 2196,
-                        "y": 2469,
-                        "size": 6
+                        "x": 721,
+                        "y": 1082,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Keksz Cat",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Keksz Cat",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Find Keksz Cat",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Beenie HQ Back",
+                        "x": 1508,
+                        "y": 1443,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -102,9 +137,10 @@
                 "map_locations": [
                     {
                         "map": "Beenie HQ Back",
-                        "x": 1044,
-                        "y": 807,
-                        "size": 6
+                        "x": 837,
+                        "y": 1064,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

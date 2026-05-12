@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Howth Start",
-                        "x": 483,
-                        "y": 202,
+                        "x": 578,
+                        "y": 732,
                         "size": 6
                     }
                 ]
@@ -52,8 +52,8 @@
                 "map_locations": [
                     {
                         "map": "Howth Start",
-                        "x": 2190,
-                        "y": 1167,
+                        "x": 1478,
+                        "y": 935,
                         "size": 6
                     }
                 ]

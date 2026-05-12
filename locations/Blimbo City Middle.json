@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle",
-                        "x": 1363,
-                        "y": 137,
+                        "x": 236,
+                        "y": 438,
                         "size": 6
                     }
                 ]
@@ -52,8 +52,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle",
-                        "x": 528,
-                        "y": 1375,
+                        "x": 526,
+                        "y": 1477,
                         "size": 6
                     }
                 ]
@@ -77,8 +77,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle",
-                        "x": 2362,
-                        "y": 779,
+                        "x": 2437,
+                        "y": 1251,
                         "size": 6
                     }
                 ]
@@ -102,8 +102,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle",
-                        "x": 2344,
-                        "y": 1628,
+                        "x": 1076,
+                        "y": 1133,
                         "size": 6
                     }
                 ]
@@ -127,8 +127,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle",
-                        "x": 1694,
-                        "y": 524,
+                        "x": 2422,
+                        "y": 2006,
                         "size": 6
                     }
                 ]
@@ -152,8 +152,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle",
-                        "x": 1030,
-                        "y": 1121,
+                        "x": 671,
+                        "y": 2161,
                         "size": 6
                     }
                 ]
