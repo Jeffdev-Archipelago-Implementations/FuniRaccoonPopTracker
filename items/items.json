@@ -18,25 +18,25 @@
             {
                 "name": "progressivemysticaldumbbell stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivemysticaldumbbell.png",
+                "img": "images/items/progressivemysticaldumbbell.png",
                 "codes": "progressivemysticaldumbbell, progressivemysticaldumbbell_stage1"
             },
             {
                 "name": "progressivemysticaldumbbell stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivemysticaldumbbell.png",
+                "img": "images/items/progressivemysticaldumbbell.png",
                 "codes": "progressivemysticaldumbbell_stage2"
             },
             {
                 "name": "progressivemysticaldumbbell stage3",
                 "inherit_codes": true,
-                "img": "/images/items/progressivemysticaldumbbell.png",
+                "img": "images/items/progressivemysticaldumbbell.png",
                 "codes": "progressivemysticaldumbbell_stage3"
             },
             {
                 "name": "progressivemysticaldumbbell stage4",
                 "inherit_codes": true,
-                "img": "/images/items/progressivemysticaldumbbell.png",
+                "img": "images/items/progressivemysticaldumbbell.png",
                 "codes": "progressivemysticaldumbbell_stage4"
             }
         ]
@@ -52,19 +52,19 @@
             {
                 "name": "progressivecoolingrod stage1",
                 "inherit_codes": true,
-                "img": "/images/items/progressivecoolingrod.png",
+                "img": "images/items/progressivecoolingrod.png",
                 "codes": "progressivecoolingrod, progressivecoolingrod_stage1"
             },
             {
                 "name": "progressivecoolingrod stage2",
                 "inherit_codes": true,
-                "img": "/images/items/progressivecoolingrod.png",
+                "img": "images/items/progressivecoolingrod.png",
                 "codes": "progressivecoolingrod_stage2"
             },
             {
                 "name": "progressivecoolingrod stage3",
                 "inherit_codes": true,
-                "img": "/images/items/progressivecoolingrod.png",
+                "img": "images/items/progressivecoolingrod.png",
                 "codes": "progressivecoolingrod_stage3"
             }
         ]
@@ -128,7 +128,7 @@
     {
         "name": "vendingmachine(acceptsdoubloons)",
         "type": "toggle",
-        "img": "images/items/vendingmachine(acceptsdoubloons).png",
+        "img": "images/items/vendingmachine.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "vendingmachine(acceptsdoubloons)"
