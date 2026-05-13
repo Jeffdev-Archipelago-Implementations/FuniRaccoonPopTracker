@@ -27,9 +27,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle",
-                        "x": 236,
-                        "y": 438,
-                        "size": 6
+                        "x": 1818,
+                        "y": 975,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -52,9 +53,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle",
-                        "x": 526,
-                        "y": 1477,
-                        "size": 6
+                        "x": 1966,
+                        "y": 908,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -77,9 +79,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle",
-                        "x": 2437,
-                        "y": 1251,
-                        "size": 6
+                        "x": 2398,
+                        "y": 922,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -102,9 +105,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle",
-                        "x": 1076,
-                        "y": 1133,
-                        "size": 6
+                        "x": 2622,
+                        "y": 983,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -127,9 +131,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle",
-                        "x": 2422,
-                        "y": 2006,
-                        "size": 6
+                        "x": 3135,
+                        "y": 1618,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -152,9 +157,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle",
-                        "x": 671,
-                        "y": 2161,
-                        "size": 6
+                        "x": 711,
+                        "y": 637,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

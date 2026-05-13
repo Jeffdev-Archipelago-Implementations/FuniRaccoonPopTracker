@@ -27,9 +27,10 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 614,
-                        "y": 1098,
-                        "size": 6
+                        "x": 2082,
+                        "y": 1450,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -52,9 +53,10 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 1691,
-                        "y": 339,
-                        "size": 6
+                        "x": 3023,
+                        "y": 996,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -77,9 +79,10 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 900,
-                        "y": 983,
-                        "size": 6
+                        "x": 2896,
+                        "y": 823,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -102,9 +105,10 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 1153,
-                        "y": 2383,
-                        "size": 6
+                        "x": 2558,
+                        "y": 632,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -136,9 +140,10 @@
                         "map_locations": [
                             {
                                 "map": "Desert",
-                                "x": 2428,
-                                "y": 101,
-                                "size": 6
+                                "x": 1351,
+                                "y": 1145,
+                                "size": 28,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -161,9 +166,10 @@
                         "map_locations": [
                             {
                                 "map": "Desert",
-                                "x": 202,
-                                "y": 92,
-                                "size": 6
+                                "x": 1387,
+                                "y": 1145,
+                                "size": 28,
+                                "shape": "rect"
                             }
                         ]
                     }
@@ -188,9 +194,10 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 523,
-                        "y": 1941,
-                        "size": 6
+                        "x": 2597,
+                        "y": 630,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -213,9 +220,10 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 418,
-                        "y": 196,
-                        "size": 6
+                        "x": 2031,
+                        "y": 1147,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -268,9 +276,10 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 1398,
-                        "y": 93,
-                        "size": 6
+                        "x": 2188,
+                        "y": 609,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -293,9 +302,10 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 1346,
-                        "y": 238,
-                        "size": 6
+                        "x": 634,
+                        "y": 1098,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -318,9 +328,10 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 563,
-                        "y": 2399,
-                        "size": 6
+                        "x": 2943,
+                        "y": 994,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -343,9 +354,10 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 142,
-                        "y": 1121,
-                        "size": 6
+                        "x": 2699,
+                        "y": 1271,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -368,9 +380,10 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 807,
-                        "y": 629,
-                        "size": 6
+                        "x": 2589,
+                        "y": 561,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -393,9 +406,10 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 1710,
-                        "y": 2389,
-                        "size": 6
+                        "x": 3047,
+                        "y": 644,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -418,9 +432,10 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 2187,
-                        "y": 56,
-                        "size": 6
+                        "x": 1803,
+                        "y": 310,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

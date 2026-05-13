@@ -27,9 +27,10 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 1109,
-                        "y": 1139,
-                        "size": 6
+                        "x": 714,
+                        "y": 647,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -52,9 +53,10 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 1546,
-                        "y": 112,
-                        "size": 6
+                        "x": 756,
+                        "y": 639,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -83,9 +85,10 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 2216,
-                        "y": 846,
-                        "size": 6
+                        "x": 981,
+                        "y": 710,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -108,9 +111,10 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 714,
-                        "y": 1508,
-                        "size": 6
+                        "x": 699,
+                        "y": 597,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -133,9 +137,10 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 1497,
-                        "y": 683,
-                        "size": 6
+                        "x": 356,
+                        "y": 856,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -158,9 +163,10 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 1489,
-                        "y": 777,
-                        "size": 6
+                        "x": 513,
+                        "y": 1005,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -183,9 +189,10 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 1710,
-                        "y": 2396,
-                        "size": 6
+                        "x": 3015,
+                        "y": 954,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -208,9 +215,10 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 1585,
-                        "y": 299,
-                        "size": 6
+                        "x": 567,
+                        "y": 722,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -242,9 +250,10 @@
                         "map_locations": [
                             {
                                 "map": "Gym Outside",
-                                "x": 915,
-                                "y": 252,
-                                "size": 6
+                                "x": 703,
+                                "y": 846,
+                                "size": 28,
+                                "shape": "rect"
                             }
                         ]
                     }
@@ -293,9 +302,10 @@
                 "map_locations": [
                     {
                         "map": "Gym Outside",
-                        "x": 2004,
-                        "y": 517,
-                        "size": 6
+                        "x": 791,
+                        "y": 852,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

@@ -27,9 +27,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Reactor",
-                        "x": 216,
-                        "y": 1429,
-                        "size": 6
+                        "x": 1652,
+                        "y": 1360,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -52,9 +53,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Reactor",
-                        "x": 873,
-                        "y": 1823,
-                        "size": 6
+                        "x": 1164,
+                        "y": 1140,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -77,9 +79,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Reactor",
-                        "x": 1316,
-                        "y": 2099,
-                        "size": 6
+                        "x": 786,
+                        "y": 1036,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

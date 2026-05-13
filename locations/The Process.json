@@ -27,9 +27,10 @@
                 "map_locations": [
                     {
                         "map": "The Process",
-                        "x": 2363,
-                        "y": 2378,
-                        "size": 6
+                        "x": 893,
+                        "y": 648,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -52,9 +53,10 @@
                 "map_locations": [
                     {
                         "map": "The Process",
-                        "x": 2226,
-                        "y": 1924,
-                        "size": 6
+                        "x": 1863,
+                        "y": 763,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -77,9 +79,10 @@
                 "map_locations": [
                     {
                         "map": "The Process",
-                        "x": 400,
-                        "y": 1529,
-                        "size": 6
+                        "x": 1155,
+                        "y": 1817,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -102,9 +105,10 @@
                 "map_locations": [
                     {
                         "map": "The Process",
-                        "x": 2155,
-                        "y": 1854,
-                        "size": 6
+                        "x": 1792,
+                        "y": 23,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -127,9 +131,10 @@
                 "map_locations": [
                     {
                         "map": "The Process",
-                        "x": 1944,
-                        "y": 1542,
-                        "size": 6
+                        "x": 793,
+                        "y": 1603,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

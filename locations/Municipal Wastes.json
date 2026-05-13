@@ -27,9 +27,10 @@
                 "map_locations": [
                     {
                         "map": "Municipal Wastes",
-                        "x": 1699,
-                        "y": 1243,
-                        "size": 6
+                        "x": 1594,
+                        "y": 794,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -52,9 +53,10 @@
                 "map_locations": [
                     {
                         "map": "Municipal Wastes",
-                        "x": 225,
-                        "y": 879,
-                        "size": 6
+                        "x": 1640,
+                        "y": 794,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -77,9 +79,10 @@
                 "map_locations": [
                     {
                         "map": "Municipal Wastes",
-                        "x": 971,
-                        "y": 613,
-                        "size": 6
+                        "x": 2456,
+                        "y": 86,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -102,9 +105,10 @@
                 "map_locations": [
                     {
                         "map": "Municipal Wastes",
-                        "x": 1885,
-                        "y": 1304,
-                        "size": 6
+                        "x": 2458,
+                        "y": 53,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -127,9 +131,10 @@
                 "map_locations": [
                     {
                         "map": "Municipal Wastes",
-                        "x": 1596,
-                        "y": 921,
-                        "size": 6
+                        "x": 1337,
+                        "y": 1004,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -161,9 +166,10 @@
                         "map_locations": [
                             {
                                 "map": "Municipal Wastes",
-                                "x": 1050,
-                                "y": 494,
-                                "size": 6
+                                "x": 1093,
+                                "y": 1085,
+                                "size": 28,
+                                "shape": "rect"
                             }
                         ]
                     }
@@ -188,9 +194,10 @@
                 "map_locations": [
                     {
                         "map": "Municipal Wastes",
-                        "x": 812,
-                        "y": 1312,
-                        "size": 6
+                        "x": 1946,
+                        "y": 993,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -213,9 +220,10 @@
                 "map_locations": [
                     {
                         "map": "Municipal Wastes",
-                        "x": 156,
-                        "y": 2229,
-                        "size": 6
+                        "x": 1819,
+                        "y": 318,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -238,9 +246,10 @@
                 "map_locations": [
                     {
                         "map": "Municipal Wastes",
-                        "x": 2427,
-                        "y": 1867,
-                        "size": 6
+                        "x": 1602,
+                        "y": 407,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -263,9 +272,10 @@
                 "map_locations": [
                     {
                         "map": "Municipal Wastes",
-                        "x": 335,
-                        "y": 417,
-                        "size": 6
+                        "x": 2393,
+                        "y": 117,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -288,9 +298,10 @@
                 "map_locations": [
                     {
                         "map": "Municipal Wastes",
-                        "x": 1280,
-                        "y": 1104,
-                        "size": 6
+                        "x": 965,
+                        "y": 1113,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -313,9 +324,10 @@
                 "map_locations": [
                     {
                         "map": "Municipal Wastes",
-                        "x": 812,
-                        "y": 696,
-                        "size": 6
+                        "x": 1376,
+                        "y": 1209,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -338,9 +350,10 @@
                 "map_locations": [
                     {
                         "map": "Municipal Wastes",
-                        "x": 338,
-                        "y": 1594,
-                        "size": 6
+                        "x": 633,
+                        "y": 841,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

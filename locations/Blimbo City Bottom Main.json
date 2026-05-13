@@ -27,9 +27,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Bottom Main",
-                        "x": 533,
-                        "y": 1449,
-                        "size": 6
+                        "x": 1891,
+                        "y": 1169,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -52,9 +53,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Bottom Main",
-                        "x": 2407,
-                        "y": 2162,
-                        "size": 6
+                        "x": 1696,
+                        "y": 1058,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -77,9 +79,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Bottom Main",
-                        "x": 883,
-                        "y": 259,
-                        "size": 6
+                        "x": 1171,
+                        "y": 1420,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -102,9 +105,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Bottom Main",
-                        "x": 1206,
-                        "y": 1098,
-                        "size": 6
+                        "x": 1346,
+                        "y": 1058,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -127,9 +131,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Bottom Main",
-                        "x": 1710,
-                        "y": 1358,
-                        "size": 6
+                        "x": 2635,
+                        "y": 734,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -154,7 +159,8 @@
                         "map": "Blimbo City Bottom Main",
                         "x": 2097,
                         "y": 116,
-                        "size": 6
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -177,9 +183,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Bottom Main",
-                        "x": 944,
-                        "y": 440,
-                        "size": 6
+                        "x": 1203,
+                        "y": 787,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -202,9 +209,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Bottom Main",
-                        "x": 2489,
-                        "y": 1340,
-                        "size": 6
+                        "x": 419,
+                        "y": 101,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -227,9 +235,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Bottom Main",
-                        "x": 528,
-                        "y": 269,
-                        "size": 6
+                        "x": 2749,
+                        "y": 1452,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

@@ -27,9 +27,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Upper Towers",
-                        "x": 1881,
-                        "y": 827,
-                        "size": 6
+                        "x": 2086,
+                        "y": 714,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -52,9 +53,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Upper Towers",
-                        "x": 1062,
-                        "y": 819,
-                        "size": 6
+                        "x": 1008,
+                        "y": 1482,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

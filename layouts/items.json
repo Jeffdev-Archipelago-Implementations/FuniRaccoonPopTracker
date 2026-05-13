@@ -19,15 +19,23 @@
                         "item_width": 36,
                         "rows": [
                             [
+                                "mysticalgems",
+                                "progressivemysticaldumbbell, progressivemysticaldumbbell_stage1",
                                 "progressivecoolingrod, progressivecoolingrod_stage1",
-                                "bluemysticalgem, bluemysticalgem_stage1",
-                                "redmysticalgem, redmysticalgem_stage1",
-                                "greenmysticalgem, greenmysticalgem_stage1",
-                                "purplemysticalgem, purplemysticalgem_stage1",
-                                "keitruck, keitruck_stage1",
-                                "orb",
-                                "belgiumwaffle",
-                                "dumpster_counter"
+                                "keitruck",
+                                "keitruckboost",
+                                "keitrucktoaster",
+                                "oldassrustyasskey",
+                                "fridgekey",
+                                "butterfly",
+                                "brobenergy",
+                                "vendingmachine(acceptsdoubloons)",
+                                "chicken",
+                                "cat",
+                                "gem",
+                                "euro",
+                                "hat",
+                                "raccoon"
                             ]
                         ]
                     }
@@ -55,15 +63,23 @@
                         "item_width": 36,
                         "rows": [
                             [
+                                "mysticalgems",
+                                "progressivemysticaldumbbell, progressivemysticaldumbbell_stage1",
                                 "progressivecoolingrod, progressivecoolingrod_stage1",
-                                "bluemysticalgem, bluemysticalgem_stage1",
-                                "redmysticalgem, redmysticalgem_stage1",
-                                "greenmysticalgem, greenmysticalgem_stage1",
-                                "purplemysticalgem, purplemysticalgem_stage1",
-                                "keitruck, keitruck_stage1",
-                                "orb",
-                                "belgiumwaffle",
-                                "dumpster_counter"
+                                "keitruck",
+                                "keitruckboost",
+                                "keitrucktoaster",
+                                "oldassrustyasskey",
+                                "fridgekey",
+                                "butterfly",
+                                "brobenergy",
+                                "vendingmachine(acceptsdoubloons)",
+                                "chicken",
+                                "cat",
+                                "gem",
+                                "euro",
+                                "hat",
+                                "raccoon"
                             ]
                         ]
                     }

@@ -36,9 +36,10 @@
                         "map_locations": [
                             {
                                 "map": "Museum",
-                                "x": 1656,
-                                "y": 579,
-                                "size": 6
+                                "x": 1065,
+                                "y": 564,
+                                "size": 28,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -63,7 +64,8 @@
                                 "map": "Museum",
                                 "x": 1406,
                                 "y": 751,
-                                "size": 6
+                                "size": 6,
+                                "shape": "rect"
                             }
                         ]
                     },
@@ -86,9 +88,10 @@
                         "map_locations": [
                             {
                                 "map": "Museum",
-                                "x": 2494,
-                                "y": 2439,
-                                "size": 6
+                                "x": 1103,
+                                "y": 564,
+                                "size": 28,
+                                "shape": "rect"
                             }
                         ]
                     }
@@ -113,9 +116,10 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 2443,
-                        "y": 2289,
-                        "size": 6
+                        "x": 1028,
+                        "y": 1152,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -138,9 +142,10 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 1899,
-                        "y": 360,
-                        "size": 6
+                        "x": 1284,
+                        "y": 1352,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -163,9 +168,10 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 990,
-                        "y": 1871,
-                        "size": 6
+                        "x": 1616,
+                        "y": 996,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -188,9 +194,10 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 910,
-                        "y": 941,
-                        "size": 6
+                        "x": 933,
+                        "y": 1176,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -213,9 +220,10 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 629,
-                        "y": 590,
-                        "size": 6
+                        "x": 977,
+                        "y": 1097,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -238,9 +246,10 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 1407,
-                        "y": 1015,
-                        "size": 6
+                        "x": 1087,
+                        "y": 1196,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -263,9 +272,10 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 2305,
-                        "y": 280,
-                        "size": 6
+                        "x": 1204,
+                        "y": 1273,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -288,9 +298,10 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 2265,
-                        "y": 774,
-                        "size": 6
+                        "x": 1148,
+                        "y": 1205,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -313,9 +324,10 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 1597,
-                        "y": 26,
-                        "size": 6
+                        "x": 2970,
+                        "y": 1247,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -338,9 +350,10 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 2393,
-                        "y": 2004,
-                        "size": 6
+                        "x": 903,
+                        "y": 603,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -363,9 +376,10 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 2190,
-                        "y": 1966,
-                        "size": 6
+                        "x": 562,
+                        "y": 513,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

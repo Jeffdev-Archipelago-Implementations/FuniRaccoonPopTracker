@@ -1,70 +1,14 @@
 [
     {
-        "name": "keitrucktoaster",
+        "name": "mysticalgems",
         "type": "toggle",
-        "img": "images/items/keitrucktoaster.png",
+        "img": "images/items/mysticalgems.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "keitrucktoaster"
+        "codes": "mysticalgems"
     },
     {
-        "name": "10euro",
-        "type": "toggle",
-        "img": "images/items/10euro.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "10euro"
-    },
-    {
-        "name": "pirate3",
-        "type": "toggle",
-        "img": "images/items/pirate3.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pirate3"
-    },
-    {
-        "name": "paracetamol650mg",
-        "type": "toggle",
-        "img": "images/items/paracetamol650mg.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "paracetamol650mg"
-    },
-    {
-        "name": "belgiumwaffle",
-        "type": "toggle",
-        "img": "images/items/belgiumwaffle.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "belgiumwaffle"
-    },
-    {
-        "name": "cricket",
-        "type": "toggle",
-        "img": "images/items/cricket.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cricket"
-    },
-    {
-        "name": "smoker",
-        "type": "toggle",
-        "img": "images/items/smoker.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "smoker"
-    },
-    {
-        "name": "officechair",
-        "type": "toggle",
-        "img": "images/items/officechair.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "officechair"
-    },
-    {
-        "name": "bluemysticalgem",
+        "name": "progressivemysticaldumbbell",
         "type": "progressive",
         "loop": false,
         "allow_disabled": true,
@@ -72,1048 +16,30 @@
         "overlay_align": "right",
         "stages": [
             {
-                "name": "bluemysticalgem stage1",
+                "name": "progressivemysticaldumbbell stage1",
                 "inherit_codes": true,
-                "img": "/images/items/bluemysticalgem.png",
-                "codes": "bluemysticalgem, bluemysticalgem_stage1"
+                "img": "/images/items/progressivemysticaldumbbell.png",
+                "codes": "progressivemysticaldumbbell, progressivemysticaldumbbell_stage1"
             },
             {
-                "name": "bluemysticalgem stage2",
+                "name": "progressivemysticaldumbbell stage2",
                 "inherit_codes": true,
-                "img": "/images/items/bluemysticalgem.png",
-                "codes": "bluemysticalgem_stage2"
+                "img": "/images/items/progressivemysticaldumbbell.png",
+                "codes": "progressivemysticaldumbbell_stage2"
             },
             {
-                "name": "bluemysticalgem stage3",
+                "name": "progressivemysticaldumbbell stage3",
                 "inherit_codes": true,
-                "img": "/images/items/bluemysticalgem.png",
-                "codes": "bluemysticalgem_stage3"
+                "img": "/images/items/progressivemysticaldumbbell.png",
+                "codes": "progressivemysticaldumbbell_stage3"
+            },
+            {
+                "name": "progressivemysticaldumbbell stage4",
+                "inherit_codes": true,
+                "img": "/images/items/progressivemysticaldumbbell.png",
+                "codes": "progressivemysticaldumbbell_stage4"
             }
         ]
-    },
-    {
-        "name": "warning",
-        "type": "toggle",
-        "img": "images/items/warning.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "warning"
-    },
-    {
-        "name": "coffeecup",
-        "type": "toggle",
-        "img": "images/items/coffeecup.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "coffeecup"
-    },
-    {
-        "name": "ms.heel",
-        "type": "toggle",
-        "img": "images/items/ms.heel.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ms.heel"
-    },
-    {
-        "name": "oldassrustyasskey",
-        "type": "toggle",
-        "img": "images/items/oldassrustyasskey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "oldassrustyasskey"
-    },
-    {
-        "name": "dice",
-        "type": "toggle",
-        "img": "images/items/dice.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dice"
-    },
-    {
-        "name": "leeches!",
-        "type": "toggle",
-        "img": "images/items/leeches!.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "leeches!"
-    },
-    {
-        "name": "radiator",
-        "type": "toggle",
-        "img": "images/items/radiator.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "radiator"
-    },
-    {
-        "name": "bellboy",
-        "type": "toggle",
-        "img": "images/items/bellboy.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bellboy"
-    },
-    {
-        "name": "crackhead",
-        "type": "toggle",
-        "img": "images/items/crackhead.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "crackhead"
-    },
-    {
-        "name": "candle",
-        "type": "toggle",
-        "img": "images/items/candle.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "candle"
-    },
-    {
-        "name": "unregisteredfirearm",
-        "type": "toggle",
-        "img": "images/items/unregisteredfirearm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "unregisteredfirearm"
-    },
-    {
-        "name": "areasign",
-        "type": "toggle",
-        "img": "images/items/areasign.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "areasign"
-    },
-    {
-        "name": "barrel",
-        "type": "toggle",
-        "img": "images/items/barrel.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "barrel"
-    },
-    {
-        "name": "manholecover",
-        "type": "toggle",
-        "img": "images/items/manholecover.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "manholecover"
-    },
-    {
-        "name": "cow",
-        "type": "toggle",
-        "img": "images/items/cow.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cow"
-    },
-    {
-        "name": "flowian",
-        "type": "toggle",
-        "img": "images/items/flowian.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "flowian"
-    },
-    {
-        "name": "policecar",
-        "type": "toggle",
-        "img": "images/items/policecar.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "policecar"
-    },
-    {
-        "name": "antisads",
-        "type": "toggle",
-        "img": "images/items/antisads.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "antisads"
-    },
-    {
-        "name": "jesterhat",
-        "type": "toggle",
-        "img": "images/items/jesterhat.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "jesterhat"
-    },
-    {
-        "name": "myfavouritechair",
-        "type": "toggle",
-        "img": "images/items/myfavouritechair.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "myfavouritechair"
-    },
-    {
-        "name": "redmysticalgem",
-        "type": "progressive",
-        "loop": false,
-        "allow_disabled": true,
-        "initial_stage_idx": 0,
-        "overlay_align": "right",
-        "stages": [
-            {
-                "name": "redmysticalgem stage1",
-                "inherit_codes": true,
-                "img": "/images/items/redmysticalgem.png",
-                "codes": "redmysticalgem, redmysticalgem_stage1"
-            },
-            {
-                "name": "redmysticalgem stage2",
-                "inherit_codes": true,
-                "img": "/images/items/redmysticalgem.png",
-                "codes": "redmysticalgem_stage2"
-            },
-            {
-                "name": "redmysticalgem stage3",
-                "inherit_codes": true,
-                "img": "/images/items/redmysticalgem.png",
-                "codes": "redmysticalgem_stage3"
-            }
-        ]
-    },
-    {
-        "name": "keitruck",
-        "type": "progressive",
-        "loop": false,
-        "allow_disabled": true,
-        "initial_stage_idx": 0,
-        "overlay_align": "right",
-        "stages": [
-            {
-                "name": "keitruck stage1",
-                "inherit_codes": true,
-                "img": "/images/items/keitruck.png",
-                "codes": "keitruck, keitruck_stage1"
-            },
-            {
-                "name": "keitruck stage2",
-                "inherit_codes": true,
-                "img": "/images/items/keitruck.png",
-                "codes": "keitruck_stage2"
-            },
-            {
-                "name": "keitruck stage3",
-                "inherit_codes": true,
-                "img": "/images/items/keitruck.png",
-                "codes": "keitruck_stage3"
-            }
-        ]
-    },
-    {
-        "name": "hazelnut",
-        "type": "toggle",
-        "img": "images/items/hazelnut.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "hazelnut"
-    },
-    {
-        "name": "spoonsweet",
-        "type": "toggle",
-        "img": "images/items/spoonsweet.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "spoonsweet"
-    },
-    {
-        "name": "buisnessman",
-        "type": "toggle",
-        "img": "images/items/buisnessman.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "buisnessman"
-    },
-    {
-        "name": "keitruckradio",
-        "type": "toggle",
-        "img": "images/items/keitruckradio.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "keitruckradio"
-    },
-    {
-        "name": "greenishabomination",
-        "type": "toggle",
-        "img": "images/items/greenishabomination.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "greenishabomination"
-    },
-    {
-        "name": "patrickohara",
-        "type": "toggle",
-        "img": "images/items/patrickohara.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "patrickohara"
-    },
-    {
-        "name": "vendingmachine(acceptsdoubloons)",
-        "type": "toggle",
-        "img": "images/items/vendingmachine(acceptsdoubloons).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "vendingmachine(acceptsdoubloons)"
-    },
-    {
-        "name": "washingmachine",
-        "type": "toggle",
-        "img": "images/items/washingmachine.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "washingmachine"
-    },
-    {
-        "name": "patrickobobble",
-        "type": "toggle",
-        "img": "images/items/patrickobobble.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "patrickobobble"
-    },
-    {
-        "name": "patrice",
-        "type": "toggle",
-        "img": "images/items/patrice.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "patrice"
-    },
-    {
-        "name": "boingler",
-        "type": "toggle",
-        "img": "images/items/boingler.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "boingler"
-    },
-    {
-        "name": "plimbo",
-        "type": "toggle",
-        "img": "images/items/plimbo.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "plimbo"
-    },
-    {
-        "name": "blimbovillagesign",
-        "type": "toggle",
-        "img": "images/items/blimbovillagesign.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blimbovillagesign"
-    },
-    {
-        "name": "crisp",
-        "type": "toggle",
-        "img": "images/items/crisp.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "crisp"
-    },
-    {
-        "name": "chicken",
-        "type": "toggle",
-        "img": "images/items/chicken.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chicken"
-    },
-    {
-        "name": "wriksceller",
-        "type": "toggle",
-        "img": "images/items/wriksceller.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wriksceller"
-    },
-    {
-        "name": "doubloons",
-        "type": "toggle",
-        "img": "images/items/doubloons.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "doubloons"
-    },
-    {
-        "name": "lloyd",
-        "type": "toggle",
-        "img": "images/items/lloyd.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lloyd"
-    },
-    {
-        "name": "evilfish",
-        "type": "toggle",
-        "img": "images/items/evilfish.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "evilfish"
-    },
-    {
-        "name": "gasdrum",
-        "type": "toggle",
-        "img": "images/items/gasdrum.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gasdrum"
-    },
-    {
-        "name": "desk",
-        "type": "toggle",
-        "img": "images/items/desk.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "desk"
-    },
-    {
-        "name": "microwave",
-        "type": "toggle",
-        "img": "images/items/microwave.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "microwave"
-    },
-    {
-        "name": "bookblo",
-        "type": "toggle",
-        "img": "images/items/bookblo.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bookblo"
-    },
-    {
-        "name": "gizmo",
-        "type": "toggle",
-        "img": "images/items/gizmo.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gizmo"
-    },
-    {
-        "name": "greenmysticalgem",
-        "type": "progressive",
-        "loop": false,
-        "allow_disabled": true,
-        "initial_stage_idx": 0,
-        "overlay_align": "right",
-        "stages": [
-            {
-                "name": "greenmysticalgem stage1",
-                "inherit_codes": true,
-                "img": "/images/items/greenmysticalgem.png",
-                "codes": "greenmysticalgem, greenmysticalgem_stage1"
-            },
-            {
-                "name": "greenmysticalgem stage2",
-                "inherit_codes": true,
-                "img": "/images/items/greenmysticalgem.png",
-                "codes": "greenmysticalgem_stage2"
-            },
-            {
-                "name": "greenmysticalgem stage3",
-                "inherit_codes": true,
-                "img": "/images/items/greenmysticalgem.png",
-                "codes": "greenmysticalgem_stage3"
-            }
-        ]
-    },
-    {
-        "name": "tophat",
-        "type": "toggle",
-        "img": "images/items/tophat.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tophat"
-    },
-    {
-        "name": "crispsundyinglove",
-        "type": "toggle",
-        "img": "images/items/crispsundyinglove.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "crispsundyinglove"
-    },
-    {
-        "name": "orphantyre",
-        "type": "toggle",
-        "img": "images/items/orphantyre.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "orphantyre"
-    },
-    {
-        "name": "marketableplushiebox",
-        "type": "toggle",
-        "img": "images/items/marketableplushiebox.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "marketableplushiebox"
-    },
-    {
-        "name": "butterfly",
-        "type": "toggle",
-        "img": "images/items/butterfly.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "butterfly"
-    },
-    {
-        "name": "bomb",
-        "type": "toggle",
-        "img": "images/items/bomb.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bomb"
-    },
-    {
-        "name": "gaspumpo",
-        "type": "toggle",
-        "img": "images/items/gaspumpo.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gaspumpo"
-    },
-    {
-        "name": "snowball",
-        "type": "toggle",
-        "img": "images/items/snowball.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "snowball"
-    },
-    {
-        "name": "roadnotdone",
-        "type": "toggle",
-        "img": "images/items/roadnotdone.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "roadnotdone"
-    },
-    {
-        "name": "binocublo",
-        "type": "toggle",
-        "img": "images/items/binocublo.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "binocublo"
-    },
-    {
-        "name": "letterb",
-        "type": "toggle",
-        "img": "images/items/letterb.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "letterb"
-    },
-    {
-        "name": "pattyhat",
-        "type": "toggle",
-        "img": "images/items/pattyhat.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pattyhat"
-    },
-    {
-        "name": "tvremote",
-        "type": "toggle",
-        "img": "images/items/tvremote.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tvremote"
-    },
-    {
-        "name": "papatyre",
-        "type": "toggle",
-        "img": "images/items/papatyre.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "papatyre"
-    },
-    {
-        "name": "knifedog",
-        "type": "toggle",
-        "img": "images/items/knifedog.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "knifedog"
-    },
-    {
-        "name": "beenie",
-        "type": "toggle",
-        "img": "images/items/beenie.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "beenie"
-    },
-    {
-        "name": "goocontainer",
-        "type": "toggle",
-        "img": "images/items/goocontainer.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "goocontainer"
-    },
-    {
-        "name": "chairapist",
-        "type": "toggle",
-        "img": "images/items/chairapist.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chairapist"
-    },
-    {
-        "name": "coffeeshop(closed)",
-        "type": "toggle",
-        "img": "images/items/coffeeshop(closed).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "coffeeshop(closed)"
-    },
-    {
-        "name": "averagecanadian",
-        "type": "toggle",
-        "img": "images/items/averagecanadian.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "averagecanadian"
-    },
-    {
-        "name": "moai",
-        "type": "toggle",
-        "img": "images/items/moai.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "moai"
-    },
-    {
-        "name": "radio",
-        "type": "toggle",
-        "img": "images/items/radio.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "radio"
-    },
-    {
-        "name": "100euro",
-        "type": "toggle",
-        "img": "images/items/100euro.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "100euro"
-    },
-    {
-        "name": "loganleft",
-        "type": "toggle",
-        "img": "images/items/loganleft.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "loganleft"
-    },
-    {
-        "name": "eelcan",
-        "type": "toggle",
-        "img": "images/items/eelcan.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "eelcan"
-    },
-    {
-        "name": "lama/alpacamaybe?",
-        "type": "toggle",
-        "img": "images/items/lama/alpacamaybe?.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lama/alpacamaybe?"
-    },
-    {
-        "name": "nakedfella",
-        "type": "toggle",
-        "img": "images/items/nakedfella.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "nakedfella"
-    },
-    {
-        "name": "brobenergy",
-        "type": "toggle",
-        "img": "images/items/brobenergy.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "brobenergy"
-    },
-    {
-        "name": "fridgekey",
-        "type": "toggle",
-        "img": "images/items/fridgekey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fridgekey"
-    },
-    {
-        "name": "foldingchair",
-        "type": "toggle",
-        "img": "images/items/foldingchair.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "foldingchair"
-    },
-    {
-        "name": "heavystonetorch",
-        "type": "toggle",
-        "img": "images/items/heavystonetorch.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "heavystonetorch"
-    },
-    {
-        "name": "king",
-        "type": "toggle",
-        "img": "images/items/king.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "king"
-    },
-    {
-        "name": "pirate",
-        "type": "toggle",
-        "img": "images/items/pirate.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pirate"
-    },
-    {
-        "name": "brick",
-        "type": "toggle",
-        "img": "images/items/brick.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "brick"
-    },
-    {
-        "name": "beeniethebirthdayboy",
-        "type": "toggle",
-        "img": "images/items/beeniethebirthdayboy.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "beeniethebirthdayboy"
-    },
-    {
-        "name": "brokenwall",
-        "type": "toggle",
-        "img": "images/items/brokenwall.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "brokenwall"
-    },
-    {
-        "name": "mr.heel",
-        "type": "toggle",
-        "img": "images/items/mr.heel.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mr.heel"
-    },
-    {
-        "name": "gym",
-        "type": "toggle",
-        "img": "images/items/gym.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gym"
-    },
-    {
-        "name": "michi",
-        "type": "toggle",
-        "img": "images/items/michi.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "michi"
-    },
-    {
-        "name": "fone",
-        "type": "toggle",
-        "img": "images/items/fone.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fone"
-    },
-    {
-        "name": "concrete",
-        "type": "toggle",
-        "img": "images/items/concrete.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "concrete"
-    },
-    {
-        "name": "synthesizer",
-        "type": "toggle",
-        "img": "images/items/synthesizer.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "synthesizer"
-    },
-    {
-        "name": "door",
-        "type": "toggle",
-        "img": "images/items/door.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "door"
-    },
-    {
-        "name": "bishop",
-        "type": "toggle",
-        "img": "images/items/bishop.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bishop"
-    },
-    {
-        "name": "feraldog",
-        "type": "toggle",
-        "img": "images/items/feraldog.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "feraldog"
-    },
-    {
-        "name": "suitcase",
-        "type": "toggle",
-        "img": "images/items/suitcase.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "suitcase"
-    },
-    {
-        "name": "priestess",
-        "type": "toggle",
-        "img": "images/items/priestess.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "priestess"
-    },
-    {
-        "name": "purplemysticalgem",
-        "type": "progressive",
-        "loop": false,
-        "allow_disabled": true,
-        "initial_stage_idx": 0,
-        "overlay_align": "right",
-        "stages": [
-            {
-                "name": "purplemysticalgem stage1",
-                "inherit_codes": true,
-                "img": "/images/items/purplemysticalgem.png",
-                "codes": "purplemysticalgem, purplemysticalgem_stage1"
-            },
-            {
-                "name": "purplemysticalgem stage2",
-                "inherit_codes": true,
-                "img": "/images/items/purplemysticalgem.png",
-                "codes": "purplemysticalgem_stage2"
-            },
-            {
-                "name": "purplemysticalgem stage3",
-                "inherit_codes": true,
-                "img": "/images/items/purplemysticalgem.png",
-                "codes": "purplemysticalgem_stage3"
-            }
-        ]
-    },
-    {
-        "name": "cheesewife",
-        "type": "toggle",
-        "img": "images/items/cheesewife.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cheesewife"
-    },
-    {
-        "name": "warningsign",
-        "type": "toggle",
-        "img": "images/items/warningsign.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "warningsign"
-    },
-    {
-        "name": "trolley",
-        "type": "toggle",
-        "img": "images/items/trolley.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "trolley"
-    },
-    {
-        "name": "toastie",
-        "type": "toggle",
-        "img": "images/items/toastie.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "toastie"
-    },
-    {
-        "name": "radioblimbo",
-        "type": "toggle",
-        "img": "images/items/radioblimbo.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "radioblimbo"
-    },
-    {
-        "name": "windmill",
-        "type": "toggle",
-        "img": "images/items/windmill.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "windmill"
-    },
-    {
-        "name": "oldsign",
-        "type": "toggle",
-        "img": "images/items/oldsign.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "oldsign"
-    },
-    {
-        "name": "rook",
-        "type": "toggle",
-        "img": "images/items/rook.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rook"
-    },
-    {
-        "name": "oughamstone",
-        "type": "toggle",
-        "img": "images/items/oughamstone.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "oughamstone"
-    },
-    {
-        "name": "bin",
-        "type": "toggle",
-        "img": "images/items/bin.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bin"
-    },
-    {
-        "name": "pickaxe",
-        "type": "toggle",
-        "img": "images/items/pickaxe.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pickaxe"
-    },
-    {
-        "name": "cheese",
-        "type": "toggle",
-        "img": "images/items/cheese.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cheese"
-    },
-    {
-        "name": "flowerblimbo",
-        "type": "toggle",
-        "img": "images/items/flowerblimbo.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "flowerblimbo"
-    },
-    {
-        "name": "loganright",
-        "type": "toggle",
-        "img": "images/items/loganright.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "loganright"
-    },
-    {
-        "name": "demoncore",
-        "type": "toggle",
-        "img": "images/items/demoncore.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "demoncore"
-    },
-    {
-        "name": "fridge",
-        "type": "toggle",
-        "img": "images/items/fridge.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fridge"
-    },
-    {
-        "name": "digitalpolaroidcamera",
-        "type": "toggle",
-        "img": "images/items/digitalpolaroidcamera.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "digitalpolaroidcamera"
-    },
-    {
-        "name": "funbells",
-        "type": "toggle",
-        "img": "images/items/funbells.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "funbells"
-    },
-    {
-        "name": "bookstack",
-        "type": "toggle",
-        "img": "images/items/bookstack.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bookstack"
-    },
-    {
-        "name": "cheekypint",
-        "type": "toggle",
-        "img": "images/items/cheekypint.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cheekypint"
-    },
-    {
-        "name": "sign",
-        "type": "toggle",
-        "img": "images/items/sign.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sign"
-    },
-    {
-        "name": "milkklubnika",
-        "type": "toggle",
-        "img": "images/items/milkklubnika.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "milkklubnika"
-    },
-    {
-        "name": "funimarketableplushie",
-        "type": "toggle",
-        "img": "images/items/funimarketableplushie.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "funimarketableplushie"
     },
     {
         "name": "progressivecoolingrod",
@@ -1144,200 +70,12 @@
         ]
     },
     {
-        "name": "progressivemysticaldumbbell",
-        "type": "progressive",
-        "loop": false,
-        "allow_disabled": true,
-        "initial_stage_idx": 0,
-        "overlay_align": "right",
-        "stages": [
-            {
-                "name": "progressivemysticaldumbbell stage1",
-                "inherit_codes": true,
-                "img": "/images/items/progressivemysticaldumbbell.png",
-                "codes": "progressivemysticaldumbbell, progressivemysticaldumbbell_stage1"
-            },
-            {
-                "name": "progressivemysticaldumbbell stage2",
-                "inherit_codes": true,
-                "img": "/images/items/progressivemysticaldumbbell.png",
-                "codes": "progressivemysticaldumbbell_stage2"
-            },
-            {
-                "name": "progressivemysticaldumbbell stage3",
-                "inherit_codes": true,
-                "img": "/images/items/progressivemysticaldumbbell.png",
-                "codes": "progressivemysticaldumbbell_stage3"
-            }
-        ]
-    },
-    {
-        "name": "yolky",
+        "name": "keitruck",
         "type": "toggle",
-        "img": "images/items/yolky.png",
+        "img": "images/items/keitruck.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "yolky"
-    },
-    {
-        "name": "queen",
-        "type": "toggle",
-        "img": "images/items/queen.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "queen"
-    },
-    {
-        "name": "lughling",
-        "type": "toggle",
-        "img": "images/items/lughling.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lughling"
-    },
-    {
-        "name": "kettle",
-        "type": "toggle",
-        "img": "images/items/kettle.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "kettle"
-    },
-    {
-        "name": "bench",
-        "type": "toggle",
-        "img": "images/items/bench.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bench"
-    },
-    {
-        "name": "evilraccoon",
-        "type": "toggle",
-        "img": "images/items/evilraccoon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "evilraccoon"
-    },
-    {
-        "name": "sombrero",
-        "type": "toggle",
-        "img": "images/items/sombrero.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sombrero"
-    },
-    {
-        "name": "fan",
-        "type": "toggle",
-        "img": "images/items/fan.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fan"
-    },
-    {
-        "name": "brokentruck",
-        "type": "toggle",
-        "img": "images/items/brokentruck.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "brokentruck"
-    },
-    {
-        "name": "streetlamp",
-        "type": "toggle",
-        "img": "images/items/streetlamp.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "streetlamp"
-    },
-    {
-        "name": "toaster",
-        "type": "toggle",
-        "img": "images/items/toaster.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "toaster"
-    },
-    {
-        "name": "divider",
-        "type": "toggle",
-        "img": "images/items/divider.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "divider"
-    },
-    {
-        "name": "funiraccoongamedeluxe",
-        "type": "toggle",
-        "img": "images/items/funiraccoongamedeluxe.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "funiraccoongamedeluxe"
-    },
-    {
-        "name": "pawn",
-        "type": "toggle",
-        "img": "images/items/pawn.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pawn"
-    },
-    {
-        "name": "fridgecrown",
-        "type": "toggle",
-        "img": "images/items/fridgecrown.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fridgecrown"
-    },
-    {
-        "name": "orb",
-        "type": "toggle",
-        "img": "images/items/orb.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "orb"
-    },
-    {
-        "name": "underconstruction",
-        "type": "toggle",
-        "img": "images/items/underconstruction.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "underconstruction"
-    },
-    {
-        "name": "goo",
-        "type": "toggle",
-        "img": "images/items/goo.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "goo"
-    },
-    {
-        "name": "apple",
-        "type": "toggle",
-        "img": "images/items/apple.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "apple"
-    },
-    {
-        "name": "fridgling",
-        "type": "toggle",
-        "img": "images/items/fridgling.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fridgling"
-    },
-    {
-        "name": "beautifulflower",
-        "type": "toggle",
-        "img": "images/items/beautifulflower.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "beautifulflower"
+        "codes": "keitruck"
     },
     {
         "name": "keitruckboost",
@@ -1348,122 +86,99 @@
         "codes": "keitruckboost"
     },
     {
-        "name": "sunhat",
+        "name": "keitrucktoaster",
         "type": "toggle",
-        "img": "images/items/sunhat.png",
+        "img": "images/items/keitrucktoaster.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "sunhat"
+        "codes": "keitrucktoaster"
     },
     {
-        "name": "keksz",
+        "name": "oldassrustyasskey",
         "type": "toggle",
-        "img": "images/items/keksz.png",
+        "img": "images/items/oldassrustyasskey.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "keksz"
+        "codes": "oldassrustyasskey"
     },
     {
-        "name": "realgym",
+        "name": "fridgekey",
         "type": "toggle",
-        "img": "images/items/realgym.png",
+        "img": "images/items/fridgekey.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "realgym"
+        "codes": "fridgekey"
     },
     {
-        "name": "cricketbat",
+        "name": "butterfly",
         "type": "toggle",
-        "img": "images/items/cricketbat.png",
+        "img": "images/items/butterfly.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "cricketbat"
+        "codes": "butterfly"
     },
     {
-        "name": "beachball",
+        "name": "brobenergy",
         "type": "toggle",
-        "img": "images/items/beachball.png",
+        "img": "images/items/brobenergy.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "beachball"
+        "codes": "brobenergy"
     },
     {
-        "name": "beeniesavestheorphans",
+        "name": "vendingmachine(acceptsdoubloons)",
         "type": "toggle",
-        "img": "images/items/beeniesavestheorphans.png",
+        "img": "images/items/vendingmachine(acceptsdoubloons).png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "beeniesavestheorphans"
+        "codes": "vendingmachine(acceptsdoubloons)"
     },
     {
-        "name": "pirate2",
+        "name": "chicken",
         "type": "toggle",
-        "img": "images/items/pirate2.png",
+        "img": "images/items/chicken.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "pirate2"
+        "codes": "chicken"
     },
     {
-        "name": "raccoonhat",
+        "name": "cat",
         "type": "toggle",
-        "img": "images/items/raccoonhat.png",
+        "img": "images/items/cat.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "raccoonhat"
+        "codes": "cat"
     },
     {
-        "name": "computermonitor(60hz)",
+        "name": "gem",
         "type": "toggle",
-        "img": "images/items/computermonitor(60hz).png",
+        "img": "images/items/gem.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "computermonitor(60hz)"
+        "codes": "gem"
     },
     {
-        "name": "crayon",
+        "name": "euro",
         "type": "toggle",
-        "img": "images/items/crayon.png",
+        "img": "images/items/euro.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "crayon"
+        "codes": "euro"
     },
     {
-        "name": "cdplayer",
+        "name": "hat",
         "type": "toggle",
-        "img": "images/items/cdplayer.png",
+        "img": "images/items/hat.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "cdplayer"
+        "codes": "hat"
     },
     {
-        "name": "michelle",
+        "name": "raccoon",
         "type": "toggle",
-        "img": "images/items/michelle.png",
+        "img": "images/items/raccoon.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "michelle"
-    },
-    {
-        "name": "mediaplayerhat",
-        "type": "toggle",
-        "img": "images/items/mediaplayerhat.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mediaplayerhat"
-    },
-    {
-        "name": "update",
-        "type": "toggle",
-        "img": "images/items/update.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "update"
-    },
-    {
-        "name": "dumpster_counter",
-        "type": "count",
-        "img": "images/items/bin.png",
-        "max_quantity": 147,
-        "codes": "dumpster_counter"
+        "codes": "raccoon"
     }
 ]

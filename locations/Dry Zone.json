@@ -27,9 +27,10 @@
                 "map_locations": [
                     {
                         "map": "Dry Zone",
-                        "x": 1467,
-                        "y": 1205,
-                        "size": 6
+                        "x": 2254,
+                        "y": 145,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

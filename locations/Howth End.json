@@ -27,9 +27,10 @@
                 "map_locations": [
                     {
                         "map": "Howth End",
-                        "x": 357,
-                        "y": 2269,
-                        "size": 6
+                        "x": 2439,
+                        "y": 1187,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

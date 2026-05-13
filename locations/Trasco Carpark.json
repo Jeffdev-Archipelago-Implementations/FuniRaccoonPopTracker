@@ -36,9 +36,10 @@
                         "map_locations": [
                             {
                                 "map": "Trasco Carpark",
-                                "x": 1766,
-                                "y": 1996,
-                                "size": 6
+                                "x": 655,
+                                "y": 327,
+                                "size": 28,
+                                "shape": "rect"
                             }
                         ]
                     }
@@ -75,9 +76,10 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 934,
-                        "y": 1570,
-                        "size": 6
+                        "x": 2570,
+                        "y": 745,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -100,9 +102,10 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 1987,
-                        "y": 526,
-                        "size": 6
+                        "x": 870,
+                        "y": 757,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -125,9 +128,10 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 827,
-                        "y": 1112,
-                        "size": 6
+                        "x": 1307,
+                        "y": 655,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -150,9 +154,10 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 283,
-                        "y": 1951,
-                        "size": 6
+                        "x": 1750,
+                        "y": 977,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -177,7 +182,8 @@
                         "map": "Trasco Carpark",
                         "x": 966,
                         "y": 599,
-                        "size": 6
+                        "size": 6,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -200,9 +206,10 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 1185,
-                        "y": 825,
-                        "size": 6
+                        "x": 44,
+                        "y": 888,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -225,9 +232,10 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 609,
-                        "y": 1728,
-                        "size": 6
+                        "x": 1565,
+                        "y": 595,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }

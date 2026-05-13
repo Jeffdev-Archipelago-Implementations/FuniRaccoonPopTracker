@@ -27,9 +27,10 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle Casino",
-                        "x": 1303,
-                        "y": 2359,
-                        "size": 6
+                        "x": 2528,
+                        "y": 949,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             }
