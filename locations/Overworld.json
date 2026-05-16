@@ -53,10 +53,6 @@
                         "ref": "Beenie HQ Back/Store Letter B/"
                     },
                     {
-                        "name": "Store Brick - ",
-                        "ref": "Beenie HQ Back/Store Brick/"
-                    },
-                    {
                         "name": "Store Beach Ball - ",
                         "ref": "Beenie HQ Back/Store Beach Ball/"
                     },
@@ -158,10 +154,6 @@
                     " "
                 ],
                 "sections": [
-                    {
-                        "name": "Store Toaster - ",
-                        "ref": "Beenie HQ Inside/Store Toaster/"
-                    },
                     {
                         "name": "Store Beenie the Birthday Boy - ",
                         "ref": "Beenie HQ Inside/Store Beenie the Birthday Boy/"
@@ -272,12 +264,8 @@
                         "ref": "Blimbo City Bottom Main/Store Bell Boy/"
                     },
                     {
-                        "name": "Store TV Remote - ",
-                        "ref": "Blimbo City Bottom Main/Store TV Remote/"
-                    },
-                    {
                         "name": "Store Yolky - ",
-                        "ref": "Blimbo City Bottom Main/Store Yolky/"
+                        "ref": "Blimbo City Middle/Store Yolky/"
                     },
                     {
                         "name": "Euro on watertower - ",
@@ -583,11 +571,11 @@
                     },
                     {
                         "name": "Store Eel Can - ",
-                        "ref": "Blimbo Village Start/Forest/Store Eel Can/"
+                        "ref": "Blimbo Village Start/Forest/Store Eel Can"
                     },
                     {
                         "name": "Find Raccoon Hat - ",
-                        "ref": "Blimbo Village Start/Forest/Find Raccoon Hat/"
+                        "ref": "Blimbo Village Start/Forest/Find Raccoon Hat"
                     },
                     {
                         "name": "Kei Truck Score - Get 1000 Score with Kei Truck",
@@ -714,10 +702,6 @@
                     " "
                 ],
                 "sections": [
-                    {
-                        "name": "Store BookBlo - ",
-                        "ref": "Canyon Main/Store BookBlo/"
-                    },
                     {
                         "name": "Store Cheese Wife - ",
                         "ref": "Canyon Main/Store Cheese Wife/"
@@ -935,7 +919,7 @@
                     },
                     {
                         "name": "Act 1 - ",
-                        "ref": "Gym Inside/Eat Mystical Dumbbell/Act 1/"
+                        "ref": "Gym Inside/Eat Mystical Dumbbell Act 1/"
                     }
                 ],
                 "map_locations": [
@@ -956,10 +940,6 @@
                     " "
                 ],
                 "sections": [
-                    {
-                        "name": "Store Moai - ",
-                        "ref": "Gym Outside/Store Moai/"
-                    },
                     {
                         "name": "Store Radio - ",
                         "ref": "Gym Outside/Store Radio/"
@@ -1083,7 +1063,7 @@
                     },
                     {
                         "name": "Act 4 - ",
-                        "ref": "Municipal Wastes/Eat Mystical Dumbbell/Act 4/"
+                        "ref": "Municipal Wastes/Eat Mystical Dumbbell Act 4/"
                     },
                     {
                         "name": "Euro on top of breakfast building - ",
@@ -1134,15 +1114,15 @@
                 "sections": [
                     {
                         "name": "Store Michi Cat - ",
-                        "ref": "Museum/Chamber/Store Michi Cat/"
+                        "ref": "Museum/Chamber/Store Michi Cat"
                     },
                     {
-                        "name": "Act 2 - ",
-                        "ref": "Museum/Chamber/Act 2/"
+                        "name": "Eat Mystical Dumbbell Act 2 - ",
+                        "ref": "Museum/Chamber/Eat Mystical Dumbbell Act 2"
                     },
                     {
                         "name": "Find Michi Cat - ",
-                        "ref": "Museum/Chamber/Find Michi Cat/"
+                        "ref": "Museum/Chamber/Find Michi Cat"
                     },
                     {
                         "name": "Store Logan Left - ",
@@ -1256,20 +1236,12 @@
                         "ref": "Norwich/Store Heavy Stone Torch/"
                     },
                     {
-                        "name": "Store Computer Monitor (60hz) - ",
-                        "ref": "Norwich/Store Computer Monitor (60hz)/"
-                    },
-                    {
                         "name": "Store Sign - ",
                         "ref": "Norwich/Store Sign/"
                     },
                     {
                         "name": "Store Crack Head - ",
                         "ref": "Norwich/Store Crack Head/"
-                    },
-                    {
-                        "name": "Store Toastie - ",
-                        "ref": "Norwich/Store Toastie/"
                     },
                     {
                         "name": "Church - Store Folding Chair",
@@ -1313,6 +1285,53 @@
                         "map": "Overworld",
                         "x": 2262,
                         "y": 2043,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Rackheath",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Store Moai - ",
+                        "ref": "Rackheath/Store Moai/"
+                    },
+                    {
+                        "name": "Store Toaster - ",
+                        "ref": "Rackheath/Store Toaster/"
+                    },
+                    {
+                        "name": "Store Brick - ",
+                        "ref": "Rackheath/Store Brick/"
+                    },
+                    {
+                        "name": "Store TV Remote - ",
+                        "ref": "Rackheath/Store TV Remote/"
+                    },
+                    {
+                        "name": "Store BookBlo - ",
+                        "ref": "Rackheath/Store BookBlo/"
+                    },
+                    {
+                        "name": "Store Computer Monitor (60hz) - ",
+                        "ref": "Rackheath/Store Computer Monitor (60hz)/"
+                    },
+                    {
+                        "name": "Store Toastie - ",
+                        "ref": "Rackheath/Store Toastie/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2300,
+                        "y": 1900,
                         "size": 6
                     }
                 ]
@@ -1488,7 +1507,7 @@
                     },
                     {
                         "name": "Store Beenie Saves The Orphans - ",
-                        "ref": "THE MACHINE/Store Beenie Saves The Orphans"
+                        "ref": "THE MACHINE/Store Beenie Saves The Orphans/"
                     },
                     {
                         "name": "Store Beautiful Flower - ",
@@ -1523,7 +1542,7 @@
                 "sections": [
                     {
                         "name": "Act 3 - ",
-                        "ref": "Trasco Carpark/Eat Mystical Dumbbell/Act 3/"
+                        "ref": "Trasco Carpark/Eat Mystical Dumbbell Act 3/"
                     },
                     {
                         "name": "Euro on Edge - Euro on edge wall 1",

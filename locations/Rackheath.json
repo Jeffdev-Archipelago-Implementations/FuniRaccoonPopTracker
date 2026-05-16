@@ -1,6 +1,6 @@
 [
     {
-        "name": "Gym Outside",
+        "name": "Rackheath",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
@@ -9,7 +9,7 @@
         ],
         "children": [
             {
-                "name": "Store Radio",
+                "name": "Store Moai",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -26,48 +26,16 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 756,
-                        "y": 639,
+                        "map": "Rackheath",
+                        "x": 100,
+                        "y": 100,
                         "size": 28,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Concrete Cat",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Concrete Cat",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Find Concrete Cat",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Gym Outside",
-                        "x": 981,
-                        "y": 710,
-                        "size": 28,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Store Digital Polaroid Camera",
+                "name": "Store Toaster",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -84,16 +52,16 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 699,
-                        "y": 597,
+                        "map": "Rackheath",
+                        "x": 200,
+                        "y": 100,
                         "size": 28,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Euro on roof with vending machine",
+                "name": "Store Brick",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -110,16 +78,16 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 356,
-                        "y": 856,
+                        "map": "Rackheath",
+                        "x": 300,
+                        "y": 100,
                         "size": 28,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Euro behind building",
+                "name": "Store TV Remote",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -136,16 +104,16 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 513,
-                        "y": 1005,
+                        "map": "Rackheath",
+                        "x": 400,
+                        "y": 100,
                         "size": 28,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Euro at end of train tracks",
+                "name": "Store BookBlo",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -162,16 +130,16 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 3015,
-                        "y": 954,
+                        "map": "Rackheath",
+                        "x": 500,
+                        "y": 100,
                         "size": 28,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Euro on bee sign under clouds",
+                "name": "Store Computer Monitor (60hz)",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -188,53 +156,16 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 567,
-                        "y": 722,
+                        "map": "Rackheath",
+                        "x": 600,
+                        "y": 100,
                         "size": 28,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Cleaners",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "Store Washing Machine",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gym Outside",
-                                "x": 703,
-                                "y": 846,
-                                "size": 28,
-                                "shape": "rect"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Tyre World",
+                "name": "Store Toastie",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -243,31 +174,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Store Orphan Tyre",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Store Papa Tyre",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Store Smoker",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Store Broken Truck",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Euro on roof of entrance",
+                        "name": "",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -275,9 +182,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 791,
-                        "y": 852,
+                        "map": "Rackheath",
+                        "x": 700,
+                        "y": 100,
                         "size": 28,
                         "shape": "rect"
                     }

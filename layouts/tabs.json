@@ -29,6 +29,10 @@
                         {
                             "title": "Gym",
                             "content": {"type": "map", "maps": ["Gym Outside", "Gym Inside"]}
+                        },
+                        {
+                            "title": "Rackheath",
+                            "content": {"type": "map", "maps": ["Rackheath"]}
                         }
                     ]
                 }
@@ -216,6 +220,10 @@
                         {
                             "title": "Gym",
                             "content": {"type": "map", "maps": ["Gym Outside", "Gym Inside"]}
+                        },
+                        {
+                            "title": "Rackheath",
+                            "content": {"type": "map", "maps": ["Rackheath"]}
                         }
                     ]
                 }

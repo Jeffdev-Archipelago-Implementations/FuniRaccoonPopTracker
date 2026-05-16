@@ -20,8 +20,8 @@
                         "rows": [
                             [
                                 "mysticalgems",
-                                "progressivemysticaldumbbell, progressivemysticaldumbbell_stage1",
-                                "progressivecoolingrod, progressivecoolingrod_stage1",
+                                "progressivemysticaldumbbell",
+                                "progressivecoolingrod",
                                 "keitruck",
                                 "keitruckboost",
                                 "keitrucktoaster",
@@ -64,8 +64,8 @@
                         "rows": [
                             [
                                 "mysticalgems",
-                                "progressivemysticaldumbbell, progressivemysticaldumbbell_stage1",
-                                "progressivecoolingrod, progressivecoolingrod_stage1",
+                                "progressivemysticaldumbbell",
+                                "progressivecoolingrod",
                                 "keitruck",
                                 "keitruckboost",
                                 "keitrucktoaster",
@@ -73,7 +73,7 @@
                                 "fridgekey",
                                 "butterfly",
                                 "brobenergy",
-                                "vendingmachine(acceptsdoubloons)",
+                                "vendingmachine",
                                 "chicken",
                                 "cat",
                                 "gem",

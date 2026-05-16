@@ -9,41 +9,22 @@
         ],
         "children": [
             {
-                "name": "Eat Mystical Dumbbell",
+                "name": "Eat Mystical Dumbbell Act 3",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
-                "children": [
+                "sections": [
                     {
-                        "name": "Act 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Trasco Carpark",
-                                "x": 655,
-                                "y": 327,
-                                "size": 28,
-                                "shape": "rect"
-                            }
-                        ]
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
                     }
-                ]
+                ],
+                "map_locations": []
             },
             {
                 "name": "Euro on Edge",

@@ -38,6 +38,31 @@
                         "size": 6
                     }
                 ]
+            },
+            {
+                "name": "Store Beenie Saves The Orphans",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Machine",
+                        "x": 1500,
+                        "y": 500,
+                        "size": 6
+                    }
+                ]
             }
         ],
         "sections": [
@@ -49,12 +74,6 @@
             },
             {
                 "name": "Store Candle",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Store Beenie Saves The Orphans",
                 "access_rules": [],
                 "visibility_rules": [],
                 "item_count": 1

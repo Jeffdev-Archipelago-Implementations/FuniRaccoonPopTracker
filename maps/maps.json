@@ -42,5 +42,6 @@
     {"name": "Trasco Carpark", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Trasco Carpark Main.png"},
     {"name": "Trasco Carpark Main", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Trasco Carpark Main.png"},
     {"name": "Trasco Carpark Piss Shrine", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Piss Shrine.png"},
-    {"name": "Water Zone", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Da Water Zone.png"}
+    {"name": "Water Zone", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Da Water Zone.png"},
+    {"name": "Rackheath", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Rackheath.png"}
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "name": "mysticalgems",
+        "name": "Mystical Gems",
         "type": "toggle",
         "img": "images/items/mysticalgems.png",
         "initial_active_state": false,
@@ -8,69 +8,29 @@
         "codes": "mysticalgems"
     },
     {
-        "name": "progressivemysticaldumbbell",
-        "type": "progressive",
-        "loop": false,
-        "allow_disabled": true,
-        "initial_stage_idx": 0,
-        "overlay_align": "right",
-        "stages": [
-            {
-                "name": "progressivemysticaldumbbell stage1",
-                "inherit_codes": true,
-                "img": "images/items/progressivemysticaldumbbell.png",
-                "codes": "progressivemysticaldumbbell, progressivemysticaldumbbell_stage1"
-            },
-            {
-                "name": "progressivemysticaldumbbell stage2",
-                "inherit_codes": true,
-                "img": "images/items/progressivemysticaldumbbell.png",
-                "codes": "progressivemysticaldumbbell_stage2"
-            },
-            {
-                "name": "progressivemysticaldumbbell stage3",
-                "inherit_codes": true,
-                "img": "images/items/progressivemysticaldumbbell.png",
-                "codes": "progressivemysticaldumbbell_stage3"
-            },
-            {
-                "name": "progressivemysticaldumbbell stage4",
-                "inherit_codes": true,
-                "img": "images/items/progressivemysticaldumbbell.png",
-                "codes": "progressivemysticaldumbbell_stage4"
-            }
-        ]
+        "name": "Progressive Mystical Dumbbell",
+        "type": "consumable",
+        "increment": 1,
+        "max_quantity": 4,
+        "overlay_background": "#C0111111",
+        "img": "images/items/progressivemysticaldumbbell.png",
+        "disabled_img": "images/items/progressivemysticaldumbbell.png",
+        "disabled_img_mods": "",
+        "codes": "progressivemysticaldumbbell"
     },
     {
-        "name": "progressivecoolingrod",
-        "type": "progressive",
-        "loop": false,
-        "allow_disabled": true,
-        "initial_stage_idx": 0,
-        "overlay_align": "right",
-        "stages": [
-            {
-                "name": "progressivecoolingrod stage1",
-                "inherit_codes": true,
-                "img": "images/items/progressivecoolingrod.png",
-                "codes": "progressivecoolingrod, progressivecoolingrod_stage1"
-            },
-            {
-                "name": "progressivecoolingrod stage2",
-                "inherit_codes": true,
-                "img": "images/items/progressivecoolingrod.png",
-                "codes": "progressivecoolingrod_stage2"
-            },
-            {
-                "name": "progressivecoolingrod stage3",
-                "inherit_codes": true,
-                "img": "images/items/progressivecoolingrod.png",
-                "codes": "progressivecoolingrod_stage3"
-            }
-        ]
+        "name": "Progressive Cooling Rod",
+        "type": "consumable",
+        "increment": 1,
+        "max_quantity": 3,
+        "overlay_background": "#C0111111",
+        "img": "images/items/progressivecoolingrod.png",
+        "disabled_img": "images/items/progressivecoolingrod.png",
+        "disabled_img_mods": "",
+        "codes": "progressivecoolingrod"
     },
     {
-        "name": "keitruck",
+        "name": "Kei Truck",
         "type": "toggle",
         "img": "images/items/keitruck.png",
         "initial_active_state": false,
@@ -78,7 +38,7 @@
         "codes": "keitruck"
     },
     {
-        "name": "keitruckboost",
+        "name": "Kei Truck Boost",
         "type": "toggle",
         "img": "images/items/keitruckboost.png",
         "initial_active_state": false,
@@ -86,7 +46,7 @@
         "codes": "keitruckboost"
     },
     {
-        "name": "keitrucktoaster",
+        "name": "Kei Truck Toaster",
         "type": "toggle",
         "img": "images/items/keitrucktoaster.png",
         "initial_active_state": false,
@@ -94,7 +54,7 @@
         "codes": "keitrucktoaster"
     },
     {
-        "name": "oldassrustyasskey",
+        "name": "Old Ass Rusty Ass Key",
         "type": "toggle",
         "img": "images/items/oldassrustyasskey.png",
         "initial_active_state": false,
@@ -102,7 +62,7 @@
         "codes": "oldassrustyasskey"
     },
     {
-        "name": "fridgekey",
+        "name": "Fridge Key",
         "type": "toggle",
         "img": "images/items/fridgekey.png",
         "initial_active_state": false,
@@ -110,7 +70,7 @@
         "codes": "fridgekey"
     },
     {
-        "name": "butterfly",
+        "name": "Butterfly",
         "type": "toggle",
         "img": "images/items/butterfly.png",
         "initial_active_state": false,
@@ -118,7 +78,7 @@
         "codes": "butterfly"
     },
     {
-        "name": "brobenergy",
+        "name": "Brob Energy",
         "type": "toggle",
         "img": "images/items/brobenergy.png",
         "initial_active_state": false,
@@ -126,7 +86,7 @@
         "codes": "brobenergy"
     },
     {
-        "name": "vendingmachine(acceptsdoubloons)",
+        "name": "Vending Machine (Accepts Doubloons)",
         "type": "toggle",
         "img": "images/items/vendingmachine.png",
         "initial_active_state": false,
@@ -134,7 +94,7 @@
         "codes": "vendingmachine(acceptsdoubloons)"
     },
     {
-        "name": "chicken",
+        "name": "Chicken",
         "type": "toggle",
         "img": "images/items/chicken.png",
         "initial_active_state": false,
@@ -142,7 +102,7 @@
         "codes": "chicken"
     },
     {
-        "name": "cat",
+        "name": "Cat",
         "type": "toggle",
         "img": "images/items/cat.png",
         "initial_active_state": false,
@@ -150,7 +110,7 @@
         "codes": "cat"
     },
     {
-        "name": "gem",
+        "name": "Gem",
         "type": "toggle",
         "img": "images/items/gem.png",
         "initial_active_state": false,
@@ -158,7 +118,7 @@
         "codes": "gem"
     },
     {
-        "name": "euro",
+        "name": "Euro",
         "type": "toggle",
         "img": "images/items/euro.png",
         "initial_active_state": false,
@@ -166,7 +126,7 @@
         "codes": "euro"
     },
     {
-        "name": "hat",
+        "name": "Hat",
         "type": "toggle",
         "img": "images/items/hat.png",
         "initial_active_state": false,
@@ -174,7 +134,7 @@
         "codes": "hat"
     },
     {
-        "name": "raccoon",
+        "name": "Raccoon",
         "type": "toggle",
         "img": "images/items/raccoon.png",
         "initial_active_state": false,
