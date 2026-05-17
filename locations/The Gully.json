@@ -5,7 +5,9 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "$dumpster,100",
+            "$keitruck",
+            "$progressivecoolingrod,3"
         ],
         "children": [
             {
@@ -44,7 +46,7 @@
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": [],
+                        "access_rules": ["{$dumbbell,4,$raccoon}"],
                         "visibility_rules": [],
                         "item_count": 1
                     }

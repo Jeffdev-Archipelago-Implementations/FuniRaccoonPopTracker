@@ -5,7 +5,8 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "$dumpster,50",
+            "$keitruck"
         ],
         "children": [
             {
@@ -92,7 +93,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "{$dumbbell,2,$raccoon}"
                 ],
                 "sections": [
                     {
@@ -118,7 +119,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "{$dumbbell,2,$raccoon}"
                 ],
                 "sections": [
                     {
@@ -140,7 +141,7 @@
             },
             {
                 "name": "Eat Mystical Dumbbell Act 4",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/dumbbell.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -158,7 +159,7 @@
             },
             {
                 "name": "Euro on top of breakfast building",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -184,7 +185,7 @@
             },
             {
                 "name": "Euro on top of chinese building",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -210,7 +211,7 @@
             },
             {
                 "name": "Euro on lower end of chinese building",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -236,7 +237,7 @@
             },
             {
                 "name": "Euro on sad therapy sign building",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -262,7 +263,7 @@
             },
             {
                 "name": "Euro nearby mystical dumbbell in flowers",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -288,7 +289,7 @@
             },
             {
                 "name": "Euro on road edge",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -314,7 +315,7 @@
             },
             {
                 "name": "Euro on dead blimbos building",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [

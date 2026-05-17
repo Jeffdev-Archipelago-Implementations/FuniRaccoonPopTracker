@@ -5,12 +5,13 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "$dumpster,25",
+            "{$goo,$keitruck}"
         ],
         "children": [
             {
                 "name": "Eat Mystical Dumbbell Act 3",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/dumbbell.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -28,7 +29,7 @@
             },
             {
                 "name": "Euro on Edge",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -96,7 +97,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "{$dumbbell,3,$raccoon}"
                 ],
                 "sections": [
                     {
@@ -122,7 +123,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "{$dumbbell,1,$raccoon}"
                 ],
                 "sections": [
                     {
@@ -148,12 +149,12 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$fridgekey"
                 ],
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": [],
+                        "access_rules": ["{$dumbbell,2,$raccoon}"],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -169,43 +170,17 @@
                 ]
             },
             {
-                "name": "Store CD Player",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Trasco Carpark",
-                        "x": 44,
-                        "y": 888,
-                        "size": 28,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
                 "name": "Store Milk Klubnika",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$fridgekey"
                 ],
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": [],
+                        "access_rules": ["{$dumbbell,1,$raccoon}"],
                         "visibility_rules": [],
                         "item_count": 1
                     }

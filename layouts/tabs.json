@@ -5,8 +5,29 @@
             {
                 "title": "Overworld",
                 "content": {
-                    "type": "map",
-                    "maps": ["Overworld"]
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Map",
+                            "content": {"type": "map", "maps": ["Overworld"]}
+                        },
+                        {
+                            "title": "Act 1 Cluster",
+                            "content": {"type": "map", "maps": ["Act 1 Cluster"]}
+                        },
+                        {
+                            "title": "Act 2 Cluster",
+                            "content": {"type": "map", "maps": ["Act 2 Cluster"]}
+                        },
+                        {
+                            "title": "Act 3 Cluster",
+                            "content": {"type": "map", "maps": ["Act 3 Cluster"]}
+                        },
+                        {
+                            "title": "Act 4 Cluster",
+                            "content": {"type": "map", "maps": ["Act 4 Cluster"]}
+                        }
+                    ]
                 }
             },
             {
@@ -33,15 +54,36 @@
                         {
                             "title": "Rackheath",
                             "content": {"type": "map", "maps": ["Rackheath"]}
+                        },
+                        {
+                            "title": "Museum",
+                            "content": {"type": "map", "maps": ["Museum"]}
+                        },
+                        {
+                            "title": "Chicken Farm",
+                            "content": {"type": "map", "maps": ["Chicken Farm"]}
+                        },
+                        {
+                            "title": "Church",
+                            "content": {"type": "map", "maps": ["Church"]}
+                        },
+                        {
+                            "title": "Hat Store",
+                            "content": {"type": "map", "maps": ["Hat Store"]}
+                        },
+                        {
+                            "title": "Behrman Speedway",
+                            "content": {"type": "map", "maps": ["Behrman Speedway"]}
+                        },
+                        {
+                            "title": "Cleaners",
+                            "content": {"type": "map", "maps": ["Cleaners"]}
+                        },
+                        {
+                            "title": "Tyre World",
+                            "content": {"type": "map", "maps": ["Tyre World"]}
                         }
                     ]
-                }
-            },
-            {
-                "title": "Museum",
-                "content": {
-                    "type": "map",
-                    "maps": ["Museum"]
                 }
             },
             {
@@ -72,6 +114,18 @@
                         {
                             "title": "Howth",
                             "content": {"type": "map", "maps": ["Howth Start", "Howth End"]}
+                        },
+                        {
+                            "title": "Fish Vore",
+                            "content": {"type": "map", "maps": ["Fish Vore"]}
+                        },
+                        {
+                            "title": "Fields",
+                            "content": {"type": "map", "maps": ["Fields"]}
+                        },
+                        {
+                            "title": "Beenie Death",
+                            "content": {"type": "map", "maps": ["Beenie Death"]}
                         }
                     ]
                 }
@@ -94,64 +148,84 @@
                             "content": {"type": "map", "maps": ["Trasco Carpark"]}
                         },
                         {
+                            "title": "Piss Shrine",
+                            "content": {"type": "map", "maps": ["Trasco Carpark Piss Shrine"]}
+                        },
+                        {
                             "title": "Petrol Station",
                             "content": {"type": "map", "maps": ["Petrol Station"]}
                         },
                         {
                             "title": "Garden",
                             "content": {"type": "map", "maps": ["Garden"]}
-                        }
-                    ]
-                }
-            },
-            {
-                "title": "Blimbo City",
-                "content": {
-                    "type": "tabbed",
-                    "tabs": [
-                        {
-                            "title": "Overview",
-                            "content": {"type": "map", "maps": ["Blimbo City"]}
                         },
                         {
-                            "title": "Bottom Main",
-                            "content": {"type": "map", "maps": ["Blimbo City Bottom Main"]}
+                            "title": "Blimbo City",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Overview",
+                                        "content": {"type": "map", "maps": ["Blimbo City"]}
+                                    },
+                                    {
+                                        "title": "Bottom Main",
+                                        "content": {"type": "map", "maps": ["Blimbo City Bottom Main"]}
+                                    },
+                                    {
+                                        "title": "Girders",
+                                        "content": {"type": "map", "maps": ["Blimbo City Girders"]}
+                                    },
+                                    {
+                                        "title": "Middle",
+                                        "content": {"type": "map", "maps": ["Blimbo City Middle"]}
+                                    },
+                                    {
+                                        "title": "Middle Back",
+                                        "content": {"type": "map", "maps": ["Blimbo City Middle Back"]}
+                                    },
+                                    {
+                                        "title": "Casino",
+                                        "content": {"type": "map", "maps": ["Blimbo City Middle Casino"]}
+                                    },
+                                    {
+                                        "title": "PURGATORY",
+                                        "content": {"type": "map", "maps": ["Blimbo City PURGATORY"]}
+                                    },
+                                    {
+                                        "title": "Pub",
+                                        "content": {"type": "map", "maps": ["Blimbo City Pub"]}
+                                    },
+                                    {
+                                        "title": "Reactor",
+                                        "content": {"type": "map", "maps": ["Blimbo City Reactor"]}
+                                    },
+                                    {
+                                        "title": "Top",
+                                        "content": {"type": "map", "maps": ["Blimbo City Top"]}
+                                    },
+                                    {
+                                        "title": "Upper Towers",
+                                        "content": {"type": "map", "maps": ["Blimbo City Upper Towers"]}
+                                    }
+                                ]
+                            }
                         },
                         {
-                            "title": "Girders",
-                            "content": {"type": "map", "maps": ["Blimbo City Girders"]}
+                            "title": "Forest",
+                            "content": {"type": "map", "maps": ["Forest"]}
                         },
                         {
-                            "title": "Middle",
-                            "content": {"type": "map", "maps": ["Blimbo City Middle"]}
+                            "title": "Kei Truck Score",
+                            "content": {"type": "map", "maps": ["Kei Truck Score"]}
                         },
                         {
-                            "title": "Middle Back",
-                            "content": {"type": "map", "maps": ["Blimbo City Middle Back"]}
+                            "title": "Mikk Barge",
+                            "content": {"type": "map", "maps": ["Mikk Barge"]}
                         },
                         {
-                            "title": "Casino",
-                            "content": {"type": "map", "maps": ["Blimbo City Middle Casino"]}
-                        },
-                        {
-                            "title": "PURGATORY",
-                            "content": {"type": "map", "maps": ["Blimbo City PURGATORY"]}
-                        },
-                        {
-                            "title": "Pub",
-                            "content": {"type": "map", "maps": ["Blimbo City Pub"]}
-                        },
-                        {
-                            "title": "Reactor",
-                            "content": {"type": "map", "maps": ["Blimbo City Reactor"]}
-                        },
-                        {
-                            "title": "Top",
-                            "content": {"type": "map", "maps": ["Blimbo City Top"]}
-                        },
-                        {
-                            "title": "Upper Towers",
-                            "content": {"type": "map", "maps": ["Blimbo City Upper Towers"]}
+                            "title": "Cricket",
+                            "content": {"type": "map", "maps": ["Cricket"]}
                         }
                     ]
                 }
@@ -163,7 +237,7 @@
                     "tabs": [
                         {
                             "title": "Canyon",
-                            "content": {"type": "map", "maps": ["Canyon", "Canyon Main"]}
+                            "content": {"type": "map", "maps": ["Canyon"]}
                         },
                         {
                             "title": "Municipal Wastes",
@@ -184,6 +258,10 @@
                         {
                             "title": "Gully",
                             "content": {"type": "map", "maps": ["The Gully"]}
+                        },
+                        {
+                            "title": "Cliffs of Nowher",
+                            "content": {"type": "map", "maps": ["Cliffs of Nowher"]}
                         }
                     ]
                 }
@@ -196,8 +274,29 @@
             {
                 "title": "Overworld",
                 "content": {
-                    "type": "map",
-                    "maps": ["Overworld"]
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Map",
+                            "content": {"type": "map", "maps": ["Overworld"]}
+                        },
+                        {
+                            "title": "Act 1 Cluster",
+                            "content": {"type": "map", "maps": ["Act 1 Cluster"]}
+                        },
+                        {
+                            "title": "Act 2 Cluster",
+                            "content": {"type": "map", "maps": ["Act 2 Cluster"]}
+                        },
+                        {
+                            "title": "Act 3 Cluster",
+                            "content": {"type": "map", "maps": ["Act 3 Cluster"]}
+                        },
+                        {
+                            "title": "Act 4 Cluster",
+                            "content": {"type": "map", "maps": ["Act 4 Cluster"]}
+                        }
+                    ]
                 }
             },
             {
@@ -224,15 +323,36 @@
                         {
                             "title": "Rackheath",
                             "content": {"type": "map", "maps": ["Rackheath"]}
+                        },
+                        {
+                            "title": "Museum",
+                            "content": {"type": "map", "maps": ["Museum"]}
+                        },
+                        {
+                            "title": "Chicken Farm",
+                            "content": {"type": "map", "maps": ["Chicken Farm"]}
+                        },
+                        {
+                            "title": "Church",
+                            "content": {"type": "map", "maps": ["Church"]}
+                        },
+                        {
+                            "title": "Hat Store",
+                            "content": {"type": "map", "maps": ["Hat Store"]}
+                        },
+                        {
+                            "title": "Behrman Speedway",
+                            "content": {"type": "map", "maps": ["Behrman Speedway"]}
+                        },
+                        {
+                            "title": "Cleaners",
+                            "content": {"type": "map", "maps": ["Cleaners"]}
+                        },
+                        {
+                            "title": "Tyre World",
+                            "content": {"type": "map", "maps": ["Tyre World"]}
                         }
                     ]
-                }
-            },
-            {
-                "title": "Museum",
-                "content": {
-                    "type": "map",
-                    "maps": ["Museum"]
                 }
             },
             {
@@ -263,6 +383,18 @@
                         {
                             "title": "Howth",
                             "content": {"type": "map", "maps": ["Howth Start", "Howth End"]}
+                        },
+                        {
+                            "title": "Fish Vore",
+                            "content": {"type": "map", "maps": ["Fish Vore"]}
+                        },
+                        {
+                            "title": "Fields",
+                            "content": {"type": "map", "maps": ["Fields"]}
+                        },
+                        {
+                            "title": "Beenie Death",
+                            "content": {"type": "map", "maps": ["Beenie Death"]}
                         }
                     ]
                 }
@@ -285,64 +417,84 @@
                             "content": {"type": "map", "maps": ["Trasco Carpark"]}
                         },
                         {
+                            "title": "Piss Shrine",
+                            "content": {"type": "map", "maps": ["Trasco Carpark Piss Shrine"]}
+                        },
+                        {
                             "title": "Petrol Station",
                             "content": {"type": "map", "maps": ["Petrol Station"]}
                         },
                         {
                             "title": "Garden",
                             "content": {"type": "map", "maps": ["Garden"]}
-                        }
-                    ]
-                }
-            },
-            {
-                "title": "Blimbo City",
-                "content": {
-                    "type": "tabbed",
-                    "tabs": [
-                        {
-                            "title": "Overview",
-                            "content": {"type": "map", "maps": ["Blimbo City"]}
                         },
                         {
-                            "title": "Bottom Main",
-                            "content": {"type": "map", "maps": ["Blimbo City Bottom Main"]}
+                            "title": "Blimbo City",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Overview",
+                                        "content": {"type": "map", "maps": ["Blimbo City"]}
+                                    },
+                                    {
+                                        "title": "Bottom Main",
+                                        "content": {"type": "map", "maps": ["Blimbo City Bottom Main"]}
+                                    },
+                                    {
+                                        "title": "Girders",
+                                        "content": {"type": "map", "maps": ["Blimbo City Girders"]}
+                                    },
+                                    {
+                                        "title": "Middle",
+                                        "content": {"type": "map", "maps": ["Blimbo City Middle"]}
+                                    },
+                                    {
+                                        "title": "Middle Back",
+                                        "content": {"type": "map", "maps": ["Blimbo City Middle Back"]}
+                                    },
+                                    {
+                                        "title": "Casino",
+                                        "content": {"type": "map", "maps": ["Blimbo City Middle Casino"]}
+                                    },
+                                    {
+                                        "title": "PURGATORY",
+                                        "content": {"type": "map", "maps": ["Blimbo City PURGATORY"]}
+                                    },
+                                    {
+                                        "title": "Pub",
+                                        "content": {"type": "map", "maps": ["Blimbo City Pub"]}
+                                    },
+                                    {
+                                        "title": "Reactor",
+                                        "content": {"type": "map", "maps": ["Blimbo City Reactor"]}
+                                    },
+                                    {
+                                        "title": "Top",
+                                        "content": {"type": "map", "maps": ["Blimbo City Top"]}
+                                    },
+                                    {
+                                        "title": "Upper Towers",
+                                        "content": {"type": "map", "maps": ["Blimbo City Upper Towers"]}
+                                    }
+                                ]
+                            }
                         },
                         {
-                            "title": "Girders",
-                            "content": {"type": "map", "maps": ["Blimbo City Girders"]}
+                            "title": "Forest",
+                            "content": {"type": "map", "maps": ["Forest"]}
                         },
                         {
-                            "title": "Middle",
-                            "content": {"type": "map", "maps": ["Blimbo City Middle"]}
+                            "title": "Kei Truck Score",
+                            "content": {"type": "map", "maps": ["Kei Truck Score"]}
                         },
                         {
-                            "title": "Middle Back",
-                            "content": {"type": "map", "maps": ["Blimbo City Middle Back"]}
+                            "title": "Mikk Barge",
+                            "content": {"type": "map", "maps": ["Mikk Barge"]}
                         },
                         {
-                            "title": "Casino",
-                            "content": {"type": "map", "maps": ["Blimbo City Middle Casino"]}
-                        },
-                        {
-                            "title": "PURGATORY",
-                            "content": {"type": "map", "maps": ["Blimbo City PURGATORY"]}
-                        },
-                        {
-                            "title": "Pub",
-                            "content": {"type": "map", "maps": ["Blimbo City Pub"]}
-                        },
-                        {
-                            "title": "Reactor",
-                            "content": {"type": "map", "maps": ["Blimbo City Reactor"]}
-                        },
-                        {
-                            "title": "Top",
-                            "content": {"type": "map", "maps": ["Blimbo City Top"]}
-                        },
-                        {
-                            "title": "Upper Towers",
-                            "content": {"type": "map", "maps": ["Blimbo City Upper Towers"]}
+                            "title": "Cricket",
+                            "content": {"type": "map", "maps": ["Cricket"]}
                         }
                     ]
                 }
@@ -354,7 +506,7 @@
                     "tabs": [
                         {
                             "title": "Canyon",
-                            "content": {"type": "map", "maps": ["Canyon", "Canyon Main"]}
+                            "content": {"type": "map", "maps": ["Canyon"]}
                         },
                         {
                             "title": "Municipal Wastes",
@@ -375,6 +527,10 @@
                         {
                             "title": "Gully",
                             "content": {"type": "map", "maps": ["The Gully"]}
+                        },
+                        {
+                            "title": "Cliffs of Nowher",
+                            "content": {"type": "map", "maps": ["Cliffs of Nowher"]}
                         }
                     ]
                 }

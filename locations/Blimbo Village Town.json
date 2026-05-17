@@ -5,7 +5,8 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "$dumpster,35",
+            "$keitruck"
         ],
         "children": [
             {
@@ -14,7 +15,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "{$dumbbell,4,$raccoon}"
                 ],
                 "sections": [
                     {
@@ -40,7 +41,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "{$dumbbell,1,$raccoon}"
                 ],
                 "sections": [
                     {
@@ -66,7 +67,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "{$dumbbell,2,$raccoon}"
                 ],
                 "sections": [
                     {
@@ -92,7 +93,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "{$dumbbell,1,$raccoon}"
                 ],
                 "sections": [
                     {
@@ -114,7 +115,7 @@
             },
             {
                 "name": "Purchase Kei Truck Radio",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/keitruck.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -140,7 +141,7 @@
             },
             {
                 "name": "Purchase Kei Truck Toaster",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/keitruck.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -166,7 +167,7 @@
             },
             {
                 "name": "Purchase Kei Truck Boost",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/keitruck.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -192,7 +193,7 @@
             },
             {
                 "name": "Euro on castle",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -218,7 +219,7 @@
             },
             {
                 "name": "Euro near furnace",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [

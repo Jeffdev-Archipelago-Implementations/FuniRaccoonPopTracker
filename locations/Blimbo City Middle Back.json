@@ -5,12 +5,13 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "$dumpster,35",
+            "$keitruck"
         ],
         "children": [
             {
                 "name": "Euro at Robin P. Bobin Store",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -36,7 +37,7 @@
             },
             {
                 "name": "Euro next to Robin P. Bobin Store",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [

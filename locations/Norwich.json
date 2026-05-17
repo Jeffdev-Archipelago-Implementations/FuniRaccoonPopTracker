@@ -150,7 +150,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "{$vendingmachine,$raccoon}",
+                    "{$brobenergy,$raccoon}"
                 ],
                 "sections": [
                     {
@@ -179,12 +180,19 @@
                         "y": 738,
                         "size": 28,
                         "shape": "rect"
+                    },
+                    {
+                        "map": "Chicken Farm",
+                        "x": 500,
+                        "y": 500,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
             {
                 "name": "Michelle Cat",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/cat.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -220,7 +228,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$dumbbell,1"
                 ],
                 "sections": [
                     {
@@ -246,7 +254,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$dumbbell,1"
                 ],
                 "sections": [
                     {
@@ -303,7 +311,7 @@
                 "sections": [
                     {
                         "name": "Store Folding Chair",
-                        "access_rules": [],
+                        "access_rules": ["$dumbbell,1"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -319,6 +327,13 @@
                         "map": "Norwich",
                         "x": 1663,
                         "y": 974,
+                        "size": 28,
+                        "shape": "rect"
+                    },
+                    {
+                        "map": "Church",
+                        "x": 500,
+                        "y": 500,
                         "size": 28,
                         "shape": "rect"
                     }
@@ -352,7 +367,7 @@
             },
             {
                 "name": "Hat Store",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/hat.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -361,13 +376,13 @@
                 "sections": [
                     {
                         "name": "Store Ms. Heel",
-                        "access_rules": [],
+                        "access_rules": ["$dumbbell,1"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Store Mr. Heel",
-                        "access_rules": [],
+                        "access_rules": ["$dumbbell,1"],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -379,12 +394,19 @@
                         "y": 504,
                         "size": 28,
                         "shape": "rect"
+                    },
+                    {
+                        "map": "Hat Store",
+                        "x": 500,
+                        "y": 500,
+                        "size": 28,
+                        "shape": "rect"
                     }
                 ]
             },
             {
                 "name": "Find Sun Hat",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/hat.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -410,7 +432,7 @@
             },
             {
                 "name": "Euro at train station",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -436,7 +458,7 @@
             },
             {
                 "name": "Euro at chicken farm island",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -466,16 +488,17 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "{$brobenergy,$raccoon}"
                 ],
                 "children": [
                     {
                         "name": "Complete Behrman Speedway in under 1 minute",
-                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_unopened_img": "/images/items/brobenergy.png",
                         "chest_opened_img": "/images/items/open.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "$brobenergy",
+                            "{$dumbbell,4,$raccoon}"
                         ],
                         "sections": [
                             {
@@ -490,6 +513,13 @@
                                 "map": "Norwich",
                                 "x": 1188,
                                 "y": 680,
+                                "size": 28,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Behrman Speedway",
+                                "x": 500,
+                                "y": 500,
                                 "size": 28,
                                 "shape": "rect"
                             }

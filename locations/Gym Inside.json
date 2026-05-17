@@ -14,7 +14,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$dumbbell,1"
                 ],
                 "sections": [
                     {
@@ -40,7 +40,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$dumbbell,1"
                 ],
                 "sections": [
                     {
@@ -62,7 +62,7 @@
             },
             {
                 "name": "Eat Mystical Dumbbell Act 1",
-                "chest_unopened_img": "/images/items/close.png",
+                "chest_unopened_img": "/images/items/dumbbell.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [

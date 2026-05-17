@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Act 2",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [" "],
+        "children": [
+            {
+                "name": "Beenie HQ",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [" "],
+                "sections": [
+                    { "name": "Fish Vore - Store Pirate", "ref": "Beenie HQ Front/Fish Vore/Store Pirate" },
+                    { "name": "Fish Vore - Store Pirate 2", "ref": "Beenie HQ Front/Fish Vore/Store Pirate 2" },
+                    { "name": "Fish Vore - Store Pirate 3", "ref": "Beenie HQ Front/Fish Vore/Store Pirate 3" },
+                    { "name": "Store Crayon", "ref": "Beenie HQ Front/Store Crayon/" },
+                    { "name": "Store Evil Fish", "ref": "Beenie HQ Front/Store Evil Fish/" },
+                    { "name": "Fields - Store Feral Dog", "ref": "Beenie HQ Front/Fields/Store Feral Dog" },
+                    { "name": "Fields - Store Windmill", "ref": "Beenie HQ Front/Fields/Store Windmill" },
+                    { "name": "Crisp and Crisps Undying Love - Store Crisp", "ref": "Beenie HQ Front/Crisp and Crisps Undying Love/Store Crisp" },
+                    { "name": "Crisp and Crisps Undying Love - Store Crisps Undying Love", "ref": "Beenie HQ Front/Crisp and Crisps Undying Love/Store Crisps Undying Love" },
+                    { "name": "Store Patrick OHara", "ref": "Beenie HQ Front/Store Patrick OHara/" },
+                    { "name": "Store Letter B", "ref": "Beenie HQ Back/Store Letter B/" },
+                    { "name": "Store Beach Ball", "ref": "Beenie HQ Back/Store Beach Ball/" },
+                    { "name": "Keksz Cat - Store Keksz Cat", "ref": "Beenie HQ Back/Keksz Cat/Store Keksz Cat" },
+                    { "name": "Keksz Cat - Find Keksz Cat", "ref": "Beenie HQ Back/Keksz Cat/Find Keksz Cat" },
+                    { "name": "Store Book Stack", "ref": "Beenie HQ Back/Store Book Stack/" },
+                    { "name": "Store Funi Marketable Plushie", "ref": "Beenie HQ Inside/Store Funi Marketable Plushie/" },
+                    { "name": "Store Beenie the Birthday Boy", "ref": "Beenie HQ Inside/Store Beenie the Birthday Boy/" }
+                ]
+            },
+            {
+                "name": "Beenie Factory",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [" "],
+                "sections": [
+                    { "name": "Store Marketable Plushie Box", "ref": "Beenie Factory/Store Marketable Plushie Box/" },
+                    { "name": "Store Goo", "ref": "Beenie Factory/Store Goo/" }
+                ]
+            },
+            {
+                "name": "The Process",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [" "],
+                "sections": [
+                    { "name": "Store Buisness Man", "ref": "The Process/Store Buisness Man/" },
+                    { "name": "Store Microwave", "ref": "The Process/Store Microwave/" },
+                    { "name": "Store Beautiful Flower", "ref": "The Process/Store Beautiful Flower/" },
+                    { "name": "Store Patrice", "ref": "The Process/Store Patrice/" },
+                    { "name": "Find Jester Hat", "ref": "The Process/Find Jester Hat/" }
+                ]
+            },
+            {
+                "name": "THE MACHINE",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [" "],
+                "sections": [
+                    { "name": "Store Beenie, Our Savior", "ref": "THE MACHINE/Store Beenie, Our Savior" },
+                    { "name": "Store Candle", "ref": "THE MACHINE/Store Candle" },
+                    { "name": "Beenie Death - Store Priestess", "ref": "THE MACHINE/Beenie Death/Store Priestess" },
+                    { "name": "Beenie Death - Euro behind cross", "ref": "THE MACHINE/Beenie Death/Euro behind cross" },
+                    { "name": "Store Beenie Saves The Orphans", "ref": "THE MACHINE/Store Beenie Saves The Orphans/" }
+                ]
+            },
+            {
+                "name": "Office",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [" "],
+                "sections": [
+                    { "name": "Store Divider", "ref": "Office/Store Divider/" },
+                    { "name": "Store Office Chair", "ref": "Office/Store Office Chair/" },
+                    { "name": "Store Desk", "ref": "Office/Store Desk/" },
+                    { "name": "Store Goo Container", "ref": "Office/Store Goo Container/" }
+                ]
+            },
+            {
+                "name": "Howth",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [" "],
+                "sections": [
+                    { "name": "Store Street Lamp", "ref": "Howth Start/Store Street Lamp/" },
+                    { "name": "Store Kettle", "ref": "Howth Start/Store Kettle/" },
+                    { "name": "Eat Blue Mystical Gem", "ref": "Howth End/Eat Blue Mystical Gem/" }
+                ]
+            }
+        ]
+    }
+]

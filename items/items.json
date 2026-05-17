@@ -1,32 +1,29 @@
 [
     {
         "name": "Mystical Gems",
-        "type": "toggle",
-        "img": "images/items/mysticalgems.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mysticalgems"
-    },
-    {
-        "name": "Progressive Mystical Dumbbell",
         "type": "consumable",
         "increment": 1,
         "max_quantity": 4,
         "overlay_background": "#C0111111",
-        "img": "images/items/progressivemysticaldumbbell.png",
-        "disabled_img": "images/items/progressivemysticaldumbbell.png",
-        "disabled_img_mods": "",
-        "codes": "progressivemysticaldumbbell"
+        "img": "images/items/mysticalgems.png",
+        "codes": "mysticalgems"
     },
     {
-        "name": "Progressive Cooling Rod",
+        "name": "Mystical Dumbbells",
+        "type": "consumable",
+        "increment": 1,
+        "max_quantity": 4,
+        "overlay_background": "#C0111111",
+        "img": "images/items/dumbbell.png",
+        "codes": "dumbbell"
+    },
+    {
+        "name": "Cooling Rods",
         "type": "consumable",
         "increment": 1,
         "max_quantity": 3,
         "overlay_background": "#C0111111",
         "img": "images/items/progressivecoolingrod.png",
-        "disabled_img": "images/items/progressivecoolingrod.png",
-        "disabled_img_mods": "",
         "codes": "progressivecoolingrod"
     },
     {
@@ -40,7 +37,7 @@
     {
         "name": "Kei Truck Boost",
         "type": "toggle",
-        "img": "images/items/keitruckboost.png",
+        "img": "images/items/boost.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "keitruckboost"
@@ -48,7 +45,8 @@
     {
         "name": "Kei Truck Toaster",
         "type": "toggle",
-        "img": "images/items/keitrucktoaster.png",
+        "img": "images/items/toasteron.png",
+        "disabled_img": "images/items/toasteroff.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "keitrucktoaster"
@@ -70,14 +68,6 @@
         "codes": "fridgekey"
     },
     {
-        "name": "Butterfly",
-        "type": "toggle",
-        "img": "images/items/butterfly.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "butterfly"
-    },
-    {
         "name": "Brob Energy",
         "type": "toggle",
         "img": "images/items/brobenergy.png",
@@ -86,23 +76,7 @@
         "codes": "brobenergy"
     },
     {
-        "name": "Vending Machine (Accepts Doubloons)",
-        "type": "toggle",
-        "img": "images/items/vendingmachine.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "vendingmachine(acceptsdoubloons)"
-    },
-    {
-        "name": "Chicken",
-        "type": "toggle",
-        "img": "images/items/chicken.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chicken"
-    },
-    {
-        "name": "Cat",
+        "name": "Catsanity Toggle",
         "type": "toggle",
         "img": "images/items/cat.png",
         "initial_active_state": false,
@@ -110,7 +84,7 @@
         "codes": "cat"
     },
     {
-        "name": "Gem",
+        "name": "Gemsanity Toggle",
         "type": "toggle",
         "img": "images/items/gem.png",
         "initial_active_state": false,
@@ -118,7 +92,7 @@
         "codes": "gem"
     },
     {
-        "name": "Euro",
+        "name": "Eurosanity Toggle",
         "type": "toggle",
         "img": "images/items/euro.png",
         "initial_active_state": false,
@@ -126,7 +100,7 @@
         "codes": "euro"
     },
     {
-        "name": "Hat",
+        "name": "Hatsanity Toggle",
         "type": "toggle",
         "img": "images/items/hat.png",
         "initial_active_state": false,
@@ -134,11 +108,44 @@
         "codes": "hat"
     },
     {
-        "name": "Raccoon",
+        "name": "Logic Difficulty",
         "type": "toggle",
         "img": "images/items/raccoon.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "raccoon"
+    },
+    {
+        "name": "Dumpster Items",
+        "type": "consumable",
+        "increment": 1,
+        "max_quantity": 140,
+        "overlay_background": "#C0111111",
+        "img": "images/items/bin.png",
+        "codes": "dumpster"
+    },
+    {
+        "name": "Goo",
+        "type": "toggle",
+        "img": "images/items/goo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "goo"
+    },
+    {
+        "name": "Pickaxe",
+        "type": "toggle",
+        "img": "images/items/pickaxe.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pickaxe"
+    },
+    {
+        "name": "Vending Machine",
+        "type": "toggle",
+        "img": "images/items/vendingmachine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vendingmachine"
     }
 ]

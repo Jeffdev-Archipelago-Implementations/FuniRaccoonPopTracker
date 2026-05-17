@@ -20,22 +20,15 @@
                         "rows": [
                             [
                                 "mysticalgems",
-                                "progressivemysticaldumbbell",
+                                "dumbbell",
                                 "progressivecoolingrod",
                                 "keitruck",
                                 "keitruckboost",
                                 "keitrucktoaster",
                                 "oldassrustyasskey",
                                 "fridgekey",
-                                "butterfly",
                                 "brobenergy",
-                                "vendingmachine(acceptsdoubloons)",
-                                "chicken",
-                                "cat",
-                                "gem",
-                                "euro",
-                                "hat",
-                                "raccoon"
+                                "dumpster"
                             ]
                         ]
                     }
@@ -64,25 +57,43 @@
                         "rows": [
                             [
                                 "mysticalgems",
-                                "progressivemysticaldumbbell",
+                                "dumbbell",
                                 "progressivecoolingrod",
                                 "keitruck",
                                 "keitruckboost",
                                 "keitrucktoaster",
                                 "oldassrustyasskey",
                                 "fridgekey",
-                                "butterfly",
                                 "brobenergy",
-                                "vendingmachine",
-                                "chicken",
-                                "cat",
-                                "gem",
-                                "euro",
-                                "hat",
-                                "raccoon"
+                                "dumpster"
                             ]
                         ]
                     }
+                ]
+            }
+        ]
+    },
+    "setting_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "2, 2",
+                "h_alignment": "left",
+                "item_h_alignment": "center",
+                "item_v_alignment": "center",
+                "item_height": 36,
+                "item_width": 36,
+                "rows": [
+                    [
+                        "cat",
+                        "gem",
+                        "euro",
+                        "hat",
+                        "raccoon"
+                    ]
                 ]
             }
         ]
