@@ -15,8 +15,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$dumbbell,1"
+                    "$dumbbell,2"
                 ],
+                "visibility_rules": ["$gem"],
                 "sections": [
                     {
                         "name": "",

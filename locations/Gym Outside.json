@@ -52,7 +52,7 @@
                     {
                         "name": "Find Concrete Cat",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["$cat"],
                         "item_count": 1
                     }
                 ],
@@ -100,6 +100,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "",
@@ -126,6 +127,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "",
@@ -152,6 +154,7 @@
                 "access_rules": [
                     "{$brobenergy,$raccoon}"
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "",
@@ -178,6 +181,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "",
@@ -269,14 +273,14 @@
                     },
                     {
                         "name": "Store Broken Truck",
-                        "access_rules": [],
+                        "access_rules": ["$dumbbell,1"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Euro on roof of entrance",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["$euro"],
                         "item_count": 1
                     }
                 ],

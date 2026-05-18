@@ -12,6 +12,15 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [" "],
+                "map_locations": [
+                    {
+                        "map": "Act 1 Cluster",
+                        "x": 200,
+                        "y": 290,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ],
                 "sections": [
                     { "name": "Store Lama Alpaca Maybe", "ref": "Norwich/Store Lama Alpaca Maybe/" },
                     { "name": "Store Gym", "ref": "Norwich/Store Gym/" },
@@ -44,6 +53,15 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [" "],
+                "map_locations": [
+                    {
+                        "map": "Act 1 Cluster",
+                        "x": 130,
+                        "y": 100,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ],
                 "sections": [
                     { "name": "Gizmo Cat - Store Gizmo Cat", "ref": "Water Zone/Gizmo Cat/Store Gizmo Cat" },
                     { "name": "Gizmo Cat - Find Gizmo Cat", "ref": "Water Zone/Gizmo Cat/Find Gizmo Cat" },
@@ -58,6 +76,15 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [" "],
+                "map_locations": [
+                    {
+                        "map": "Act 1 Cluster",
+                        "x": 420,
+                        "y": 190,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ],
                 "sections": [
                     { "name": "Store Bench", "ref": "Raccoon Central Station/Store Bench/" },
                     { "name": "Store Manhole Cover", "ref": "Raccoon Central Station/Store Manhole Cover/" },
@@ -73,6 +100,15 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [" "],
+                "map_locations": [
+                    {
+                        "map": "Act 1 Cluster",
+                        "x": 90,
+                        "y": 190,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ],
                 "sections": [
                     { "name": "Store Radio", "ref": "Gym Outside/Store Radio/" },
                     { "name": "Concrete Cat - Store Concrete Cat", "ref": "Gym Outside/Concrete Cat/Store Concrete Cat" },
@@ -99,6 +135,15 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [" "],
+                "map_locations": [
+                    {
+                        "map": "Act 1 Cluster",
+                        "x": 370,
+                        "y": 100,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ],
                 "sections": [
                     { "name": "Store Moai", "ref": "Rackheath/Store Moai/" },
                     { "name": "Store Toaster", "ref": "Rackheath/Store Toaster/" },
@@ -115,6 +160,15 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [" "],
+                "map_locations": [
+                    {
+                        "map": "Act 1 Cluster",
+                        "x": 256,
+                        "y": 180,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ],
                 "sections": [
                     { "name": "Chamber - Store Michi Cat", "ref": "Museum/Chamber/Store Michi Cat" },
                     { "name": "Chamber - Find Michi Cat", "ref": "Museum/Chamber/Find Michi Cat" },

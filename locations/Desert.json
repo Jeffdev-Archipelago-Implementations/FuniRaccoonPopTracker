@@ -198,6 +198,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$hat"],
                 "sections": [
                     {
                         "name": "",
@@ -224,6 +225,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "",
@@ -250,6 +252,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "Euro in moai head pool 1",
@@ -306,6 +309,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "",
@@ -332,6 +336,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "",
@@ -358,6 +363,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "",
@@ -384,6 +390,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "",
@@ -410,6 +417,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "",
@@ -436,6 +444,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "",

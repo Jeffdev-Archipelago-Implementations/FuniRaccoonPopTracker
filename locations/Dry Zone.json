@@ -17,6 +17,7 @@
                 "access_rules": [
                     "$dumbbell,1"
                 ],
+                "visibility_rules": ["$gem"],
                 "sections": [
                     {
                         "name": "",

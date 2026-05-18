@@ -147,6 +147,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "",
@@ -173,6 +174,7 @@
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": ["$euro"],
                 "sections": [
                     {
                         "name": "",
