@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "$dumpster,15"
+            "dumspter:15"
         ],
         "children": [
             {
@@ -14,19 +14,19 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$dumpster,25"
+                    "dumspter:25"
                 ],
                 "sections": [
                     {
                         "name": "Store Michi Cat",
-                        "access_rules": ["$pickaxe"],
+                        "access_rules": ["pickaxe"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Find Michi Cat",
-                        "access_rules": ["$pickaxe"],
-                        "visibility_rules": ["$cat"],
+                        "access_rules": ["pickaxe"],
+                        "visibility_rules": ["cat"],
                         "item_count": 1
                     },
                     {
@@ -104,7 +104,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$dumbbell,2"
+                    "dumbbell:2"
                 ],
                 "sections": [
                     {
@@ -286,7 +286,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$dumbbell,1"
+                    "dumbbell:1"
                 ],
                 "sections": [
                     {
@@ -314,7 +314,7 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["$hat"],
+                "visibility_rules": ["hat"],
                 "sections": [
                     {
                         "name": "",

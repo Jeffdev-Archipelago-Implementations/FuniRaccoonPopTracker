@@ -5,8 +5,8 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "$dumpster,50",
-            "$keitruck"
+            "dumspter:50",
+            "keitruck"
         ],
         "children": [
             {
@@ -41,7 +41,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "{$dumbbell,2,$raccoon}"
+                    "{dumbbell:2}"
                 ],
                 "sections": [
                     {
@@ -198,7 +198,7 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["$hat"],
+                "visibility_rules": ["hat"],
                 "sections": [
                     {
                         "name": "",
@@ -225,7 +225,7 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["$euro"],
+                "visibility_rules": ["euro"],
                 "sections": [
                     {
                         "name": "",
@@ -252,7 +252,7 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["$euro"],
+                "visibility_rules": ["euro"],
                 "sections": [
                     {
                         "name": "Euro in moai head pool 1",
@@ -309,7 +309,7 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["$euro"],
+                "visibility_rules": ["euro"],
                 "sections": [
                     {
                         "name": "",
@@ -336,7 +336,7 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["$euro"],
+                "visibility_rules": ["euro"],
                 "sections": [
                     {
                         "name": "",
@@ -363,7 +363,7 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["$euro"],
+                "visibility_rules": ["euro"],
                 "sections": [
                     {
                         "name": "",
@@ -390,7 +390,7 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["$euro"],
+                "visibility_rules": ["euro"],
                 "sections": [
                     {
                         "name": "",
@@ -417,7 +417,7 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["$euro"],
+                "visibility_rules": ["euro"],
                 "sections": [
                     {
                         "name": "",
@@ -444,7 +444,7 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["$euro"],
+                "visibility_rules": ["euro"],
                 "sections": [
                     {
                         "name": "",

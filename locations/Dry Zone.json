@@ -5,8 +5,8 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "$dumpster,50",
-            "$keitruck"
+            "dumspter:50",
+            "keitruck"
         ],
         "children": [
             {
@@ -15,9 +15,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$dumbbell,1"
+                    "dumbbell:1"
                 ],
-                "visibility_rules": ["$gem"],
+                "visibility_rules": ["gem"],
                 "sections": [
                     {
                         "name": "",

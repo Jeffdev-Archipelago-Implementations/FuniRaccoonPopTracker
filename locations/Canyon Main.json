@@ -5,8 +5,8 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "$dumpster,50",
-            "$keitruck"
+            "dumspter:50",
+            "keitruck"
         ],
         "children": [
             {

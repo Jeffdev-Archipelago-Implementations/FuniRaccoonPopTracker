@@ -5,8 +5,8 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "$dumpster,35",
-            "$keitruck"
+            "dumspter:35",
+            "keitruck"
         ],
         "children": [
             {
@@ -67,7 +67,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "{$dumbbell,1,$raccoon}"
+                    "{dumbbell:1}"
                 ],
                 "sections": [
                     {
@@ -93,7 +93,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "{$dumbbell,3,$raccoon}"
+                    "{dumbbell:3}"
                 ],
                 "sections": [
                     {
@@ -119,7 +119,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "{$dumbbell,2,$raccoon}"
+                    "{dumbbell:2}"
                 ],
                 "sections": [
                     {
@@ -176,14 +176,14 @@
                 "sections": [
                     {
                         "name": "Store Eel Can",
-                        "access_rules": ["{$dumbbell,2,$raccoon}"],
+                        "access_rules": ["{dumbbell:2}"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Find Raccoon Hat",
                         "access_rules": [],
-                        "visibility_rules": ["$hat"],
+                        "visibility_rules": ["hat"],
                         "item_count": 1
                     }
                 ],
@@ -221,25 +221,25 @@
                     },
                     {
                         "name": "Get 2000 Score with Kei Truck",
-                        "access_rules": ["{$keitruckboost,$keitrucktoaster}"],
+                        "access_rules": ["{keitruckboost,keitrucktoaster}"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Get 3000 Score with Kei Truck",
-                        "access_rules": ["{$keitruckboost,$keitrucktoaster}"],
+                        "access_rules": ["{keitruckboost,keitrucktoaster}"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Get 4000 Score with Kei Truck",
-                        "access_rules": ["{$keitruckboost,$keitrucktoaster}"],
+                        "access_rules": ["{keitruckboost,keitrucktoaster}"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "Get 5000 Score with Kei Truck",
-                        "access_rules": ["{$keitruckboost,$keitrucktoaster}"],
+                        "access_rules": ["{keitruckboost,keitrucktoaster}"],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -269,7 +269,7 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["$hat"],
+                "visibility_rules": ["hat"],
                 "sections": [
                     {
                         "name": "",
