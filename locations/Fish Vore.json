@@ -1,21 +1,29 @@
 [
     {
-        "name": "Blimbo City Upper Towers",
+        "name": "Fish Vore",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumpster:35",
-            "keitruck"
+            "{goo}"
+        ],
+        "map_locations": [
+            {
+                "map": "Beenie HQ Front",
+                "x": 714,
+                "y": 1362,
+                "size": 40,
+                "shape": "rect"
+            }
         ],
         "children": [
             {
-                "name": "Store Suitcase",
+                "name": "Store Pirate",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "{dumbbell:2}"
+                    "{dumbbell:1}"
                 ],
                 "sections": [
                     {
@@ -27,21 +35,21 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Blimbo City Upper Towers",
-                        "x": 2086,
-                        "y": 714,
+                        "map": "Fish Vore",
+                        "x": 1216,
+                        "y": 1078,
                         "size": 40,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Store Dice",
+                "name": "Store Pirate 2",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "{dumbbell:1}"
                 ],
                 "sections": [
                     {
@@ -53,9 +61,35 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Blimbo City Upper Towers",
-                        "x": 1008,
-                        "y": 1482,
+                        "map": "Fish Vore",
+                        "x": 1591,
+                        "y": 549,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Pirate 3",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{dumbbell:1}"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fish Vore",
+                        "x": 1861,
+                        "y": 507,
                         "size": 40,
                         "shape": "rect"
                     }

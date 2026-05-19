@@ -1,21 +1,29 @@
 [
     {
-        "name": "Blimbo City Upper Towers",
+        "name": "Church",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumpster:35",
-            "keitruck"
+            "dumpster:25"
+        ],
+        "map_locations": [
+            {
+                "map": "Norwich",
+                "x": 1663,
+                "y": 974,
+                "size": 40,
+                "shape": "rect"
+            }
         ],
         "children": [
             {
-                "name": "Store Suitcase",
+                "name": "Store Folding Chair",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "{dumbbell:2}"
+                    "dumbbell:1"
                 ],
                 "sections": [
                     {
@@ -27,16 +35,16 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Blimbo City Upper Towers",
-                        "x": 2086,
-                        "y": 714,
+                        "map": "Church",
+                        "x": 1960,
+                        "y": 977,
                         "size": 40,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Store Dice",
+                "name": "Store GREENISH ABOMINATION",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -53,9 +61,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Blimbo City Upper Towers",
-                        "x": 1008,
-                        "y": 1482,
+                        "map": "Church",
+                        "x": 1150,
+                        "y": 440,
                         "size": 40,
                         "shape": "rect"
                     }

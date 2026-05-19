@@ -1,16 +1,24 @@
 [
     {
-        "name": "Blimbo City Upper Towers",
+        "name": "Forest",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumpster:35",
-            "keitruck"
+            " "
+        ],
+        "map_locations": [
+            {
+                "map": "Blimbo Village Start",
+                "x": 2259,
+                "y": 1941,
+                "size": 6,
+                "shape": "rect"
+            }
         ],
         "children": [
             {
-                "name": "Store Suitcase",
+                "name": "Store Eel Can",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -27,21 +35,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Blimbo City Upper Towers",
-                        "x": 2086,
-                        "y": 714,
+                        "map": "Forest",
+                        "x": 1428,
+                        "y": 788,
                         "size": 40,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Store Dice",
-                "chest_unopened_img": "/images/items/close.png",
+                "name": "Find Raccoon Hat",
+                "chest_unopened_img": "/images/items/hat.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
+                ],
+                "visibility_rules": [
+                    "hat"
                 ],
                 "sections": [
                     {
@@ -53,9 +64,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Blimbo City Upper Towers",
-                        "x": 1008,
-                        "y": 1482,
+                        "map": "Forest",
+                        "x": 2039,
+                        "y": 1340,
                         "size": 40,
                         "shape": "rect"
                     }

@@ -5,41 +5,10 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumspter:50",
+            "dumpster:50",
             "keitruck"
         ],
         "children": [
-            {
-                "name": "Pharmacy",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Anti Sads",
-                        "access_rules": ["{dumbbell:1}"],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Store Leeches!",
-                        "access_rules": ["{dumbbell:2}"],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Canyon",
-                        "x": 250,
-                        "y": 274,
-                        "size": 6
-                    }
-                ]
-            },
             {
                 "name": "Store Cheese Wife",
                 "chest_unopened_img": "/images/items/close.png",
@@ -61,7 +30,33 @@
                         "map": "Canyon",
                         "x": 841,
                         "y": 187,
-                        "size": 28,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store BookBlo",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Canyon",
+                        "x": 1384,
+                        "y": 782,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -74,7 +69,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -88,7 +85,7 @@
                         "map": "Canyon",
                         "x": 1855,
                         "y": 1451,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]

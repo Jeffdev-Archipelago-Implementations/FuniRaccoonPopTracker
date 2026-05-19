@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumspter:35",
+            "dumpster:35",
             "keitruck"
         ],
         "children": [
@@ -30,7 +30,7 @@
                         "map": "Blimbo Village Town",
                         "x": 767,
                         "y": 1268,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -56,7 +56,7 @@
                         "map": "Blimbo Village Town",
                         "x": 1055,
                         "y": 351,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -82,7 +82,7 @@
                         "map": "Blimbo Village Town",
                         "x": 1993,
                         "y": 1214,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -108,13 +108,13 @@
                         "map": "Blimbo Village Town",
                         "x": 2002,
                         "y": 1315,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Purchase Kei Truck Radio",
+                "name": "Kei Truck Upgrades",
                 "chest_unopened_img": "/images/items/keitruck.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -123,33 +123,19 @@
                 ],
                 "sections": [
                     {
-                        "name": "",
+                        "name": "Purchase Kei Truck Radio",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
-                    }
-                ],
-                "map_locations": [
+                    },
                     {
-                        "map": "Blimbo Village Town",
-                        "x": 1388,
-                        "y": 527,
-                        "size": 28,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Purchase Kei Truck Toaster",
-                "chest_unopened_img": "/images/items/keitruck.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
+                        "name": "Purchase Kei Truck Toaster",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
-                        "name": "",
+                        "name": "Purchase Kei Truck Boost",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -160,33 +146,7 @@
                         "map": "Blimbo Village Town",
                         "x": 1427,
                         "y": 527,
-                        "size": 28,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Purchase Kei Truck Boost",
-                "chest_unopened_img": "/images/items/keitruck.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Blimbo Village Town",
-                        "x": 1469,
-                        "y": 525,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -213,7 +173,7 @@
                         "map": "Blimbo Village Town",
                         "x": 1660,
                         "y": 1247,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -240,7 +200,7 @@
                         "map": "Blimbo Village Town",
                         "x": 2089,
                         "y": 880,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]

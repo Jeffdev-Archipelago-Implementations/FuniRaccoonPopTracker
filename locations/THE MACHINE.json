@@ -5,12 +5,38 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumspter:25",
+            "dumpster:25",
             "goo"
         ],
         "children": [
             {
-                "name": "Beenie Death",
+                "name": "Store Beenie, Our Savior",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dumbbell:1"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Machine",
+                        "x": 2419,
+                        "y": 664,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Candle",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -19,30 +45,18 @@
                 ],
                 "sections": [
                     {
-                        "name": "Store Priestess",
-                        "access_rules": ["dumbbell:1"],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Euro behind cross",
+                        "name": "",
                         "access_rules": [],
-                        "visibility_rules": ["euro"],
+                        "visibility_rules": [],
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "The Machine",
-                        "x": 500,
-                        "y": 500,
-                        "size": 6
-                    },
-                    {
-                        "map": "Beenie Death",
-                        "x": 500,
-                        "y": 500,
-                        "size": 28,
+                        "x": 2948,
+                        "y": 675,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -66,33 +80,12 @@
                 "map_locations": [
                     {
                         "map": "The Machine",
-                        "x": 1500,
-                        "y": 500,
-                        "size": 6
+                        "x": 1681,
+                        "y": 1453,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "Store Beenie, Our Savior",
-                "access_rules": ["dumbbell:1"],
-                "visibility_rules": [],
-                "item_count": 1
-            },
-            {
-                "name": "Store Candle",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "The Machine",
-                "x": 1000,
-                "y": 1000,
-                "size": 6
             }
         ]
     }

@@ -1,6 +1,8 @@
 
 require("scripts/autotracking/item_mapping")
 require("scripts/autotracking/location_mapping")
+require("scripts/autotracking/map_location")
+require("scripts/autotracking/settings_sync")
 
 CUR_INDEX = -1
 --SLOT_DATA = nil
@@ -142,8 +144,8 @@ function preOnClear()
             table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
         end
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
-        Archipelago:SetNotify({HINTS_ID})
-        Archipelago:Get({HINTS_ID})
+        Archipelago:SetNotify({HINTS_ID, "map_location", "gemsanity", "eurosanity", "hatsanity", "catsanity"})
+        Archipelago:Get({HINTS_ID, "map_location", "gemsanity", "eurosanity", "hatsanity", "catsanity"})
     end
 
 
@@ -249,8 +251,8 @@ function onClear(slot_data)
         end
 
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
-        Archipelago:SetNotify({HINTS_ID})
-        Archipelago:Get({HINTS_ID})
+        Archipelago:SetNotify({HINTS_ID, "map_location", "gemsanity", "eurosanity", "hatsanity", "catsanity"})
+        Archipelago:Get({HINTS_ID, "map_location", "gemsanity", "eurosanity", "hatsanity", "catsanity"})
     end
     ScriptHost:AddOnFrameHandler("load handler", OnFrameHandler)
     MANUAL_CHECKED = true
@@ -360,6 +362,12 @@ end
 
 function OnNotify(key, value, old_value)
     print("OnNotify", key, value, old_value)
+    if key == "map_location" and value ~= old_value then
+        UpdateMapLocation(value)
+    end
+    if SANITY_KEYS[key] and value ~= old_value then
+        UpdateSanitySetting(key, value)
+    end
     if value ~= old_value and key == HINTS_ID then
         Tracker.BulkUpdate = true
         for _, hint in ipairs(value) do
@@ -376,6 +384,12 @@ function OnNotify(key, value, old_value)
 end
 
 function OnNotifyLaunch(key, value)
+    if key == "map_location" then
+        UpdateMapLocation(value)
+    end
+    if SANITY_KEYS[key] then
+        UpdateSanitySetting(key, value)
+    end
     if key == HINTS_ID then
         Tracker.BulkUpdate = true
         for _, hint in ipairs(value) do

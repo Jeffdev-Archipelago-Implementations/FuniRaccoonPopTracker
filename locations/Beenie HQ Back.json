@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumspter:25"
+            "dumpster:25"
         ],
         "children": [
             {
@@ -29,7 +29,7 @@
                         "map": "Beenie HQ Back",
                         "x": 1786,
                         "y": 499,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -55,65 +55,7 @@
                         "map": "Beenie HQ Back",
                         "x": 721,
                         "y": 1082,
-                        "size": 28,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Keksz Cat",
-                "chest_unopened_img": "/images/items/cat.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    "{goo}"
-                ],
-                "sections": [
-                    {
-                        "name": "Store Keksz Cat",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Find Keksz Cat",
-                        "access_rules": [],
-                        "visibility_rules": ["cat"],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Beenie HQ Back",
-                        "x": 1508,
-                        "y": 1443,
-                        "size": 28,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Store Book Stack",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Beenie HQ Back",
-                        "x": 837,
-                        "y": 1064,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]

@@ -5,47 +5,9 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumspter:15"
+            "dumpster:15"
         ],
         "children": [
-            {
-                "name": "Chamber",
-                "chest_unopened_img": "/images/items/cat.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    "dumspter:25"
-                ],
-                "sections": [
-                    {
-                        "name": "Store Michi Cat",
-                        "access_rules": ["pickaxe"],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Find Michi Cat",
-                        "access_rules": ["pickaxe"],
-                        "visibility_rules": ["cat"],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Eat Mystical Dumbbell Act 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Museum",
-                        "x": 1065,
-                        "y": 564,
-                        "size": 28,
-                        "shape": "rect"
-                    }
-                ]
-            },
             {
                 "name": "Store Logan Left",
                 "chest_unopened_img": "/images/items/close.png",
@@ -67,7 +29,7 @@
                         "map": "Museum",
                         "x": 1028,
                         "y": 1152,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -93,7 +55,7 @@
                         "map": "Museum",
                         "x": 1284,
                         "y": 1352,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -119,7 +81,7 @@
                         "map": "Museum",
                         "x": 1616,
                         "y": 996,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -145,7 +107,7 @@
                         "map": "Museum",
                         "x": 933,
                         "y": 1176,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -171,7 +133,7 @@
                         "map": "Museum",
                         "x": 977,
                         "y": 1097,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -197,7 +159,7 @@
                         "map": "Museum",
                         "x": 1087,
                         "y": 1196,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -223,7 +185,7 @@
                         "map": "Museum",
                         "x": 1204,
                         "y": 1273,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -249,7 +211,7 @@
                         "map": "Museum",
                         "x": 1148,
                         "y": 1205,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -275,7 +237,7 @@
                         "map": "Museum",
                         "x": 2970,
                         "y": 1247,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -301,7 +263,7 @@
                         "map": "Museum",
                         "x": 903,
                         "y": 603,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -328,7 +290,7 @@
                         "map": "Museum",
                         "x": 562,
                         "y": 513,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]

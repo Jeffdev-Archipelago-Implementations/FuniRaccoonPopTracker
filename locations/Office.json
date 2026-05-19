@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumspter:25",
+            "dumpster:25",
             "goo"
         ],
         "children": [
@@ -30,7 +30,7 @@
                         "map": "Office",
                         "x": 1000,
                         "y": 716,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -56,7 +56,7 @@
                         "map": "Office",
                         "x": 1703,
                         "y": 1195,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -82,7 +82,7 @@
                         "map": "Office",
                         "x": 1312,
                         "y": 644,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -108,7 +108,7 @@
                         "map": "Office",
                         "x": 2490,
                         "y": 1336,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]

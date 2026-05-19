@@ -9,7 +9,7 @@
         ],
         "children": [
             {
-                "name": "Store Funbells",
+                "name": "Store Dumbbells",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Gym Inside",
-                        "x": 2516,
-                        "y": 796,
-                        "size": 10,
+                        "x": 2525,
+                        "y": 798,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Gym Inside",
-                        "x": 387,
-                        "y": 993,
-                        "size": 28,
+                        "x": 380,
+                        "y": 1001,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -76,7 +76,15 @@
                         "item_count": 1
                     }
                 ],
-                "map_locations": []
+                "map_locations": [
+                    {
+                        "map": "Gym Inside",
+                        "x": 2350,
+                        "y": 1403,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
             }
         ]
     }

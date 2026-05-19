@@ -1,22 +1,19 @@
 [
     {
-        "name": "Blimbo City Upper Towers",
+        "name": "Beenie's Ascension",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumpster:35",
-            "keitruck"
+            " "
         ],
         "children": [
             {
-                "name": "Store Suitcase",
+                "name": "Store Priestess",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [
-                    "{dumbbell:2}"
-                ],
+                "access_rules": ["dumbbell:1"],
                 "sections": [
                     {
                         "name": "",
@@ -27,22 +24,21 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Blimbo City Upper Towers",
-                        "x": 2086,
-                        "y": 714,
+                        "map": "Beenie's Ascension",
+                        "x": 100,
+                        "y": 100,
                         "size": 40,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Store Dice",
+                "name": "Euro behind cross",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": [" "],
+                "visibility_rules": ["euro"],
                 "sections": [
                     {
                         "name": "",
@@ -53,9 +49,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Blimbo City Upper Towers",
-                        "x": 1008,
-                        "y": 1482,
+                        "map": "Beenie's Ascension",
+                        "x": 200,
+                        "y": 100,
                         "size": 40,
                         "shape": "rect"
                     }

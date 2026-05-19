@@ -3,14 +3,10 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Overworld",
+                "title": "Act View",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
-                        {
-                            "title": "Map",
-                            "content": {"type": "map", "maps": ["Overworld"]}
-                        },
                         {
                             "title": "Act 1 Cluster",
                             "content": {"type": "map", "maps": ["Act 1 Cluster"]}
@@ -60,6 +56,10 @@
                             "content": {"type": "map", "maps": ["Museum"]}
                         },
                         {
+                            "title": "Chamber",
+                            "content": {"type": "map", "maps": ["Chamber"]}
+                        },
+                        {
                             "title": "Chicken Farm",
                             "content": {"type": "map", "maps": ["Chicken Farm"]}
                         },
@@ -93,7 +93,7 @@
                     "tabs": [
                         {
                             "title": "Beenie HQ",
-                            "content": {"type": "map", "maps": ["Beenie HQ Front", "Beenie HQ Back", "Beenie HQ Inside"]}
+                            "content": {"type": "map", "maps": ["Beenie HQ Front", "Beenie HQ Back", "Beenie HQ Inside", "Underground Metro"]}
                         },
                         {
                             "title": "Beenie Factory",
@@ -124,8 +124,8 @@
                             "content": {"type": "map", "maps": ["Fields"]}
                         },
                         {
-                            "title": "Beenie Death",
-                            "content": {"type": "map", "maps": ["Beenie Death"]}
+                            "title": "Beenie's Ascension",
+                            "content": {"type": "map", "maps": ["Beenie's Ascension"]}
                         }
                     ]
                 }
@@ -148,6 +148,10 @@
                             "content": {"type": "map", "maps": ["Trasco Carpark"]}
                         },
                         {
+                            "title": "FRIDGE WORLD",
+                            "content": {"type": "map", "maps": ["FRIDGE WORLD"]}
+                        },
+                        {
                             "title": "Piss Shrine",
                             "content": {"type": "map", "maps": ["Trasco Carpark Piss Shrine"]}
                         },
@@ -164,10 +168,6 @@
                             "content": {
                                 "type": "tabbed",
                                 "tabs": [
-                                    {
-                                        "title": "Overview",
-                                        "content": {"type": "map", "maps": ["Blimbo City"]}
-                                    },
                                     {
                                         "title": "Bottom Main",
                                         "content": {"type": "map", "maps": ["Blimbo City Bottom Main"]}
@@ -194,7 +194,7 @@
                                     },
                                     {
                                         "title": "Pub",
-                                        "content": {"type": "map", "maps": ["Blimbo City Pub"]}
+                                        "content": {"type": "map", "maps": ["Pub"]}
                                     },
                                     {
                                         "title": "Reactor",
@@ -216,10 +216,6 @@
                             "content": {"type": "map", "maps": ["Forest"]}
                         },
                         {
-                            "title": "Kei Truck Score",
-                            "content": {"type": "map", "maps": ["Kei Truck Score"]}
-                        },
-                        {
                             "title": "Mikk Barge",
                             "content": {"type": "map", "maps": ["Mikk Barge"]}
                         },
@@ -238,6 +234,10 @@
                         {
                             "title": "Canyon",
                             "content": {"type": "map", "maps": ["Canyon"]}
+                        },
+                        {
+                            "title": "Pharmacy",
+                            "content": {"type": "map", "maps": ["Pharmacy"]}
                         },
                         {
                             "title": "Municipal Wastes",
@@ -272,14 +272,10 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Overworld",
+                "title": "Act View",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
-                        {
-                            "title": "Map",
-                            "content": {"type": "map", "maps": ["Overworld"]}
-                        },
                         {
                             "title": "Act 1 Cluster",
                             "content": {"type": "map", "maps": ["Act 1 Cluster"]}
@@ -329,6 +325,10 @@
                             "content": {"type": "map", "maps": ["Museum"]}
                         },
                         {
+                            "title": "Chamber",
+                            "content": {"type": "map", "maps": ["Chamber"]}
+                        },
+                        {
                             "title": "Chicken Farm",
                             "content": {"type": "map", "maps": ["Chicken Farm"]}
                         },
@@ -362,7 +362,7 @@
                     "tabs": [
                         {
                             "title": "Beenie HQ",
-                            "content": {"type": "map", "maps": ["Beenie HQ Front", "Beenie HQ Back", "Beenie HQ Inside"]}
+                            "content": {"type": "map", "maps": ["Beenie HQ Front", "Beenie HQ Back", "Beenie HQ Inside", "Underground Metro"]}
                         },
                         {
                             "title": "Beenie Factory",
@@ -393,8 +393,8 @@
                             "content": {"type": "map", "maps": ["Fields"]}
                         },
                         {
-                            "title": "Beenie Death",
-                            "content": {"type": "map", "maps": ["Beenie Death"]}
+                            "title": "Beenie's Ascension",
+                            "content": {"type": "map", "maps": ["Beenie's Ascension"]}
                         }
                     ]
                 }
@@ -417,6 +417,10 @@
                             "content": {"type": "map", "maps": ["Trasco Carpark"]}
                         },
                         {
+                            "title": "FRIDGE WORLD",
+                            "content": {"type": "map", "maps": ["FRIDGE WORLD"]}
+                        },
+                        {
                             "title": "Piss Shrine",
                             "content": {"type": "map", "maps": ["Trasco Carpark Piss Shrine"]}
                         },
@@ -433,10 +437,6 @@
                             "content": {
                                 "type": "tabbed",
                                 "tabs": [
-                                    {
-                                        "title": "Overview",
-                                        "content": {"type": "map", "maps": ["Blimbo City"]}
-                                    },
                                     {
                                         "title": "Bottom Main",
                                         "content": {"type": "map", "maps": ["Blimbo City Bottom Main"]}
@@ -463,7 +463,7 @@
                                     },
                                     {
                                         "title": "Pub",
-                                        "content": {"type": "map", "maps": ["Blimbo City Pub"]}
+                                        "content": {"type": "map", "maps": ["Pub"]}
                                     },
                                     {
                                         "title": "Reactor",
@@ -485,10 +485,6 @@
                             "content": {"type": "map", "maps": ["Forest"]}
                         },
                         {
-                            "title": "Kei Truck Score",
-                            "content": {"type": "map", "maps": ["Kei Truck Score"]}
-                        },
-                        {
                             "title": "Mikk Barge",
                             "content": {"type": "map", "maps": ["Mikk Barge"]}
                         },
@@ -507,6 +503,10 @@
                         {
                             "title": "Canyon",
                             "content": {"type": "map", "maps": ["Canyon"]}
+                        },
+                        {
+                            "title": "Pharmacy",
+                            "content": {"type": "map", "maps": ["Pharmacy"]}
                         },
                         {
                             "title": "Municipal Wastes",

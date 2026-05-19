@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumspter:50",
+            "dumpster:50",
             "keitruck"
         ],
         "children": [
@@ -30,7 +30,7 @@
                         "map": "Desert",
                         "x": 2082,
                         "y": 1450,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -56,7 +56,7 @@
                         "map": "Desert",
                         "x": 3023,
                         "y": 996,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -82,7 +82,7 @@
                         "map": "Desert",
                         "x": 2896,
                         "y": 823,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -108,7 +108,7 @@
                         "map": "Desert",
                         "x": 2558,
                         "y": 632,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -143,14 +143,14 @@
                                 "map": "Desert",
                                 "x": 1351,
                                 "y": 1145,
-                                "size": 28,
+                                "size": 40,
                                 "shape": "rect"
                             },
                             {
                                 "map": "Cliffs of Nowher",
                                 "x": 400,
                                 "y": 500,
-                                "size": 28,
+                                "size": 40,
                                 "shape": "rect"
                             }
                         ]
@@ -176,17 +176,26 @@
                                 "map": "Desert",
                                 "x": 1387,
                                 "y": 1145,
-                                "size": 28,
+                                "size": 40,
                                 "shape": "rect"
                             },
                             {
                                 "map": "Cliffs of Nowher",
                                 "x": 600,
                                 "y": 500,
-                                "size": 28,
+                                "size": 40,
                                 "shape": "rect"
                             }
                         ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Desert",
+                        "x": 100,
+                        "y": 100,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -198,7 +207,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["hat"],
+                "visibility_rules": [
+                    "hat"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -212,7 +223,7 @@
                         "map": "Desert",
                         "x": 2597,
                         "y": 630,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -225,7 +236,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -239,7 +252,7 @@
                         "map": "Desert",
                         "x": 2031,
                         "y": 1147,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -252,7 +265,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "Euro in moai head pool 1",
@@ -296,7 +311,7 @@
                         "map": "Desert",
                         "x": 2188,
                         "y": 609,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -309,7 +324,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -323,7 +340,7 @@
                         "map": "Desert",
                         "x": 634,
                         "y": 1098,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -336,7 +353,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -350,7 +369,7 @@
                         "map": "Desert",
                         "x": 2943,
                         "y": 994,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -363,7 +382,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -377,7 +398,7 @@
                         "map": "Desert",
                         "x": 2699,
                         "y": 1271,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -390,7 +411,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -404,7 +427,7 @@
                         "map": "Desert",
                         "x": 2589,
                         "y": 561,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -417,7 +440,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -431,7 +456,7 @@
                         "map": "Desert",
                         "x": 3047,
                         "y": 644,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -444,7 +469,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -458,7 +485,7 @@
                         "map": "Desert",
                         "x": 1803,
                         "y": 310,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]

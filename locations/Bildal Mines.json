@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumspter:35",
+            "dumpster:35",
             "keitruck",
             "oldassrustyasskey"
         ],
@@ -28,16 +28,19 @@
                     {
                         "name": "Find boingler Cat",
                         "access_rules": [],
-                        "visibility_rules": ["cat"],
+                        "visibility_rules": [
+                            "cat"
+                        ],
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Bildal Mines",
-                        "x": 474,
-                        "y": 1018,
-                        "size": 6
+                        "x": 1247,
+                        "y": 791,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -52,7 +55,9 @@
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": ["{dumbbell:1}"],
+                        "access_rules": [
+                            "{dumbbell:1}"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -60,9 +65,10 @@
                 "map_locations": [
                     {
                         "map": "Bildal Mines",
-                        "x": 152,
-                        "y": 2400,
-                        "size": 6
+                        "x": 1816,
+                        "y": 505,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             },
@@ -77,7 +83,9 @@
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": ["pickaxe"],
+                        "access_rules": [
+                            "pickaxe"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -85,9 +93,10 @@
                 "map_locations": [
                     {
                         "map": "Bildal Mines",
-                        "x": 1110,
-                        "y": 1704,
-                        "size": 6
+                        "x": 1159,
+                        "y": 858,
+                        "size": 40,
+                        "shape": "rect"
                     }
                 ]
             }

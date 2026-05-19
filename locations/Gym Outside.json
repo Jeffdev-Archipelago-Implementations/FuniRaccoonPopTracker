@@ -29,7 +29,7 @@
                         "map": "Gym Outside",
                         "x": 756,
                         "y": 639,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -61,7 +61,7 @@
                         "map": "Gym Outside",
                         "x": 981,
                         "y": 710,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -87,7 +87,7 @@
                         "map": "Gym Outside",
                         "x": 699,
                         "y": 597,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -114,7 +114,7 @@
                         "map": "Gym Outside",
                         "x": 356,
                         "y": 856,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -141,7 +141,7 @@
                         "map": "Gym Outside",
                         "x": 513,
                         "y": 1005,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -168,7 +168,7 @@
                         "map": "Gym Outside",
                         "x": 3015,
                         "y": 954,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -195,108 +195,7 @@
                         "map": "Gym Outside",
                         "x": 567,
                         "y": 722,
-                        "size": 28,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Cleaners",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "Store Washing Machine",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            "dumbbell:1"
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Gym Outside",
-                                "x": 703,
-                                "y": 846,
-                                "size": 28,
-                                "shape": "rect"
-                            },
-                            {
-                                "map": "Cleaners",
-                                "x": 500,
-                                "y": 500,
-                                "size": 28,
-                                "shape": "rect"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Tyre World",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Store Orphan Tyre",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Store Papa Tyre",
-                        "access_rules": ["dumbbell:1"],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Store Smoker",
-                        "access_rules": ["dumbbell:2"],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Store Broken Truck",
-                        "access_rules": ["dumbbell:1"],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Euro on roof of entrance",
-                        "access_rules": [],
-                        "visibility_rules": ["euro"],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Gym Outside",
-                        "x": 791,
-                        "y": 852,
-                        "size": 28,
-                        "shape": "rect"
-                    },
-                    {
-                        "map": "Tyre World",
-                        "x": 500,
-                        "y": 500,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]

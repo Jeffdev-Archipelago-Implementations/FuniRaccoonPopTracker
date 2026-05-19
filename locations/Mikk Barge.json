@@ -1,23 +1,33 @@
 [
     {
-        "name": "Howth End",
+        "name": "Mikk Barge",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumpster:25",
-            "goo"
+            " "
+        ],
+        "map_locations": [
+            {
+                "map": "Garden",
+                "x": 1484,
+                "y": 357,
+                "size": 40,
+                "shape": "rect"
+            }
         ],
         "children": [
             {
-                "name": "Eat Blue Mystical Gem",
+                "name": "Eat Purple Mystical Gem",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2"
+                    " "
                 ],
-                "visibility_rules": ["gem"],
+                "visibility_rules": [
+                    "gem"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -28,9 +38,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Howth End",
-                        "x": 2439,
-                        "y": 1187,
+                        "map": "Mikk Barge",
+                        "x": 2216,
+                        "y": 525,
                         "size": 40,
                         "shape": "rect"
                     }

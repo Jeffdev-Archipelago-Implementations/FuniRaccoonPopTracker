@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumspter:50",
+            "dumpster:50",
             "keitruck"
         ],
         "children": [
@@ -30,7 +30,7 @@
                         "map": "Municipal Wastes",
                         "x": 1594,
                         "y": 794,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -56,7 +56,7 @@
                         "map": "Municipal Wastes",
                         "x": 1640,
                         "y": 794,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -82,7 +82,7 @@
                         "map": "Municipal Wastes",
                         "x": 2456,
                         "y": 86,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -108,7 +108,7 @@
                         "map": "Municipal Wastes",
                         "x": 2458,
                         "y": 53,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -134,7 +134,7 @@
                         "map": "Municipal Wastes",
                         "x": 1337,
                         "y": 1004,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -179,7 +179,7 @@
                         "map": "Municipal Wastes",
                         "x": 1946,
                         "y": 993,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -206,7 +206,7 @@
                         "map": "Municipal Wastes",
                         "x": 1819,
                         "y": 318,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -233,7 +233,7 @@
                         "map": "Municipal Wastes",
                         "x": 1602,
                         "y": 407,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -260,7 +260,7 @@
                         "map": "Municipal Wastes",
                         "x": 2393,
                         "y": 117,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -287,7 +287,7 @@
                         "map": "Municipal Wastes",
                         "x": 965,
                         "y": 1113,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -314,7 +314,7 @@
                         "map": "Municipal Wastes",
                         "x": 1376,
                         "y": 1209,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -341,7 +341,7 @@
                         "map": "Municipal Wastes",
                         "x": 633,
                         "y": 841,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]

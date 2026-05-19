@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumspter:35",
+            "dumpster:35",
             "keitruck"
         ],
         "children": [
@@ -30,7 +30,7 @@
                         "map": "Petrol Station",
                         "x": 1742,
                         "y": 899,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -56,7 +56,7 @@
                         "map": "Petrol Station",
                         "x": 2006,
                         "y": 949,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -82,7 +82,7 @@
                         "map": "Petrol Station",
                         "x": 809,
                         "y": 761,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -108,7 +108,7 @@
                         "map": "Petrol Station",
                         "x": 606,
                         "y": 1004,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]

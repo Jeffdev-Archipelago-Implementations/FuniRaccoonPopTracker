@@ -4,47 +4,100 @@
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
-        "access_rules": [" "],
+        "access_rules": [
+            " "
+        ],
         "children": [
             {
                 "name": "Norwich",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [" "],
+                "access_rules": [
+                    " "
+                ],
                 "map_locations": [
                     {
                         "map": "Act 1 Cluster",
-                        "x": 200,
-                        "y": 290,
-                        "size": 28,
-                        "shape": "rect"
+                        "x": 995,
+                        "y": 531,
+                        "size": 40,
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
-                    { "name": "Store Lama Alpaca Maybe", "ref": "Norwich/Store Lama Alpaca Maybe/" },
-                    { "name": "Store Gym", "ref": "Norwich/Store Gym/" },
-                    { "name": "Vending Machine - Store Vending Machine", "ref": "Norwich/Vending Machine and Brob Energy/Store Vending Machine" },
-                    { "name": "Vending Machine - Store Brob Energy", "ref": "Norwich/Vending Machine and Brob Energy/Store Brob Energy" },
-                    { "name": "Store DOUBLOONS", "ref": "Norwich/Store DOUBLOONS/" },
-                    { "name": "Store unregistered firearm", "ref": "Norwich/Store unregistered firearm/" },
-                    { "name": "Chicken Farm - Store Chicken", "ref": "Norwich/Chicken Farm/Store Chicken" },
-                    { "name": "Chicken Farm - Find Sombrero", "ref": "Norwich/Chicken Farm/Find Sombrero" },
-                    { "name": "Chicken Farm - Euro on pillar", "ref": "Norwich/Chicken Farm/Euro on pillar" },
-                    { "name": "Michelle Cat - Store Michelle Cat", "ref": "Norwich/Michelle Cat/Store Michelle Cat" },
-                    { "name": "Michelle Cat - Find Michelle Cat", "ref": "Norwich/Michelle Cat/Find Michelle Cat" },
-                    { "name": "Store Heavy Stone Torch", "ref": "Norwich/Store Heavy Stone Torch/" },
-                    { "name": "Store Sign", "ref": "Norwich/Store Sign/" },
-                    { "name": "Store Crack Head", "ref": "Norwich/Store Crack Head/" },
-                    { "name": "Church - Store Folding Chair", "ref": "Norwich/Church/Store Folding Chair" },
-                    { "name": "Church - Store GREENISH ABOMINATION", "ref": "Norwich/Church/Store GREENISH ABOMINATION" },
-                    { "name": "Store Flower Blimbo", "ref": "Norwich/Store Flower Blimbo/" },
-                    { "name": "Hat Store - Store Ms. Heel", "ref": "Norwich/Hat Store/Store Ms. Heel" },
-                    { "name": "Hat Store - Store Mr. Heel", "ref": "Norwich/Hat Store/Store Mr. Heel" },
-                    { "name": "Find Sun Hat", "ref": "Norwich/Find Sun Hat/" },
-                    { "name": "Euro at train station", "ref": "Norwich/Euro at train station/" },
-                    { "name": "Euro at chicken farm island", "ref": "Norwich/Euro at chicken farm island/" },
-                    { "name": "Complete Behrman Speedway in under 1 minute", "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute/" }
+                    {
+                        "name": "Store Lama Alpaca Maybe",
+                        "ref": "Norwich/Store Lama Alpaca Maybe/"
+                    },
+                    {
+                        "name": "Store Gym",
+                        "ref": "Norwich/Store Gym/"
+                    },
+                    {
+                        "name": "Vending Machine - Store Vending Machine",
+                        "ref": "Norwich/Vending Machine and Brob Energy/Store Vending Machine"
+                    },
+                    {
+                        "name": "Vending Machine - Store Brob Energy",
+                        "ref": "Norwich/Vending Machine and Brob Energy/Store Brob Energy"
+                    },
+                    {
+                        "name": "Store DOUBLOONS",
+                        "ref": "Norwich/Store DOUBLOONS/"
+                    },
+                    {
+                        "name": "Store unregistered firearm",
+                        "ref": "Norwich/Store unregistered firearm/"
+                    },
+                    {
+                        "name": "Michelle Cat - Store Michelle Cat",
+                        "ref": "Norwich/Michelle Cat/Store Michelle Cat"
+                    },
+                    {
+                        "name": "Michelle Cat - Find Michelle Cat",
+                        "ref": "Norwich/Michelle Cat/Find Michelle Cat"
+                    },
+                    {
+                        "name": "Store Heavy Stone Torch",
+                        "ref": "Norwich/Store Heavy Stone Torch/"
+                    },
+                    {
+                        "name": "Store Sign",
+                        "ref": "Norwich/Store Sign/"
+                    },
+                    {
+                        "name": "Store Crack Head",
+                        "ref": "Norwich/Store Crack Head/"
+                    },
+                    {
+                        "name": "Church - Store Folding Chair",
+                        "ref": "Church/Store Folding Chair/"
+                    },
+                    {
+                        "name": "Church - Store GREENISH ABOMINATION",
+                        "ref": "Church/Store GREENISH ABOMINATION/"
+                    },
+                    {
+                        "name": "Store Flower Blimbo",
+                        "ref": "Norwich/Store Flower Blimbo/"
+                    },
+                    {
+                        "name": "Find Sun Hat",
+                        "ref": "Norwich/Find Sun Hat/"
+                    },
+                    {
+                        "name": "Euro at train station",
+                        "ref": "Norwich/Euro at train station/"
+                    },
+                    {
+                        "name": "Euro at chicken farm island",
+                        "ref": "Norwich/Euro at chicken farm island/"
+                    },
+                    {
+                        "name": "Complete Behrman Speedway in under 1 minute",
+                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
+                    }
                 ]
             },
             {
@@ -52,22 +105,39 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [" "],
+                "access_rules": [
+                    " "
+                ],
                 "map_locations": [
                     {
                         "map": "Act 1 Cluster",
-                        "x": 130,
-                        "y": 100,
-                        "size": 28,
-                        "shape": "rect"
+                        "x": 808,
+                        "y": 242,
+                        "size": 40,
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
-                    { "name": "Gizmo Cat - Store Gizmo Cat", "ref": "Water Zone/Gizmo Cat/Store Gizmo Cat" },
-                    { "name": "Gizmo Cat - Find Gizmo Cat", "ref": "Water Zone/Gizmo Cat/Find Gizmo Cat" },
-                    { "name": "Store Fan", "ref": "Water Zone/Store Fan/" },
-                    { "name": "Eat Green Mystical Gem", "ref": "Water Zone/Eat Green Mystical Gem/" },
-                    { "name": "Euro under stairs underwater", "ref": "Water Zone/Euro under stairs underwater/" }
+                    {
+                        "name": "Gizmo Cat - Store Gizmo Cat",
+                        "ref": "Water Zone/Gizmo Cat/Store Gizmo Cat"
+                    },
+                    {
+                        "name": "Gizmo Cat - Find Gizmo Cat",
+                        "ref": "Water Zone/Gizmo Cat/Find Gizmo Cat"
+                    },
+                    {
+                        "name": "Store Fan",
+                        "ref": "Water Zone/Store Fan/"
+                    },
+                    {
+                        "name": "Eat Green Mystical Gem",
+                        "ref": "Water Zone/Eat Green Mystical Gem/"
+                    },
+                    {
+                        "name": "Euro under stairs underwater",
+                        "ref": "Water Zone/Euro under stairs underwater/"
+                    }
                 ]
             },
             {
@@ -75,23 +145,43 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [" "],
+                "access_rules": [
+                    " "
+                ],
                 "map_locations": [
                     {
                         "map": "Act 1 Cluster",
-                        "x": 420,
-                        "y": 190,
-                        "size": 28,
-                        "shape": "rect"
+                        "x": 1215,
+                        "y": 266,
+                        "size": 40,
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
-                    { "name": "Store Bench", "ref": "Raccoon Central Station/Store Bench/" },
-                    { "name": "Store Manhole Cover", "ref": "Raccoon Central Station/Store Manhole Cover/" },
-                    { "name": "Store Old Sign", "ref": "Raccoon Central Station/Store Old Sign/" },
-                    { "name": "Store Warning Sign", "ref": "Raccoon Central Station/Store Warning Sign/" },
-                    { "name": "Store Area Sign", "ref": "Raccoon Central Station/Store Area Sign/" },
-                    { "name": "Store Funi Raccoon Game Deluxe", "ref": "Raccoon Central Station/Store Funi Raccoon Game Deluxe/" }
+                    {
+                        "name": "Store Bench",
+                        "ref": "Raccoon Central Station/Store Bench/"
+                    },
+                    {
+                        "name": "Store Manhole Cover",
+                        "ref": "Raccoon Central Station/Store Manhole Cover/"
+                    },
+                    {
+                        "name": "Store Old Sign",
+                        "ref": "Raccoon Central Station/Store Old Sign/"
+                    },
+                    {
+                        "name": "Store Warning Sign",
+                        "ref": "Raccoon Central Station/Store Warning Sign/"
+                    },
+                    {
+                        "name": "Store Area Sign",
+                        "ref": "Raccoon Central Station/Store Area Sign/"
+                    },
+                    {
+                        "name": "Store Funi Raccoon Game Deluxe",
+                        "ref": "Raccoon Central Station/Store Funi Raccoon Game Deluxe/"
+                    }
                 ]
             },
             {
@@ -99,34 +189,63 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [" "],
+                "access_rules": [
+                    " "
+                ],
                 "map_locations": [
                     {
                         "map": "Act 1 Cluster",
-                        "x": 90,
-                        "y": 190,
-                        "size": 28,
-                        "shape": "rect"
+                        "x": 1045,
+                        "y": 835,
+                        "size": 40,
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
-                    { "name": "Store Radio", "ref": "Gym Outside/Store Radio/" },
-                    { "name": "Concrete Cat - Store Concrete Cat", "ref": "Gym Outside/Concrete Cat/Store Concrete Cat" },
-                    { "name": "Concrete Cat - Find Concrete Cat", "ref": "Gym Outside/Concrete Cat/Find Concrete Cat" },
-                    { "name": "Store Digital Polaroid Camera", "ref": "Gym Outside/Store Digital Polaroid Camera/" },
-                    { "name": "Euro on roof with vending machine", "ref": "Gym Outside/Euro on roof with vending machine/" },
-                    { "name": "Euro behind building", "ref": "Gym Outside/Euro behind building/" },
-                    { "name": "Euro at end of train tracks", "ref": "Gym Outside/Euro at end of train tracks/" },
-                    { "name": "Euro on bee sign under clouds", "ref": "Gym Outside/Euro on bee sign under clouds/" },
-                    { "name": "Cleaners - Store Washing Machine", "ref": "Gym Outside/Cleaners/Store Washing Machine/" },
-                    { "name": "Tyre World - Store Orphan Tyre", "ref": "Gym Outside/Tyre World/Store Orphan Tyre" },
-                    { "name": "Tyre World - Store Papa Tyre", "ref": "Gym Outside/Tyre World/Store Papa Tyre" },
-                    { "name": "Tyre World - Store Smoker", "ref": "Gym Outside/Tyre World/Store Smoker" },
-                    { "name": "Tyre World - Store Broken Truck", "ref": "Gym Outside/Tyre World/Store Broken Truck" },
-                    { "name": "Tyre World - Euro on roof of entrance", "ref": "Gym Outside/Tyre World/Euro on roof of entrance" },
-                    { "name": "Store Funbells", "ref": "Gym Inside/Store Funbells/" },
-                    { "name": "Store Paracetamol 650mg", "ref": "Gym Inside/Store Paracetamol 650mg/" },
-                    { "name": "Eat Mystical Dumbbell Act 1", "ref": "Gym Inside/Eat Mystical Dumbbell Act 1/" }
+                    {
+                        "name": "Store Radio",
+                        "ref": "Gym Outside/Store Radio/"
+                    },
+                    {
+                        "name": "Concrete Cat - Store Concrete Cat",
+                        "ref": "Gym Outside/Concrete Cat/Store Concrete Cat"
+                    },
+                    {
+                        "name": "Concrete Cat - Find Concrete Cat",
+                        "ref": "Gym Outside/Concrete Cat/Find Concrete Cat"
+                    },
+                    {
+                        "name": "Store Digital Polaroid Camera",
+                        "ref": "Gym Outside/Store Digital Polaroid Camera/"
+                    },
+                    {
+                        "name": "Euro on roof with vending machine",
+                        "ref": "Gym Outside/Euro on roof with vending machine/"
+                    },
+                    {
+                        "name": "Euro behind building",
+                        "ref": "Gym Outside/Euro behind building/"
+                    },
+                    {
+                        "name": "Euro at end of train tracks",
+                        "ref": "Gym Outside/Euro at end of train tracks/"
+                    },
+                    {
+                        "name": "Euro on bee sign under clouds",
+                        "ref": "Gym Outside/Euro on bee sign under clouds/"
+                    },
+                    {
+                        "name": "Store Dumbbells",
+                        "ref": "Gym Inside/Store Dumbbells/"
+                    },
+                    {
+                        "name": "Store Paracetamol 650mg",
+                        "ref": "Gym Inside/Store Paracetamol 650mg/"
+                    },
+                    {
+                        "name": "Eat Mystical Dumbbell Act 1",
+                        "ref": "Gym Inside/Eat Mystical Dumbbell Act 1/"
+                    }
                 ]
             },
             {
@@ -134,24 +253,171 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [" "],
+                "access_rules": [
+                    " "
+                ],
                 "map_locations": [
                     {
                         "map": "Act 1 Cluster",
-                        "x": 370,
-                        "y": 100,
-                        "size": 28,
-                        "shape": "rect"
+                        "x": 580,
+                        "y": 510,
+                        "size": 40,
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
-                    { "name": "Store Moai", "ref": "Rackheath/Store Moai/" },
-                    { "name": "Store Toaster", "ref": "Rackheath/Store Toaster/" },
-                    { "name": "Store Brick", "ref": "Rackheath/Store Brick/" },
-                    { "name": "Store TV Remote", "ref": "Rackheath/Store TV Remote/" },
-                    { "name": "Store BookBlo", "ref": "Rackheath/Store BookBlo/" },
-                    { "name": "Store Computer Monitor (60hz)", "ref": "Rackheath/Store Computer Monitor (60hz)/" },
-                    { "name": "Store Toastie", "ref": "Rackheath/Store Toastie/" }
+                    {
+                        "name": "Store Moai",
+                        "ref": "Rackheath/Store Moai/"
+                    },
+                    {
+                        "name": "Store Toaster",
+                        "ref": "Rackheath/Store Toaster/"
+                    },
+                    {
+                        "name": "Store Brick",
+                        "ref": "Rackheath/Store Brick/"
+                    },
+                    {
+                        "name": "Store TV Remote",
+                        "ref": "Rackheath/Store TV Remote/"
+                    },
+                    {
+                        "name": "Store Book Stack",
+                        "ref": "Rackheath/Store Book Stack/"
+                    },
+                    {
+                        "name": "Store Computer Monitor (60hz)",
+                        "ref": "Rackheath/Store Computer Monitor (60hz)/"
+                    },
+                    {
+                        "name": "Store Toastie",
+                        "ref": "Rackheath/Store Toastie/"
+                    }
+                ]
+            },
+            {
+                "name": "Chicken Farm",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 1 Cluster",
+                        "x": 1040,
+                        "y": 310,
+                        "size": 40,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Chicken",
+                        "ref": "Chicken Farm/Store Chicken/"
+                    },
+                    {
+                        "name": "Find Sombrero",
+                        "ref": "Chicken Farm/Find Sombrero/"
+                    },
+                    {
+                        "name": "Euro on pillar",
+                        "ref": "Chicken Farm/Euro on pillar/"
+                    }
+                ]
+            },
+            {
+                "name": "Hat Store",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 1 Cluster",
+                        "x": 1268,
+                        "y": 462,
+                        "size": 40,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Ms. Heel",
+                        "ref": "Hat Store/Store Ms. Heel/"
+                    },
+                    {
+                        "name": "Store Mr. Heel",
+                        "ref": "Hat Store/Store Mr. Heel/"
+                    }
+                ]
+            },
+            {
+                "name": "Cleaners",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 1 Cluster",
+                        "x": 814,
+                        "y": 455,
+                        "size": 40,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Washing Machine",
+                        "ref": "Cleaners/Store Washing Machine/"
+                    }
+                ]
+            },
+            {
+                "name": "Tyre World",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 1 Cluster",
+                        "x": 693,
+                        "y": 635,
+                        "size": 40,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Orphan Tyre",
+                        "ref": "Tyre World/Store Orphan Tyre/"
+                    },
+                    {
+                        "name": "Store Papa Tyre",
+                        "ref": "Tyre World/Store Papa Tyre/"
+                    },
+                    {
+                        "name": "Store Smoker",
+                        "ref": "Tyre World/Store Smoker/"
+                    },
+                    {
+                        "name": "Store Broken Truck",
+                        "ref": "Tyre World/Store Broken Truck/"
+                    },
+                    {
+                        "name": "Euro on roof of entrance",
+                        "ref": "Tyre World/Euro on roof of entrance/"
+                    }
                 ]
             },
             {
@@ -159,31 +425,75 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [" "],
+                "access_rules": [
+                    " "
+                ],
                 "map_locations": [
                     {
                         "map": "Act 1 Cluster",
-                        "x": 256,
-                        "y": 180,
-                        "size": 28,
-                        "shape": "rect"
+                        "x": 1275,
+                        "y": 733,
+                        "size": 40,
+                        "shape": "diamond"
                     }
                 ],
                 "sections": [
-                    { "name": "Chamber - Store Michi Cat", "ref": "Museum/Chamber/Store Michi Cat" },
-                    { "name": "Chamber - Find Michi Cat", "ref": "Museum/Chamber/Find Michi Cat" },
-                    { "name": "Chamber - Eat Mystical Dumbbell Act 2", "ref": "Museum/Chamber/Eat Mystical Dumbbell Act 2" },
-                    { "name": "Store Logan Left", "ref": "Museum/Store Logan Left/" },
-                    { "name": "Store Logan Right", "ref": "Museum/Store Logan Right/" },
-                    { "name": "Store Barrel", "ref": "Museum/Store Barrel/" },
-                    { "name": "Store Pawn", "ref": "Museum/Store Pawn/" },
-                    { "name": "Store Rook", "ref": "Museum/Store Rook/" },
-                    { "name": "Store Bishop", "ref": "Museum/Store Bishop/" },
-                    { "name": "Store Queen", "ref": "Museum/Store Queen/" },
-                    { "name": "Store King", "ref": "Museum/Store King/" },
-                    { "name": "Store Spoonsweet", "ref": "Museum/Store Spoonsweet/" },
-                    { "name": "Store Wriks Celler", "ref": "Museum/Store Wriks Celler/" },
-                    { "name": "Find Top Hat", "ref": "Museum/Find Top Hat/" }
+                    {
+                        "name": "Chamber - Store Michi Cat",
+                        "ref": "Chamber/Michi Cat/Store Michi Cat"
+                    },
+                    {
+                        "name": "Chamber - Find Michi Cat",
+                        "ref": "Chamber/Michi Cat/Find Michi Cat"
+                    },
+                    {
+                        "name": "Chamber - Eat Mystical Dumbbell Act 2",
+                        "ref": "Chamber/Eat Mystical Dumbbell Act 2/"
+                    },
+                    {
+                        "name": "Store Logan Left",
+                        "ref": "Museum/Store Logan Left/"
+                    },
+                    {
+                        "name": "Store Logan Right",
+                        "ref": "Museum/Store Logan Right/"
+                    },
+                    {
+                        "name": "Store Barrel",
+                        "ref": "Museum/Store Barrel/"
+                    },
+                    {
+                        "name": "Store Pawn",
+                        "ref": "Museum/Store Pawn/"
+                    },
+                    {
+                        "name": "Store Rook",
+                        "ref": "Museum/Store Rook/"
+                    },
+                    {
+                        "name": "Store Bishop",
+                        "ref": "Museum/Store Bishop/"
+                    },
+                    {
+                        "name": "Store Queen",
+                        "ref": "Museum/Store Queen/"
+                    },
+                    {
+                        "name": "Store King",
+                        "ref": "Museum/Store King/"
+                    },
+                    {
+                        "name": "Store Spoonsweet",
+                        "ref": "Museum/Store Spoonsweet/"
+                    },
+                    {
+                        "name": "Store Wriks Celler",
+                        "ref": "Museum/Store Wriks Celler/"
+                    },
+                    {
+                        "name": "Find Top Hat",
+                        "ref": "Museum/Find Top Hat/"
+                    }
                 ]
             }
         ]

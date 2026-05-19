@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumspter:35",
+            "dumpster:35",
             "keitruck"
         ],
         "children": [
@@ -30,7 +30,7 @@
                         "map": "Blimbo City Reactor",
                         "x": 1652,
                         "y": 1360,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -56,7 +56,7 @@
                         "map": "Blimbo City Reactor",
                         "x": 1164,
                         "y": 1140,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
@@ -82,7 +82,7 @@
                         "map": "Blimbo City Reactor",
                         "x": 786,
                         "y": 1036,
-                        "size": 28,
+                        "size": 40,
                         "shape": "rect"
                     }
                 ]
