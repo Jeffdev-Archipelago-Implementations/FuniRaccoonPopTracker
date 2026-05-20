@@ -231,12 +231,20 @@ function onClear(slot_data)
             end
         end
     end
+    local dumpster = Tracker:FindObjectForCode("dumpster")
+    if dumpster then
+        dumpster.AcquiredCount = dumpster.MinCount or 0
+    end
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
-    -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
-    --     autoFill(slot_data)
-    -- end
+    if slot_data then
+        for key, _ in pairs(SANITY_KEYS) do
+            if slot_data[key] ~= nil then
+                UpdateSanitySetting(key, slot_data[key])
+            end
+        end
+    end
     -- print(PLAYER_ID, TEAM_NUMBER)
     if Archipelago.PlayerNumber > -1 then
         if #ALL_LOCATIONS > 0 then
@@ -297,6 +305,12 @@ function onItem(index, item_id, item_name, player_number)
             end
         else
             print(string.format("onItem: could not find object for code %s", item_code[1]))
+        end
+    end
+    if item_id >= 1 and item_id <= 175 then
+        local dumpster = Tracker:FindObjectForCode("dumpster")
+        if dumpster then
+            dumpster.AcquiredCount = dumpster.AcquiredCount + 1
         end
     end
 end

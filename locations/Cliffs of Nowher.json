@@ -1,41 +1,15 @@
 [
     {
-        "name": "Blimbo City Upper Towers",
+        "name": "Cliffs of Nowher",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumpster:35,keitruck"
+            "dumpster:50,keitruck"
         ],
         "children": [
             {
-                "name": "Store Suitcase",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    "dumbbell:2"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Blimbo City Upper Towers",
-                        "x": 2086,
-                        "y": 714,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Store Dice",
+                "name": "Store Butterfly",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -52,9 +26,35 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Blimbo City Upper Towers",
-                        "x": 1008,
-                        "y": 1482,
+                        "map": "Cliffs of Nowher",
+                        "x": 1629,
+                        "y": 1223,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Lughling",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Cliffs of Nowher",
+                        "x": 1553,
+                        "y": 40,
                         "size": 40,
                         "shape": "rect"
                     }

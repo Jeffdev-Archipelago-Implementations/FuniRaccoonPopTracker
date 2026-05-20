@@ -6,6 +6,7 @@ SANITY_KEYS = {
 }
 
 function UpdateSanitySetting(key, value)
+    if value == nil then return end
     local code = SANITY_KEYS[key]
     if not code then return end
     local item = Tracker:FindObjectForCode(code)

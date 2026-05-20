@@ -32,8 +32,36 @@
                     "type": "tabbed",
                     "tabs": [
                         {
+                            "title": "Rackheath",
+                            "content": {"type": "map", "maps": ["Rackheath"]}
+                        },
+                        {
                             "title": "Norwich",
                             "content": {"type": "map", "maps": ["Norwich"]}
+                        },
+                        {
+                            "title": "Hat Store",
+                            "content": {"type": "map", "maps": ["Hat Store"]}
+                        },
+                        {
+                            "title": "Chicken Farm",
+                            "content": {"type": "map", "maps": ["Chicken Farm"]}
+                        },
+                        {
+                            "title": "Gym",
+                            "content": {"type": "map", "maps": ["Gym Outside", "Gym Inside"]}
+                        },
+                        {
+                            "title": "Cleaners",
+                            "content": {"type": "map", "maps": ["Cleaners"]}
+                        },
+                        {
+                            "title": "Tyre World",
+                            "content": {"type": "map", "maps": ["Tyre World"]}
+                        },
+                        {
+                            "title": "Behrman Speedway",
+                            "content": {"type": "map", "maps": ["Behrman Speedway"]}
                         },
                         {
                             "title": "Da Water Zone",
@@ -44,14 +72,6 @@
                             "content": {"type": "map", "maps": ["Raccoon Central Station"]}
                         },
                         {
-                            "title": "Gym",
-                            "content": {"type": "map", "maps": ["Gym Outside", "Gym Inside"]}
-                        },
-                        {
-                            "title": "Rackheath",
-                            "content": {"type": "map", "maps": ["Rackheath"]}
-                        },
-                        {
                             "title": "Museum",
                             "content": {"type": "map", "maps": ["Museum"]}
                         },
@@ -60,28 +80,8 @@
                             "content": {"type": "map", "maps": ["Chamber"]}
                         },
                         {
-                            "title": "Chicken Farm",
-                            "content": {"type": "map", "maps": ["Chicken Farm"]}
-                        },
-                        {
                             "title": "Church",
                             "content": {"type": "map", "maps": ["Church"]}
-                        },
-                        {
-                            "title": "Hat Store",
-                            "content": {"type": "map", "maps": ["Hat Store"]}
-                        },
-                        {
-                            "title": "Behrman Speedway",
-                            "content": {"type": "map", "maps": ["Behrman Speedway"]}
-                        },
-                        {
-                            "title": "Cleaners",
-                            "content": {"type": "map", "maps": ["Cleaners"]}
-                        },
-                        {
-                            "title": "Tyre World",
-                            "content": {"type": "map", "maps": ["Tyre World"]}
                         }
                     ]
                 }
@@ -93,7 +93,11 @@
                     "tabs": [
                         {
                             "title": "Beenie HQ",
-                            "content": {"type": "map", "maps": ["Beenie HQ Front", "Beenie HQ Back", "Beenie HQ Inside", "Underground Metro"]}
+                            "content": {"type": "map", "maps": ["Beenie HQ Front", "Beenie HQ Back", "Beenie HQ Inside"]}
+                        },
+                        {
+                            "title": "Underground Metro",
+                            "content": {"type": "map", "maps": ["Underground Metro"]}
                         },
                         {
                             "title": "Beenie Factory",
@@ -140,28 +144,28 @@
                             "content": {"type": "map", "maps": ["Blimbo Village Start", "Blimbo Village Town"]}
                         },
                         {
-                            "title": "Bildal Mines",
-                            "content": {"type": "map", "maps": ["Bildal Mines"]}
-                        },
-                        {
-                            "title": "Trasco Carpark",
-                            "content": {"type": "map", "maps": ["Trasco Carpark"]}
-                        },
-                        {
-                            "title": "FRIDGE WORLD",
-                            "content": {"type": "map", "maps": ["FRIDGE WORLD"]}
-                        },
-                        {
-                            "title": "Piss Shrine",
-                            "content": {"type": "map", "maps": ["Trasco Carpark Piss Shrine"]}
-                        },
-                        {
                             "title": "Petrol Station",
                             "content": {"type": "map", "maps": ["Petrol Station"]}
                         },
                         {
+                            "title": "Bildal Mines",
+                            "content": {"type": "map", "maps": ["Bildal Mines"]}
+                        },
+                        {
                             "title": "Garden",
                             "content": {"type": "map", "maps": ["Garden"]}
+                        },
+                        {
+                            "title": "Forest",
+                            "content": {"type": "map", "maps": ["Forest"]}
+                        },
+                        {
+                            "title": "Trasco Carpark",
+                            "content": {"type": "map", "maps": ["Trasco Carpark", "Trasco Carpark Piss Shrine"]}
+                        },
+                        {
+                            "title": "FRIDGE WORLD",
+                            "content": {"type": "map", "maps": ["FRIDGE WORLD"]}
                         },
                         {
                             "title": "Blimbo City",
@@ -197,23 +201,19 @@
                                         "content": {"type": "map", "maps": ["Pub"]}
                                     },
                                     {
-                                        "title": "Reactor",
-                                        "content": {"type": "map", "maps": ["Blimbo City Reactor"]}
+                                        "title": "Upper Towers",
+                                        "content": {"type": "map", "maps": ["Blimbo City Upper Towers"]}
                                     },
                                     {
                                         "title": "Top",
                                         "content": {"type": "map", "maps": ["Blimbo City Top"]}
                                     },
                                     {
-                                        "title": "Upper Towers",
-                                        "content": {"type": "map", "maps": ["Blimbo City Upper Towers"]}
+                                        "title": "Reactor",
+                                        "content": {"type": "map", "maps": ["Blimbo City Reactor"]}
                                     }
                                 ]
                             }
-                        },
-                        {
-                            "title": "Forest",
-                            "content": {"type": "map", "maps": ["Forest"]}
                         },
                         {
                             "title": "Mikk Barge",
@@ -246,6 +246,10 @@
                         {
                             "title": "Desert",
                             "content": {"type": "map", "maps": ["Desert"]}
+                        },
+                        {
+                            "title": "Salmon of Knowledge",
+                            "content": {"type": "map", "maps": ["Salmon of Knowledge"]}
                         },
                         {
                             "title": "Da Dry Zone",
@@ -515,6 +519,10 @@
                         {
                             "title": "Desert",
                             "content": {"type": "map", "maps": ["Desert"]}
+                        },
+                        {
+                            "title": "Salmon of Knowledge",
+                            "content": {"type": "map", "maps": ["Salmon of Knowledge"]}
                         },
                         {
                             "title": "Da Dry Zone",

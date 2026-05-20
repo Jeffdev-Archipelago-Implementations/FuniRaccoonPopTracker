@@ -23,7 +23,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "{dumbbell:1}"
+                    "dumbbell:1"
                 ],
                 "sections": [
                     {
@@ -36,8 +36,8 @@
                 "map_locations": [
                     {
                         "map": "FRIDGE WORLD",
-                        "x": 100,
-                        "y": 100,
+                        "x": 1560,
+                        "y": 644,
                         "size": 40,
                         "shape": "rect"
                     }

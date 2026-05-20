@@ -150,10 +150,6 @@
                 ],
                 "sections": [
                     {
-                        "name": "Store Hazelnut",
-                        "ref": "Desert/Store Hazelnut/"
-                    },
-                    {
                         "name": "Store Fridgling",
                         "ref": "Desert/Store Fridgling/"
                     },
@@ -167,11 +163,11 @@
                     },
                     {
                         "name": "Cliffs of Nowher - Store Butterfly",
-                        "ref": "Desert/Cliffs of Nowher/Store Butterfly/"
+                        "ref": "Cliffs of Nowher/Store Butterfly/"
                     },
                     {
                         "name": "Cliffs of Nowher - Store Lughling",
-                        "ref": "Desert/Cliffs of Nowher/Store Lughling/"
+                        "ref": "Cliffs of Nowher/Store Lughling/"
                     },
                     {
                         "name": "Find Fridge Crown",
@@ -228,6 +224,32 @@
                     {
                         "name": "Euro in BLMB nuclear reactor",
                         "ref": "Desert/Euro in BLMB nuclear reactor/"
+                    }
+                ],
+                "children": [
+                    {
+                        "name": "Salmon of Knowledge",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "Store Hazelnut",
+                                "ref": "Salmon of Knowledge/Store Hazelnut/"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Act 4 Cluster",
+                                "x": 927,
+                                "y": 450,
+                                "size": 40,
+                                "shape": "diamond"
+                            }
+                        ]
                     }
                 ],
                 "map_locations": [

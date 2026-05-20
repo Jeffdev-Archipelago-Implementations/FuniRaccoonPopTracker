@@ -10,7 +10,7 @@
 {"name": "Blimbo City Middle", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Blimbo City Middle.png"}, 
 {"name": "Blimbo City Middle Back", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Blimbo City Middle Back.png"}, 
 {"name": "Blimbo City Middle Casino", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Blimbo City Middle Casino.png"}, 
-{"name": "Blimbo City PURGATORY", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Blimbo City PURGATORY.png"}, 
+{"name": "Blimbo City PURGATORY", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/PURGATORY.png"}, 
 {"name": "Pub", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Pub.png"}, 
 {"name": "Blimbo City Reactor", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/RBMK Reactor.png"}, 
 {"name": "Blimbo City Top", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Blimbo City Top.png"}, 
@@ -57,4 +57,5 @@
 {"name": "Cliffs of Nowher", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Cliffs of Nowher (Act 4).png"},
 {"name": "Cricket", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Cricket.png"},
 {"name": "Beenie's Ascension", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Beenies Ascension.png"},
-{"name": "Chamber", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Chamber.png"}]
+{"name": "Chamber", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Chamber.png"},
+{"name": "Salmon of Knowledge", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Salmon of Knowledge.png"}]

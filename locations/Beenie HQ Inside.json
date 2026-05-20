@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Beenie HQ Inside",
-                        "x": 715,
-                        "y": 852,
+                        "x": 364,
+                        "y": 692,
                         "size": 40,
                         "shape": "rect"
                     }
@@ -53,8 +53,8 @@
                 "map_locations": [
                     {
                         "map": "Beenie HQ Inside",
-                        "x": 1501,
-                        "y": 760,
+                        "x": 1173,
+                        "y": 456,
                         "size": 40,
                         "shape": "rect"
                     }
