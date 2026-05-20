@@ -1,4 +1,3 @@
--- Each value is a list of tab titles to activate top-down (parent first, then child)
 MAP_LOCATION = {
     ["NORWICH"]             = {"Act 1", "Norwich"},
     ["GYM_INSIDE"]          = {"Act 1", "Gym"},
