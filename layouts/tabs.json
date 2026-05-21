@@ -256,10 +256,6 @@
                             "content": {"type": "map", "maps": ["Dry Zone"]}
                         },
                         {
-                            "title": "Norwich Ruins",
-                            "content": {"type": "map", "maps": ["Norwich Ruins"]}
-                        },
-                        {
                             "title": "Gully",
                             "content": {"type": "map", "maps": ["The Gully"]}
                         },
@@ -527,10 +523,6 @@
                         {
                             "title": "Da Dry Zone",
                             "content": {"type": "map", "maps": ["Dry Zone"]}
-                        },
-                        {
-                            "title": "Norwich Ruins",
-                            "content": {"type": "map", "maps": ["Norwich Ruins"]}
                         },
                         {
                             "title": "Gully",
