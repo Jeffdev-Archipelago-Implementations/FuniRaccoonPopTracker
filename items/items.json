@@ -122,6 +122,7 @@
         "max_quantity": 140,
         "overlay_background": "#C0111111",
         "img": "images/items/bin.png",
+        "img_inactive": "images/items/close.png",
         "codes": "dumpster"
     },
     {

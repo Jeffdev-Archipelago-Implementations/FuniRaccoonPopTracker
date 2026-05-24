@@ -182,7 +182,8 @@
                     {
                         "name": "Get 2000 Score with Kei Truck",
                         "access_rules": [
-                            "{keitruckboost,keitrucktoaster}"
+                            "keitruckboost",
+                            "keitrucktoaster"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -190,7 +191,8 @@
                     {
                         "name": "Get 3000 Score with Kei Truck",
                         "access_rules": [
-                            "{keitruckboost,keitrucktoaster}"
+                            "keitruckboost",
+                            "keitrucktoaster"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -198,7 +200,8 @@
                     {
                         "name": "Get 4000 Score with Kei Truck",
                         "access_rules": [
-                            "{keitruckboost,keitrucktoaster}"
+                            "keitruckboost",
+                            "keitrucktoaster"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -206,7 +209,8 @@
                     {
                         "name": "Get 5000 Score with Kei Truck",
                         "access_rules": [
-                            "{keitruckboost,keitrucktoaster}"
+                            "keitruckboost",
+                            "keitrucktoaster"
                         ],
                         "visibility_rules": [],
                         "item_count": 1

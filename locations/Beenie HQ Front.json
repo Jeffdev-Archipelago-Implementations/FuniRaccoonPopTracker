@@ -66,7 +66,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:1,{goo,keitruck}"
+                    "dumbbell:1,goo",
+                    "dumbbell:1,keitruck"
                 ],
                 "sections": [
                     {
