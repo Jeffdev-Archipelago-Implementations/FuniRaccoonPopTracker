@@ -151,14 +151,12 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "dumbbell:2"
                 ],
                 "sections": [
                     {
                         "name": "",
-                        "access_rules": [
-                            "dumbbell:2"
-                        ],
+                        "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
                     }

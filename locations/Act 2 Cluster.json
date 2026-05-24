@@ -44,6 +44,14 @@
                     {
                         "name": "Store Beenie the Birthday Boy",
                         "ref": "Beenie HQ Inside/Store Beenie the Birthday Boy/"
+                    },
+                    {
+                        "name": "Underground Metro - Store Keksz Cat",
+                        "ref": "Underground Metro/Keksz Cat/Store Keksz Cat"
+                    },
+                    {
+                        "name": "Underground Metro - Find Keksz Cat",
+                        "ref": "Underground Metro/Keksz Cat/Find Keksz Cat"
                     }
                 ],
                 "map_locations": [
@@ -53,36 +61,6 @@
                         "y": 555,
                         "size": 40,
                         "shape": "diamond"
-                    }
-                ],
-                "children": [
-                    {
-                        "name": "Underground Metro",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Act 2 Cluster",
-                                "x": 100,
-                                "y": 100,
-                                "size": 40,
-                                "shape": "rect"
-                            }
-                        ],
-                        "sections": [
-                            {
-                                "name": "Keksz Cat - Store Keksz Cat",
-                                "ref": "Underground Metro/Keksz Cat/Store Keksz Cat"
-                            },
-                            {
-                                "name": "Keksz Cat - Find Keksz Cat",
-                                "ref": "Underground Metro/Keksz Cat/Find Keksz Cat"
-                            }
-                        ]
                     }
                 ]
             },
