@@ -5,7 +5,8 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "fridgekey"
+            "dumpster:35,keitruck,fridgekey,keitruckboost",
+            "dumpster:35,keitruck,fridgekey,keitrucktoaster"
         ],
         "map_locations": [
             {
@@ -23,7 +24,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:1"
+                    "dumpster:35,keitruck,fridgekey,keitruckboost",
+                    "dumpster:35,keitruck,fridgekey,keitrucktoaster"
                 ],
                 "sections": [
                     {
