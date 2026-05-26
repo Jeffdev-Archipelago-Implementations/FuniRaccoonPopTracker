@@ -37,7 +37,7 @@
             {
                 "name": "Concrete Cat",
                 "chest_unopened_img": "/images/items/cat.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/cat_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -97,7 +97,7 @@
             {
                 "name": "Euro on roof with vending machine",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -126,7 +126,7 @@
             {
                 "name": "Euro behind building",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -155,7 +155,7 @@
             {
                 "name": "Euro at end of train tracks",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "brobenergy"
@@ -184,7 +184,7 @@
             {
                 "name": "Euro on bee sign under clouds",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "

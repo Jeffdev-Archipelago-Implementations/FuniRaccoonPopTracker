@@ -119,7 +119,7 @@
             {
                 "name": "Euro on tilted building",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -148,7 +148,7 @@
             {
                 "name": "Moai Head Euro",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -207,7 +207,7 @@
             {
                 "name": "Euro on pillar near MFC",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -236,7 +236,7 @@
             {
                 "name": "Euro on yellow house roof in fridge land",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -265,7 +265,7 @@
             {
                 "name": "Euro in New Buisness HQ",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -294,7 +294,7 @@
             {
                 "name": "Euro on top of fridge land skull",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -323,7 +323,7 @@
             {
                 "name": "Euro on blue house roof in fridge land",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -352,7 +352,7 @@
             {
                 "name": "Euro in BLMB nuclear reactor",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "

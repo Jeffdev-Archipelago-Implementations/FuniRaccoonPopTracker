@@ -90,7 +90,7 @@
             {
                 "name": "Euro near Guns stands",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -119,7 +119,7 @@
             {
                 "name": "Euro under city on girders 3",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -148,7 +148,7 @@
             {
                 "name": "Euro near cheese wheel",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -232,13 +232,27 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [" "],
+                "access_rules": [
+                    " "
+                ],
                 "map_locations": [
-                    {"map": "Blimbo City Middle", "x": 100, "y": 100, "size": 40, "shape": "rect"}
+                    {
+                        "map": "Blimbo City Middle",
+                        "x": 100,
+                        "y": 100,
+                        "size": 40,
+                        "shape": "rect"
+                    }
                 ],
                 "sections": [
-                    {"name": "Euro under city on girders 1", "ref": "Blimbo City Girders/Euro under city on girders 1/"},
-                    {"name": "Euro under city on girders 2", "ref": "Blimbo City Girders/Euro under city on girders 2/"}
+                    {
+                        "name": "Euro under city on girders 1",
+                        "ref": "Blimbo City Girders/Euro under city on girders 1/"
+                    },
+                    {
+                        "name": "Euro under city on girders 2",
+                        "ref": "Blimbo City Girders/Euro under city on girders 2/"
+                    }
                 ]
             }
         ]

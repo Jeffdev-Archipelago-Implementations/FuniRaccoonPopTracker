@@ -144,7 +144,7 @@
             {
                 "name": "Euro on watertower",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -173,7 +173,7 @@
             {
                 "name": "Euro near boat on edge of city",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "

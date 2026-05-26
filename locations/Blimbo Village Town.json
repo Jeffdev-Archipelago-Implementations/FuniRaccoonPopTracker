@@ -119,7 +119,7 @@
             {
                 "name": "Kei Truck Upgrades",
                 "chest_unopened_img": "/images/items/keitruck.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/keitruck_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -157,7 +157,7 @@
             {
                 "name": "Euro on castle",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -186,7 +186,7 @@
             {
                 "name": "Euro near furnace",
                 "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "

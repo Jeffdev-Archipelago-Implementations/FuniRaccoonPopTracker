@@ -172,7 +172,7 @@
             {
                 "name": "Kei Truck Score",
                 "chest_unopened_img": "/images/items/keitruck.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/keitruck_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -234,7 +234,7 @@
             {
                 "name": "Find Media Player Hat",
                 "chest_unopened_img": "/images/items/hat.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_opened_img": "/images/items/hat_open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "keitruckboost",
