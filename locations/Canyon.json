@@ -88,6 +88,222 @@
                         "shape": "rect"
                     }
                 ]
+            },
+            {
+                "name": "Municipal Wastes",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Canyon",
+                        "x": 853,
+                        "y": 390,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Synthesizer",
+                        "ref": "Municipal Wastes/Store Synthesizer/"
+                    },
+                    {
+                        "name": "Store Lloyd",
+                        "ref": "Municipal Wastes/Store Lloyd/"
+                    },
+                    {
+                        "name": "Store Plimbos Cooling Rod",
+                        "ref": "Municipal Wastes/Store Plimbos Cooling Rod/"
+                    },
+                    {
+                        "name": "Store Chairapist",
+                        "ref": "Municipal Wastes/Store Chairapist/"
+                    },
+                    {
+                        "name": "Store Real Gym",
+                        "ref": "Municipal Wastes/Store Real Gym/"
+                    },
+                    {
+                        "name": "Eat Mystical Dumbbell Act 4",
+                        "ref": "Municipal Wastes/Eat Mystical Dumbbell Act 4/"
+                    },
+                    {
+                        "name": "Euro on top of breakfast building",
+                        "ref": "Municipal Wastes/Euro on top of breakfast building/"
+                    },
+                    {
+                        "name": "Euro on top of chinese building",
+                        "ref": "Municipal Wastes/Euro on top of chinese building/"
+                    },
+                    {
+                        "name": "Euro on lower end of chinese building",
+                        "ref": "Municipal Wastes/Euro on lower end of chinese building/"
+                    },
+                    {
+                        "name": "Euro on sad therapy sign building",
+                        "ref": "Municipal Wastes/Euro on sad therapy sign building/"
+                    },
+                    {
+                        "name": "Euro nearby mystical dumbbell in flowers",
+                        "ref": "Municipal Wastes/Euro nearby mystical dumbbell in flowers/"
+                    },
+                    {
+                        "name": "Euro on road edge",
+                        "ref": "Municipal Wastes/Euro on road edge/"
+                    },
+                    {
+                        "name": "Euro on dead blimbos building",
+                        "ref": "Municipal Wastes/Euro on dead blimbos building/"
+                    }
+                ]
+            },
+            {
+                "name": "Pharmacy",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Canyon",
+                        "x": 2424,
+                        "y": 572,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Anti Sads",
+                        "ref": "Pharmacy/Store Anti Sads/"
+                    },
+                    {
+                        "name": "Store Leeches!",
+                        "ref": "Pharmacy/Store Leeches!/"
+                    }
+                ]
+            },
+            {
+                "name": "Desert",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Canyon",
+                        "x": 1160,
+                        "y": 905,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Fridgling",
+                        "ref": "Desert/Store Fridgling/"
+                    },
+                    {
+                        "name": "Store Snowball",
+                        "ref": "Desert/Store Snowball/"
+                    },
+                    {
+                        "name": "Store Fridge Kings Cooling Rod",
+                        "ref": "Desert/Store Fridge Kings Cooling Rod/"
+                    },
+                    {
+                        "name": "Find Fridge Crown",
+                        "ref": "Desert/Find Fridge Crown/"
+                    },
+                    {
+                        "name": "Euro on tilted building",
+                        "ref": "Desert/Euro on tilted building/"
+                    },
+                    {
+                        "name": "Euro in moai head pool 1",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 1"
+                    },
+                    {
+                        "name": "Euro in moai head pool 2",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 2"
+                    },
+                    {
+                        "name": "Euro in moai head pool 3",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 3"
+                    },
+                    {
+                        "name": "Euro in moai head pool 4",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 4"
+                    },
+                    {
+                        "name": "Euro in moai head pool 5",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 5"
+                    },
+                    {
+                        "name": "Euro in moai head pool 6",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 6"
+                    },
+                    {
+                        "name": "Euro on pillar near MFC",
+                        "ref": "Desert/Euro on pillar near MFC/"
+                    },
+                    {
+                        "name": "Euro on yellow house roof in fridge land",
+                        "ref": "Desert/Euro on yellow house roof in fridge land/"
+                    },
+                    {
+                        "name": "Euro in New Buisness HQ",
+                        "ref": "Desert/Euro in New Buisness HQ/"
+                    },
+                    {
+                        "name": "Euro on top of fridge land skull",
+                        "ref": "Desert/Euro on top of fridge land skull/"
+                    },
+                    {
+                        "name": "Euro on blue house roof in fridge land",
+                        "ref": "Desert/Euro on blue house roof in fridge land/"
+                    },
+                    {
+                        "name": "Euro in BLMB nuclear reactor",
+                        "ref": "Desert/Euro in BLMB nuclear reactor/"
+                    }
+                ]
+            },
+            {
+                "name": "The Gully",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Canyon",
+                        "x": 286,
+                        "y": 338,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Orb",
+                        "ref": "The Gully/Store Orb/"
+                    },
+                    {
+                        "name": "Store Belgium Waffle",
+                        "ref": "The Gully/Store Belgium Waffle/"
+                    }
+                ]
             }
         ]
     }

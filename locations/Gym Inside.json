@@ -85,6 +85,90 @@
                         "shape": "rect"
                     }
                 ]
+            },
+            {
+                "name": "Norwich",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gym Inside",
+                        "x": 1043,
+                        "y": 732,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Lama Alpaca Maybe",
+                        "ref": "Norwich/Store Lama Alpaca Maybe/"
+                    },
+                    {
+                        "name": "Store Gym",
+                        "ref": "Norwich/Store Gym/"
+                    },
+                    {
+                        "name": "Store Vending Machine (accepts doubloons)",
+                        "ref": "Norwich/Vending Machine and Brob Energy/Store Vending Machine (accepts doubloons)"
+                    },
+                    {
+                        "name": "Store Brob Energy",
+                        "ref": "Norwich/Vending Machine and Brob Energy/Store Brob Energy"
+                    },
+                    {
+                        "name": "Store DOUBLOONS",
+                        "ref": "Norwich/Store DOUBLOONS/"
+                    },
+                    {
+                        "name": "Store unregistered firearm",
+                        "ref": "Norwich/Store unregistered firearm/"
+                    },
+                    {
+                        "name": "Store Michelle Cat",
+                        "ref": "Norwich/Michelle Cat/Store Michelle Cat"
+                    },
+                    {
+                        "name": "Find Michelle Cat",
+                        "ref": "Norwich/Michelle Cat/Find Michelle Cat"
+                    },
+                    {
+                        "name": "Store Heavy Stone Torch",
+                        "ref": "Norwich/Store Heavy Stone Torch/"
+                    },
+                    {
+                        "name": "Store Sign",
+                        "ref": "Norwich/Store Sign/"
+                    },
+                    {
+                        "name": "Store Crack Head",
+                        "ref": "Norwich/Store Crack Head/"
+                    },
+                    {
+                        "name": "Store Flower Blimbo",
+                        "ref": "Norwich/Store Flower Blimbo/"
+                    },
+                    {
+                        "name": "Find Sun Hat",
+                        "ref": "Norwich/Find Sun Hat/"
+                    },
+                    {
+                        "name": "Euro at train station",
+                        "ref": "Norwich/Euro at train station/"
+                    },
+                    {
+                        "name": "Euro at chicken farm island",
+                        "ref": "Norwich/Euro at chicken farm island/"
+                    },
+                    {
+                        "name": "Complete Behrman Speedway in under 1 minute",
+                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute"
+                    }
+                ]
             }
         ]
     }

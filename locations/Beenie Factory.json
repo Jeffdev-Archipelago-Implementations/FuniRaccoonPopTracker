@@ -59,6 +59,74 @@
                         "shape": "rect"
                     }
                 ]
+            },
+            {
+                "name": "The Process",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Beenie Factory",
+                        "x": 100,
+                        "y": 100,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Buisness Man",
+                        "ref": "The Process/Store Buisness Man/"
+                    },
+                    {
+                        "name": "Store Microwave",
+                        "ref": "The Process/Store Microwave/"
+                    },
+                    {
+                        "name": "Store Beautiful Flower",
+                        "ref": "The Process/Store Beautiful Flower/"
+                    },
+                    {
+                        "name": "Store Patrice",
+                        "ref": "The Process/Store Patrice/"
+                    },
+                    {
+                        "name": "Find Jester Hat",
+                        "ref": "The Process/Find Jester Hat/"
+                    }
+                ]
+            },
+            {
+                "name": "Beenie HQ Back",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Beenie Factory",
+                        "x": 2211,
+                        "y": 1733,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Letter B",
+                        "ref": "Beenie HQ Back/Store Letter B/"
+                    },
+                    {
+                        "name": "Store Beach Ball",
+                        "ref": "Beenie HQ Back/Store Beach Ball/"
+                    }
+                ]
             }
         ]
     }

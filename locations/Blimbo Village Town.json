@@ -14,7 +14,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:4"
+                    "dumbbell:4",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -40,7 +41,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:1"
+                    "dumbbell:1",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -66,7 +68,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2"
+                    "dumbbell:2",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -92,7 +95,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:1"
+                    "dumbbell:1",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -205,6 +209,110 @@
                         "y": 880,
                         "size": 40,
                         "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blimbo Village Town",
+                        "x": 759,
+                        "y": 1352,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Eel Can",
+                        "ref": "Forest/Store Eel Can/"
+                    },
+                    {
+                        "name": "Find Raccoon Hat",
+                        "ref": "Forest/Find Raccoon Hat/"
+                    }
+                ]
+            },
+            {
+                "name": "Petrol Station",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blimbo Village Town",
+                        "x": 1945,
+                        "y": 1314,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Knifedog",
+                        "ref": "Petrol Station/Store Knifedog/"
+                    },
+                    {
+                        "name": "Store Bomb",
+                        "ref": "Petrol Station/Store Bomb/"
+                    },
+                    {
+                        "name": "Store Gas Pumpo",
+                        "ref": "Petrol Station/Store Gas Pumpo/"
+                    },
+                    {
+                        "name": "Store Binocublo",
+                        "ref": "Petrol Station/Store Binocublo/"
+                    },
+                    {
+                        "name": "Store Police Car",
+                        "ref": "Petrol Station/Store Police Car/"
+                    }
+                ]
+            },
+            {
+                "name": "Bildal Mines",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blimbo Village Town",
+                        "x": 1826,
+                        "y": 678,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store boingler Cat",
+                        "ref": "Bildal Mines/boingler Cat/Store boingler Cat"
+                    },
+                    {
+                        "name": "Find boingler Cat",
+                        "ref": "Bildal Mines/boingler Cat/Find boingler Cat"
+                    },
+                    {
+                        "name": "Store Pickaxe",
+                        "ref": "Bildal Mines/Store Pickaxe/"
+                    },
+                    {
+                        "name": "Store Broken Wall",
+                        "ref": "Bildal Mines/Store Broken Wall/"
                     }
                 ]
             }

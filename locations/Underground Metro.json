@@ -53,6 +53,54 @@
                         "shape": "rect"
                     }
                 ]
+            },
+            {
+                "name": "Beenie HQ",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Underground Metro",
+                        "x": 349,
+                        "y": 423,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Crayon",
+                        "ref": "Beenie HQ Front/Store Crayon/"
+                    },
+                    {
+                        "name": "Store Evil Fish",
+                        "ref": "Beenie HQ Front/Store Evil Fish/"
+                    },
+                    {
+                        "name": "Store Patrick OHara",
+                        "ref": "Beenie HQ Front/Store Patrick OHara/"
+                    },
+                    {
+                        "name": "Store Letter B",
+                        "ref": "Beenie HQ Back/Store Letter B/"
+                    },
+                    {
+                        "name": "Store Beach Ball",
+                        "ref": "Beenie HQ Back/Store Beach Ball/"
+                    },
+                    {
+                        "name": "Store Funi Marketable Plushie",
+                        "ref": "Beenie HQ Inside/Store Funi Marketable Plushie/"
+                    },
+                    {
+                        "name": "Store Beenie the Birthday Boy",
+                        "ref": "Beenie HQ Inside/Store Beenie the Birthday Boy/"
+                    }
+                ]
             }
         ]
     }

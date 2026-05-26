@@ -14,7 +14,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:1"
+                    "dumbbell:1",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -40,7 +41,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2"
+                    "dumbbell:2",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -118,7 +120,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2"
+                    "dumbbell:2",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -193,6 +196,110 @@
                         "y": 1452,
                         "size": 40,
                         "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City Middle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blimbo City Bottom Main",
+                        "x": 1216,
+                        "y": 37,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Bin",
+                        "ref": "Blimbo City Middle/Store Bin/"
+                    },
+                    {
+                        "name": "Store Apple",
+                        "ref": "Blimbo City Middle/Store Apple/"
+                    },
+                    {
+                        "name": "Store Patrick O Bobble",
+                        "ref": "Blimbo City Middle/Store Patrick O Bobble/"
+                    },
+                    {
+                        "name": "Store Coffee Cup",
+                        "ref": "Blimbo City Middle/Store Coffee Cup/"
+                    },
+                    {
+                        "name": "Store Yolky",
+                        "ref": "Blimbo City Middle/Store Yolky/"
+                    },
+                    {
+                        "name": "Euro near Guns stands",
+                        "ref": "Blimbo City Middle/Euro near Guns stands/"
+                    },
+                    {
+                        "name": "Euro under city on girders 3",
+                        "ref": "Blimbo City Middle/Euro under city on girders 3/"
+                    },
+                    {
+                        "name": "Euro near cheese wheel",
+                        "ref": "Blimbo City Middle/Euro near cheese wheel/"
+                    }
+                ]
+            },
+            {
+                "name": "Pub",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blimbo City Bottom Main",
+                        "x": 1399,
+                        "y": 948,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Cheeky Pint",
+                        "ref": "Blimbo City Pub/Store Cheeky Pint/"
+                    },
+                    {
+                        "name": "Find Patty Hat",
+                        "ref": "Blimbo City Pub/Find Patty Hat/"
+                    }
+                ]
+            },
+            {
+                "name": "PURGATORY",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blimbo City Bottom Main",
+                        "x": 1120,
+                        "y": 1426,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store My Favourite Chair",
+                        "ref": "Blimbo City PURGATORY/Store My Favourite Chair/"
                     }
                 ]
             }

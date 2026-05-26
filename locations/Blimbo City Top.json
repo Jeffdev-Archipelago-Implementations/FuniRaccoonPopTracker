@@ -33,6 +33,38 @@
                         "shape": "rect"
                     }
                 ]
+            },
+            {
+                "name": "Blimbo City Reactor",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blimbo City Top",
+                        "x": 1894,
+                        "y": 216,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Cooling Rod",
+                        "ref": "Blimbo City Reactor/Store Cooling Rod/"
+                    },
+                    {
+                        "name": "Store Warning",
+                        "ref": "Blimbo City Reactor/Store Warning/"
+                    },
+                    {
+                        "name": "Store Demon Core",
+                        "ref": "Blimbo City Reactor/Store Demon Core/"
+                    }
+                ]
             }
         ]
     }

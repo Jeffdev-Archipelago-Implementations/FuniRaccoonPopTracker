@@ -13,7 +13,9 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": ["dumbbell:1"],
+                "access_rules": [
+                    "dumbbell:1"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -38,7 +40,9 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -54,6 +58,38 @@
                         "y": 100,
                         "size": 40,
                         "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "THE MACHINE",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Beenie's Ascension",
+                        "x": 271,
+                        "y": 1269,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Beenie, Our Savior",
+                        "ref": "THE MACHINE/Store Beenie, Our Savior/"
+                    },
+                    {
+                        "name": "Store Candle",
+                        "ref": "THE MACHINE/Store Candle/"
+                    },
+                    {
+                        "name": "Store Beenie Saves The Orphans",
+                        "ref": "THE MACHINE/Store Beenie Saves The Orphans/"
                     }
                 ]
             }

@@ -92,7 +92,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2"
+                    "dumbbell:2",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -118,7 +119,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2"
+                    "dumbbell:2",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -154,7 +156,13 @@
                         "item_count": 1
                     }
                 ],
-                "map_locations": []
+                "map_locations": {
+                    "map": "Municipal Wastes",
+                    "x": 1113,
+                    "y": 1070,
+                    "size": 40,
+                    "shape": "rect"
+                }
             },
             {
                 "name": "Euro on top of breakfast building",
@@ -356,6 +364,170 @@
                         "y": 841,
                         "size": 40,
                         "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Canyon",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Municipal Wastes",
+                        "x": 551,
+                        "y": 895,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Cheese Wife",
+                        "ref": "Canyon/Store Cheese Wife/"
+                    },
+                    {
+                        "name": "Store BookBlo",
+                        "ref": "Canyon/Store BookBlo/"
+                    },
+                    {
+                        "name": "Euro on edge of canyon",
+                        "ref": "Canyon/Euro on edge of canyon/"
+                    }
+                ]
+            },
+            {
+                "name": "Desert",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Municipal Wastes",
+                        "x": 1378,
+                        "y": 1144,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Fridgling",
+                        "ref": "Desert/Store Fridgling/"
+                    },
+                    {
+                        "name": "Store Snowball",
+                        "ref": "Desert/Store Snowball/"
+                    },
+                    {
+                        "name": "Store Fridge Kings Cooling Rod",
+                        "ref": "Desert/Store Fridge Kings Cooling Rod/"
+                    },
+                    {
+                        "name": "Find Fridge Crown",
+                        "ref": "Desert/Find Fridge Crown/"
+                    },
+                    {
+                        "name": "Euro on tilted building",
+                        "ref": "Desert/Euro on tilted building/"
+                    },
+                    {
+                        "name": "Euro in moai head pool 1",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 1"
+                    },
+                    {
+                        "name": "Euro in moai head pool 2",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 2"
+                    },
+                    {
+                        "name": "Euro in moai head pool 3",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 3"
+                    },
+                    {
+                        "name": "Euro in moai head pool 4",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 4"
+                    },
+                    {
+                        "name": "Euro in moai head pool 5",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 5"
+                    },
+                    {
+                        "name": "Euro in moai head pool 6",
+                        "ref": "Desert/Moai Head Euro/Euro in moai head pool 6"
+                    },
+                    {
+                        "name": "Euro on pillar near MFC",
+                        "ref": "Desert/Euro on pillar near MFC/"
+                    },
+                    {
+                        "name": "Euro on yellow house roof in fridge land",
+                        "ref": "Desert/Euro on yellow house roof in fridge land/"
+                    },
+                    {
+                        "name": "Euro in New Buisness HQ",
+                        "ref": "Desert/Euro in New Buisness HQ/"
+                    },
+                    {
+                        "name": "Euro on top of fridge land skull",
+                        "ref": "Desert/Euro on top of fridge land skull/"
+                    },
+                    {
+                        "name": "Euro on blue house roof in fridge land",
+                        "ref": "Desert/Euro on blue house roof in fridge land/"
+                    },
+                    {
+                        "name": "Euro in BLMB nuclear reactor",
+                        "ref": "Desert/Euro in BLMB nuclear reactor/"
+                    }
+                ]
+            },
+            {
+                "name": "Raccoon Central Station",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Municipal Wastes",
+                        "x": 2067,
+                        "y": 1091,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Bench",
+                        "ref": "Raccoon Central Station/Store Bench/"
+                    },
+                    {
+                        "name": "Store Manhole Cover",
+                        "ref": "Raccoon Central Station/Store Manhole Cover/"
+                    },
+                    {
+                        "name": "Store Old Sign",
+                        "ref": "Raccoon Central Station/Store Old Sign/"
+                    },
+                    {
+                        "name": "Store Warning Sign",
+                        "ref": "Raccoon Central Station/Store Warning Sign/"
+                    },
+                    {
+                        "name": "Store Area Sign",
+                        "ref": "Raccoon Central Station/Store Area Sign/"
+                    },
+                    {
+                        "name": "Store Funi Raccoon Game Deluxe",
+                        "ref": "Raccoon Central Station/Store Funi Raccoon Game Deluxe/"
                     }
                 ]
             }

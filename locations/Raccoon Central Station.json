@@ -163,6 +163,258 @@
                         "shape": "rect"
                     }
                 ]
+            },
+            {
+                "name": "Norwich",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Raccoon Central Station",
+                        "x": 923,
+                        "y": 731,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Lama Alpaca Maybe",
+                        "ref": "Norwich/Store Lama Alpaca Maybe/"
+                    },
+                    {
+                        "name": "Store Gym",
+                        "ref": "Norwich/Store Gym/"
+                    },
+                    {
+                        "name": "Store Vending Machine (accepts doubloons)",
+                        "ref": "Norwich/Vending Machine and Brob Energy/Store Vending Machine (accepts doubloons)"
+                    },
+                    {
+                        "name": "Store Brob Energy",
+                        "ref": "Norwich/Vending Machine and Brob Energy/Store Brob Energy"
+                    },
+                    {
+                        "name": "Store DOUBLOONS",
+                        "ref": "Norwich/Store DOUBLOONS/"
+                    },
+                    {
+                        "name": "Store unregistered firearm",
+                        "ref": "Norwich/Store unregistered firearm/"
+                    },
+                    {
+                        "name": "Store Michelle Cat",
+                        "ref": "Norwich/Michelle Cat/Store Michelle Cat"
+                    },
+                    {
+                        "name": "Find Michelle Cat",
+                        "ref": "Norwich/Michelle Cat/Find Michelle Cat"
+                    },
+                    {
+                        "name": "Store Heavy Stone Torch",
+                        "ref": "Norwich/Store Heavy Stone Torch/"
+                    },
+                    {
+                        "name": "Store Sign",
+                        "ref": "Norwich/Store Sign/"
+                    },
+                    {
+                        "name": "Store Crack Head",
+                        "ref": "Norwich/Store Crack Head/"
+                    },
+                    {
+                        "name": "Store Flower Blimbo",
+                        "ref": "Norwich/Store Flower Blimbo/"
+                    },
+                    {
+                        "name": "Find Sun Hat",
+                        "ref": "Norwich/Find Sun Hat/"
+                    },
+                    {
+                        "name": "Euro at train station",
+                        "ref": "Norwich/Euro at train station/"
+                    },
+                    {
+                        "name": "Euro at chicken farm island",
+                        "ref": "Norwich/Euro at chicken farm island/"
+                    },
+                    {
+                        "name": "Complete Behrman Speedway in under 1 minute",
+                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute"
+                    }
+                ]
+            },
+            {
+                "name": "Municipal Wastes",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Raccoon Central Station",
+                        "x": 960,
+                        "y": 361,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Synthesizer",
+                        "ref": "Municipal Wastes/Store Synthesizer/"
+                    },
+                    {
+                        "name": "Store Lloyd",
+                        "ref": "Municipal Wastes/Store Lloyd/"
+                    },
+                    {
+                        "name": "Store Plimbos Cooling Rod",
+                        "ref": "Municipal Wastes/Store Plimbos Cooling Rod/"
+                    },
+                    {
+                        "name": "Store Chairapist",
+                        "ref": "Municipal Wastes/Store Chairapist/"
+                    },
+                    {
+                        "name": "Store Real Gym",
+                        "ref": "Municipal Wastes/Store Real Gym/"
+                    },
+                    {
+                        "name": "Eat Mystical Dumbbell Act 4",
+                        "ref": "Municipal Wastes/Eat Mystical Dumbbell Act 4/"
+                    },
+                    {
+                        "name": "Euro on top of breakfast building",
+                        "ref": "Municipal Wastes/Euro on top of breakfast building/"
+                    },
+                    {
+                        "name": "Euro on top of chinese building",
+                        "ref": "Municipal Wastes/Euro on top of chinese building/"
+                    },
+                    {
+                        "name": "Euro on lower end of chinese building",
+                        "ref": "Municipal Wastes/Euro on lower end of chinese building/"
+                    },
+                    {
+                        "name": "Euro on sad therapy sign building",
+                        "ref": "Municipal Wastes/Euro on sad therapy sign building/"
+                    },
+                    {
+                        "name": "Euro nearby mystical dumbbell in flowers",
+                        "ref": "Municipal Wastes/Euro nearby mystical dumbbell in flowers/"
+                    },
+                    {
+                        "name": "Euro on road edge",
+                        "ref": "Municipal Wastes/Euro on road edge/"
+                    },
+                    {
+                        "name": "Euro on dead blimbos building",
+                        "ref": "Municipal Wastes/Euro on dead blimbos building/"
+                    }
+                ]
+            },
+            {
+                "name": "Water Zone",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Raccoon Central Station",
+                        "x": 557,
+                        "y": 1398,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Gizmo Cat",
+                        "ref": "Water Zone/Gizmo Cat/Store Gizmo Cat"
+                    },
+                    {
+                        "name": "Find Gizmo Cat",
+                        "ref": "Water Zone/Gizmo Cat/Find Gizmo Cat"
+                    },
+                    {
+                        "name": "Store Fan",
+                        "ref": "Water Zone/Store Fan/"
+                    },
+                    {
+                        "name": "Eat Green Mystical Gem",
+                        "ref": "Water Zone/Eat Green Mystical Gem/"
+                    },
+                    {
+                        "name": "Euro under stairs underwater",
+                        "ref": "Water Zone/Euro under stairs underwater/"
+                    }
+                ]
+            },
+            {
+                "name": "Trasco Carpark",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Raccoon Central Station",
+                        "x": 1892,
+                        "y": 1120,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Eat Mystical Dumbbell Act 3",
+                        "ref": "Trasco Carpark/Eat Mystical Dumbbell Act 3/"
+                    },
+                    {
+                        "name": "Euro on edge wall 1",
+                        "ref": "Trasco Carpark/Euro on Edge/Euro on edge wall 1"
+                    },
+                    {
+                        "name": "Euro on edge wall 2",
+                        "ref": "Trasco Carpark/Euro on Edge/Euro on edge wall 2"
+                    },
+                    {
+                        "name": "Euro on edge wall 3",
+                        "ref": "Trasco Carpark/Euro on Edge/Euro on edge wall 3"
+                    },
+                    {
+                        "name": "Store Fridge Key",
+                        "ref": "Trasco Carpark/Store Fridge Key/"
+                    },
+                    {
+                        "name": "Store Coffee Shop (closed)",
+                        "ref": "Trasco Carpark/Store Coffee Shop (closed)/"
+                    },
+                    {
+                        "name": "Store Trolley",
+                        "ref": "Trasco Carpark/Store Trolley/"
+                    },
+                    {
+                        "name": "Store Fridge",
+                        "ref": "Trasco Carpark/Store Fridge/"
+                    },
+                    {
+                        "name": "Store CD Player",
+                        "ref": "Trasco Carpark/Store CD Player/"
+                    }
+                ]
             }
         ]
     }

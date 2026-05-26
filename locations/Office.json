@@ -111,6 +111,190 @@
                         "shape": "rect"
                     }
                 ]
+            },
+            {
+                "name": "Chamber",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Office",
+                        "x": 1363,
+                        "y": 958,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Michi Cat",
+                        "ref": "Chamber/Michi Cat/Store Michi Cat"
+                    },
+                    {
+                        "name": "Find Michi Cat",
+                        "ref": "Chamber/Michi Cat/Find Michi Cat"
+                    },
+                    {
+                        "name": "Eat Mystical Dumbbell Act 2",
+                        "ref": "Chamber/Eat Mystical Dumbbell Act 2/"
+                    }
+                ]
+            },
+            {
+                "name": "The Process",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Office",
+                        "x": 2037,
+                        "y": 47,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Buisness Man",
+                        "ref": "The Process/Store Buisness Man/"
+                    },
+                    {
+                        "name": "Store Microwave",
+                        "ref": "The Process/Store Microwave/"
+                    },
+                    {
+                        "name": "Store Beautiful Flower",
+                        "ref": "The Process/Store Beautiful Flower/"
+                    },
+                    {
+                        "name": "Store Patrice",
+                        "ref": "The Process/Store Patrice/"
+                    },
+                    {
+                        "name": "Find Jester Hat",
+                        "ref": "The Process/Find Jester Hat/"
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Office",
+                        "x": 3100,
+                        "y": 1205,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Fone",
+                        "ref": "Blimbo City Bottom Main/Store Fone/"
+                    },
+                    {
+                        "name": "Store Radiator",
+                        "ref": "Blimbo City Bottom Main/Store Radiator/"
+                    },
+                    {
+                        "name": "Store Evil Raccoon",
+                        "ref": "Blimbo City Bottom Main/Store Evil Raccoon/"
+                    },
+                    {
+                        "name": "Store Naked Fella",
+                        "ref": "Blimbo City Bottom Main/Store Naked Fella/"
+                    },
+                    {
+                        "name": "Store Bell Boy",
+                        "ref": "Blimbo City Bottom Main/Store Bell Boy/"
+                    },
+                    {
+                        "name": "Euro on watertower",
+                        "ref": "Blimbo City Bottom Main/Euro on watertower/"
+                    },
+                    {
+                        "name": "Euro near boat on edge of city",
+                        "ref": "Blimbo City Bottom Main/Euro near boat on edge of city/"
+                    },
+                    {
+                        "name": "Store Bin",
+                        "ref": "Blimbo City Middle/Store Bin/"
+                    },
+                    {
+                        "name": "Store Apple",
+                        "ref": "Blimbo City Middle/Store Apple/"
+                    },
+                    {
+                        "name": "Store Patrick O Bobble",
+                        "ref": "Blimbo City Middle/Store Patrick O Bobble/"
+                    },
+                    {
+                        "name": "Store Coffee Cup",
+                        "ref": "Blimbo City Middle/Store Coffee Cup/"
+                    },
+                    {
+                        "name": "Store Yolky",
+                        "ref": "Blimbo City Middle/Store Yolky/"
+                    },
+                    {
+                        "name": "Euro near Guns stands",
+                        "ref": "Blimbo City Middle/Euro near Guns stands/"
+                    },
+                    {
+                        "name": "Euro under city on girders 3",
+                        "ref": "Blimbo City Middle/Euro under city on girders 3/"
+                    },
+                    {
+                        "name": "Euro near cheese wheel",
+                        "ref": "Blimbo City Middle/Euro near cheese wheel/"
+                    },
+                    {
+                        "name": "Euro under city on girders 1",
+                        "ref": "Blimbo City Girders/Euro under city on girders 1/"
+                    },
+                    {
+                        "name": "Euro under city on girders 2",
+                        "ref": "Blimbo City Girders/Euro under city on girders 2/"
+                    },
+                    {
+                        "name": "Store Average Canadian",
+                        "ref": "Blimbo City Top/Store Average Canadian/"
+                    },
+                    {
+                        "name": "Store Suitcase",
+                        "ref": "Blimbo City Upper Towers/Store Suitcase/"
+                    },
+                    {
+                        "name": "Store Dice",
+                        "ref": "Blimbo City Upper Towers/Store Dice/"
+                    },
+                    {
+                        "name": "Euro at Robin P. Bobin Store",
+                        "ref": "Blimbo City Middle Back/Euro at Robin P. Bobin Store/"
+                    },
+                    {
+                        "name": "Euro next to Robin P. Bobin Store",
+                        "ref": "Blimbo City Middle Back/Euro next to Robin P. Bobin Store/"
+                    },
+                    {
+                        "name": "Euro under city on girders 4",
+                        "ref": "Blimbo City Middle Casino/Euro under city on girders 4/"
+                    }
+                ]
             }
         ]
     }

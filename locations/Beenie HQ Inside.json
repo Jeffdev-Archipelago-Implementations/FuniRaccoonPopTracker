@@ -59,6 +59,38 @@
                         "shape": "rect"
                     }
                 ]
+            },
+            {
+                "name": "Chamber",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Beenie HQ Inside",
+                        "x": 1924,
+                        "y": 330,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Michi Cat - Store Michi Cat",
+                        "ref": "Chamber/Michi Cat/Store Michi Cat"
+                    },
+                    {
+                        "name": "Michi Cat - Find Michi Cat",
+                        "ref": "Chamber/Michi Cat/Find Michi Cat"
+                    },
+                    {
+                        "name": "Eat Mystical Dumbbell Act 2",
+                        "ref": "Chamber/Eat Mystical Dumbbell Act 2/"
+                    }
+                ]
             }
         ]
     }

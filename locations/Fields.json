@@ -22,30 +22,134 @@
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": ["dumbbell:1"],
-                "sections": [{"name": "", "access_rules": [], "visibility_rules": [], "item_count": 1}],
-                "map_locations": [{"map": "Fields", "x": 2005, "y": 1063, "size": 40, "shape": "rect"}]
+                "access_rules": [
+                    "dumbbell:1"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fields",
+                        "x": 2005,
+                        "y": 1063,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
                 "name": "Store Windmill",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": ["dumbbell:3"],
-                "sections": [{"name": "", "access_rules": [], "visibility_rules": [], "item_count": 1}],
-                "map_locations": [{"map": "Fields", "x": 2291, "y": 1499, "size": 40, "shape": "rect"}]
+                "access_rules": [
+                    "dumbbell:3"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fields",
+                        "x": 2291,
+                        "y": 1499,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
             },
             {
                 "name": "Crisp",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [" "],
-                "sections": [
-                    {"name": "Store Crisp", "access_rules": [], "visibility_rules": [], "item_count": 1},
-                    {"name": "Store Crisps Undying Love", "access_rules": ["dumbbell:3"], "visibility_rules": [], "item_count": 1}
+                "access_rules": [
+                    " "
                 ],
-                "map_locations": [{"map": "Fields", "x": 1617, "y": 590, "size": 40, "shape": "rect"}]
+                "sections": [
+                    {
+                        "name": "Store Crisp",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Store Crisps Undying Love",
+                        "access_rules": [
+                            "dumbbell:3"
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fields",
+                        "x": 1617,
+                        "y": 590,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Beenie HQ",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fields",
+                        "x": 1379,
+                        "y": 646,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Crayon",
+                        "ref": "Beenie HQ Front/Store Crayon/"
+                    },
+                    {
+                        "name": "Store Evil Fish",
+                        "ref": "Beenie HQ Front/Store Evil Fish/"
+                    },
+                    {
+                        "name": "Store Patrick OHara",
+                        "ref": "Beenie HQ Front/Store Patrick OHara/"
+                    },
+                    {
+                        "name": "Store Letter B",
+                        "ref": "Beenie HQ Back/Store Letter B/"
+                    },
+                    {
+                        "name": "Store Beach Ball",
+                        "ref": "Beenie HQ Back/Store Beach Ball/"
+                    },
+                    {
+                        "name": "Store Funi Marketable Plushie",
+                        "ref": "Beenie HQ Inside/Store Funi Marketable Plushie/"
+                    },
+                    {
+                        "name": "Store Beenie the Birthday Boy",
+                        "ref": "Beenie HQ Inside/Store Beenie the Birthday Boy/"
+                    }
+                ]
             }
         ]
     }

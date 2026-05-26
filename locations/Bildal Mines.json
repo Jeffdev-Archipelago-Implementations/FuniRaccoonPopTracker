@@ -97,6 +97,90 @@
                         "shape": "rect"
                     }
                 ]
+            },
+            {
+                "name": "Garden",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bildal Mines",
+                        "x": 717,
+                        "y": 407,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Flowian",
+                        "ref": "Garden/Store Flowian/"
+                    },
+                    {
+                        "name": "Store Radio Blimbo",
+                        "ref": "Garden/Store Radio Blimbo/"
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo Village Town",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bildal Mines",
+                        "x": 2425,
+                        "y": 734,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Plimbo",
+                        "ref": "Blimbo Village Town/Store Plimbo/"
+                    },
+                    {
+                        "name": "Store CHEESE",
+                        "ref": "Blimbo Village Town/Store CHEESE/"
+                    },
+                    {
+                        "name": "Store Gas Drum",
+                        "ref": "Blimbo Village Town/Store Gas Drum/"
+                    },
+                    {
+                        "name": "Store Door",
+                        "ref": "Blimbo Village Town/Store Door/"
+                    },
+                    {
+                        "name": "Purchase Kei Truck Radio",
+                        "ref": "Blimbo Village Town/Kei Truck Upgrades/Purchase Kei Truck Radio"
+                    },
+                    {
+                        "name": "Purchase Kei Truck Toaster",
+                        "ref": "Blimbo Village Town/Kei Truck Upgrades/Purchase Kei Truck Toaster"
+                    },
+                    {
+                        "name": "Purchase Kei Truck Boost",
+                        "ref": "Blimbo Village Town/Kei Truck Upgrades/Purchase Kei Truck Boost"
+                    },
+                    {
+                        "name": "Euro on castle",
+                        "ref": "Blimbo Village Town/Euro on castle/"
+                    },
+                    {
+                        "name": "Euro near furnace",
+                        "ref": "Blimbo Village Town/Euro near furnace/"
+                    }
+                ]
             }
         ]
     }

@@ -100,7 +100,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:3"
+                    "dumbbell:3",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -126,7 +127,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:1"
+                    "dumbbell:1",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -152,7 +154,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2"
+                    "dumbbell:2",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -169,6 +172,290 @@
                         "y": 599,
                         "size": 6,
                         "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "FRIDGE WORLD",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 1604,
+                        "y": 599,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Milk Klubnika",
+                        "ref": "FRIDGE WORLD/Store Milk Klubnika/"
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 257,
+                        "y": 184,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Fone",
+                        "ref": "Blimbo City Bottom Main/Store Fone/"
+                    },
+                    {
+                        "name": "Store Radiator",
+                        "ref": "Blimbo City Bottom Main/Store Radiator/"
+                    },
+                    {
+                        "name": "Store Evil Raccoon",
+                        "ref": "Blimbo City Bottom Main/Store Evil Raccoon/"
+                    },
+                    {
+                        "name": "Store Naked Fella",
+                        "ref": "Blimbo City Bottom Main/Store Naked Fella/"
+                    },
+                    {
+                        "name": "Store Bell Boy",
+                        "ref": "Blimbo City Bottom Main/Store Bell Boy/"
+                    },
+                    {
+                        "name": "Euro on watertower",
+                        "ref": "Blimbo City Bottom Main/Euro on watertower/"
+                    },
+                    {
+                        "name": "Euro near boat on edge of city",
+                        "ref": "Blimbo City Bottom Main/Euro near boat on edge of city/"
+                    },
+                    {
+                        "name": "Store Bin",
+                        "ref": "Blimbo City Middle/Store Bin/"
+                    },
+                    {
+                        "name": "Store Apple",
+                        "ref": "Blimbo City Middle/Store Apple/"
+                    },
+                    {
+                        "name": "Store Patrick O Bobble",
+                        "ref": "Blimbo City Middle/Store Patrick O Bobble/"
+                    },
+                    {
+                        "name": "Store Coffee Cup",
+                        "ref": "Blimbo City Middle/Store Coffee Cup/"
+                    },
+                    {
+                        "name": "Store Yolky",
+                        "ref": "Blimbo City Middle/Store Yolky/"
+                    },
+                    {
+                        "name": "Euro near Guns stands",
+                        "ref": "Blimbo City Middle/Euro near Guns stands/"
+                    },
+                    {
+                        "name": "Euro under city on girders 3",
+                        "ref": "Blimbo City Middle/Euro under city on girders 3/"
+                    },
+                    {
+                        "name": "Euro near cheese wheel",
+                        "ref": "Blimbo City Middle/Euro near cheese wheel/"
+                    },
+                    {
+                        "name": "Euro under city on girders 1",
+                        "ref": "Blimbo City Girders/Euro under city on girders 1/"
+                    },
+                    {
+                        "name": "Euro under city on girders 2",
+                        "ref": "Blimbo City Girders/Euro under city on girders 2/"
+                    },
+                    {
+                        "name": "Store Average Canadian",
+                        "ref": "Blimbo City Top/Store Average Canadian/"
+                    },
+                    {
+                        "name": "Store Suitcase",
+                        "ref": "Blimbo City Upper Towers/Store Suitcase/"
+                    },
+                    {
+                        "name": "Store Dice",
+                        "ref": "Blimbo City Upper Towers/Store Dice/"
+                    },
+                    {
+                        "name": "Euro at Robin P. Bobin Store",
+                        "ref": "Blimbo City Middle Back/Euro at Robin P. Bobin Store/"
+                    },
+                    {
+                        "name": "Euro next to Robin P. Bobin Store",
+                        "ref": "Blimbo City Middle Back/Euro next to Robin P. Bobin Store/"
+                    },
+                    {
+                        "name": "Euro under city on girders 4",
+                        "ref": "Blimbo City Middle Casino/Euro under city on girders 4/"
+                    }
+                ]
+            },
+            {
+                "name": "Raccoon Central Station",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 2014,
+                        "y": 752,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Bench",
+                        "ref": "Raccoon Central Station/Store Bench/"
+                    },
+                    {
+                        "name": "Store Manhole Cover",
+                        "ref": "Raccoon Central Station/Store Manhole Cover/"
+                    },
+                    {
+                        "name": "Store Old Sign",
+                        "ref": "Raccoon Central Station/Store Old Sign/"
+                    },
+                    {
+                        "name": "Store Warning Sign",
+                        "ref": "Raccoon Central Station/Store Warning Sign/"
+                    },
+                    {
+                        "name": "Store Area Sign",
+                        "ref": "Raccoon Central Station/Store Area Sign/"
+                    },
+                    {
+                        "name": "Store Funi Raccoon Game Deluxe",
+                        "ref": "Raccoon Central Station/Store Funi Raccoon Game Deluxe/"
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo Village",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 2219,
+                        "y": 1677,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Under Construction",
+                        "ref": "Blimbo Village Start/Store Under Construction/"
+                    },
+                    {
+                        "name": "Store ROAD NOT DONE",
+                        "ref": "Blimbo Village Start/Store ROAD NOT DONE/"
+                    },
+                    {
+                        "name": "Store Blimbo Village Sign",
+                        "ref": "Blimbo Village Start/Store Blimbo Village Sign/"
+                    },
+                    {
+                        "name": "Store Ougham Stone",
+                        "ref": "Blimbo Village Start/Store Ougham Stone/"
+                    },
+                    {
+                        "name": "Store Cow",
+                        "ref": "Blimbo Village Start/Store Cow/"
+                    },
+                    {
+                        "name": "Store Old Ass Rusty Ass Key",
+                        "ref": "Blimbo Village Start/Store Old Ass Rusty Ass Key/"
+                    },
+                    {
+                        "name": "Get 1000 Score with Kei Truck",
+                        "ref": "Blimbo Village Start/Kei Truck Score/Get 1000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Get 2000 Score with Kei Truck",
+                        "ref": "Blimbo Village Start/Kei Truck Score/Get 2000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Get 3000 Score with Kei Truck",
+                        "ref": "Blimbo Village Start/Kei Truck Score/Get 3000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Get 4000 Score with Kei Truck",
+                        "ref": "Blimbo Village Start/Kei Truck Score/Get 4000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Get 5000 Score with Kei Truck",
+                        "ref": "Blimbo Village Start/Kei Truck Score/Get 5000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Find Media Player Hat",
+                        "ref": "Blimbo Village Start/Find Media Player Hat/"
+                    },
+                    {
+                        "name": "Store Plimbo",
+                        "ref": "Blimbo Village Town/Store Plimbo/"
+                    },
+                    {
+                        "name": "Store CHEESE",
+                        "ref": "Blimbo Village Town/Store CHEESE/"
+                    },
+                    {
+                        "name": "Store Gas Drum",
+                        "ref": "Blimbo Village Town/Store Gas Drum/"
+                    },
+                    {
+                        "name": "Store Door",
+                        "ref": "Blimbo Village Town/Store Door/"
+                    },
+                    {
+                        "name": "Purchase Kei Truck Radio",
+                        "ref": "Blimbo Village Town/Kei Truck Upgrades/Purchase Kei Truck Radio"
+                    },
+                    {
+                        "name": "Purchase Kei Truck Toaster",
+                        "ref": "Blimbo Village Town/Kei Truck Upgrades/Purchase Kei Truck Toaster"
+                    },
+                    {
+                        "name": "Purchase Kei Truck Boost",
+                        "ref": "Blimbo Village Town/Kei Truck Upgrades/Purchase Kei Truck Boost"
+                    },
+                    {
+                        "name": "Euro on castle",
+                        "ref": "Blimbo Village Town/Euro on castle/"
+                    },
+                    {
+                        "name": "Euro near furnace",
+                        "ref": "Blimbo Village Town/Euro near furnace/"
                     }
                 ]
             }

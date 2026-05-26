@@ -276,7 +276,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["hat"],
+                "visibility_rules": [
+                    "hat"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -292,6 +294,38 @@
                         "y": 513,
                         "size": 40,
                         "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Chamber",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum",
+                        "x": 1085,
+                        "y": 579,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Michi Cat",
+                        "ref": "Chamber/Michi Cat/Store Michi Cat"
+                    },
+                    {
+                        "name": "Find Michi Cat",
+                        "ref": "Chamber/Michi Cat/Find Michi Cat"
+                    },
+                    {
+                        "name": "Eat Mystical Dumbbell Act 2",
+                        "ref": "Chamber/Eat Mystical Dumbbell Act 2/"
                     }
                 ]
             }

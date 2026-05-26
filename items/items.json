@@ -108,6 +108,14 @@
         "codes": "hat"
     },
     {
+        "name": "Kei Truck Weight Skip Logic",
+        "type": "toggle",
+        "img": "images/items/keitruck.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "keiskip"
+    },
+    {
         "name": "Logic Difficulty",
         "type": "toggle",
         "img": "images/items/raccoon.png",

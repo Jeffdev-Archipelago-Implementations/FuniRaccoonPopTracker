@@ -134,10 +134,106 @@
                 "map_locations": [
                     {
                         "map": "The Process",
-                        "x": 793,
-                        "y": 1603,
+                        "x": 1357,
+                        "y": 763,
                         "size": 40,
                         "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Office",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Process",
+                        "x": 896,
+                        "y": 709,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Divider",
+                        "ref": "Office/Store Divider/"
+                    },
+                    {
+                        "name": "Store Office Chair",
+                        "ref": "Office/Store Office Chair/"
+                    },
+                    {
+                        "name": "Store Desk",
+                        "ref": "Office/Store Desk/"
+                    },
+                    {
+                        "name": "Store Goo Container",
+                        "ref": "Office/Store Goo Container/"
+                    }
+                ]
+            },
+            {
+                "name": "THE MACHINE",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Process",
+                        "x": 1663,
+                        "y": 261,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Beenie, Our Savior",
+                        "ref": "THE MACHINE/Store Beenie, Our Savior/"
+                    },
+                    {
+                        "name": "Store Candle",
+                        "ref": "THE MACHINE/Store Candle/"
+                    },
+                    {
+                        "name": "Store Beenie Saves The Orphans",
+                        "ref": "THE MACHINE/Store Beenie Saves The Orphans/"
+                    }
+                ]
+            },
+            {
+                "name": "Beenie Factory",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Process",
+                        "x": 2058,
+                        "y": 1082,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Marketable Plushie Box",
+                        "ref": "Beenie Factory/Store Marketable Plushie Box/"
+                    },
+                    {
+                        "name": "Store Goo",
+                        "ref": "Beenie Factory/Store Goo/"
                     }
                 ]
             }

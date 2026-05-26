@@ -19,15 +19,15 @@
                         "item_width": 36,
                         "rows": [
                             [
-                                "dumpster",
-                                "dumbbell",
-                                "progressivecoolingrod",
-                                "keitruck",
-                                "keitruckboost",
-                                "keitrucktoaster",
-                                "oldassrustyasskey",
-                                "fridgekey",
-                                "brobenergy",
+                                "dumpster","keitruck","oldassrustyasskey"
+                            ],
+                            [
+                                "dumbbell","keitruckboost","fridgekey"
+                            ],
+                            [
+                                "progressivecoolingrod","keitrucktoaster","brobenergy"
+                            ],
+                            [
                                 "mysticalgems"
                             ]
                         ]
@@ -56,15 +56,15 @@
                         "item_width": 36,
                         "rows": [
                             [
-                                "dumpster",
-                                "dumbbell",
-                                "progressivecoolingrod",
-                                "keitruck",
-                                "keitruckboost",
-                                "keitrucktoaster",
-                                "oldassrustyasskey",
-                                "fridgekey",
-                                "brobenergy",
+                                "dumpster","keitruck","oldassrustyasskey"
+                            ],
+                            [
+                                "dumbbell","keitruckboost","fridgekey"
+                            ],
+                            [
+                                "progressivecoolingrod","keitrucktoaster","brobenergy"
+                            ],
+                            [
                                 "mysticalgems"
                             ]
                         ]
@@ -92,7 +92,7 @@
                         "gem",
                         "euro",
                         "hat",
-                        "raccoon"
+                        "keiskip"
                     ]
                 ]
             }

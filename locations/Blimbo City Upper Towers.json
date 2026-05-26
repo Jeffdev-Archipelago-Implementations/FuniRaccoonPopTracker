@@ -14,7 +14,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2"
+                    "dumbbell:2",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -57,6 +58,58 @@
                         "y": 1482,
                         "size": 40,
                         "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City Middle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blimbo City Upper Towers",
+                        "x": 2629,
+                        "y": 1643,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Bin",
+                        "ref": "Blimbo City Middle/Store Bin/"
+                    },
+                    {
+                        "name": "Store Apple",
+                        "ref": "Blimbo City Middle/Store Apple/"
+                    },
+                    {
+                        "name": "Store Patrick O Bobble",
+                        "ref": "Blimbo City Middle/Store Patrick O Bobble/"
+                    },
+                    {
+                        "name": "Store Coffee Cup",
+                        "ref": "Blimbo City Middle/Store Coffee Cup/"
+                    },
+                    {
+                        "name": "Store Yolky",
+                        "ref": "Blimbo City Middle/Store Yolky/"
+                    },
+                    {
+                        "name": "Euro near Guns stands",
+                        "ref": "Blimbo City Middle/Euro near Guns stands/"
+                    },
+                    {
+                        "name": "Euro under city on girders 3",
+                        "ref": "Blimbo City Middle/Euro under city on girders 3/"
+                    },
+                    {
+                        "name": "Euro near cheese wheel",
+                        "ref": "Blimbo City Middle/Euro near cheese wheel/"
                     }
                 ]
             }

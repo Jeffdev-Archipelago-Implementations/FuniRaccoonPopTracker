@@ -86,6 +86,38 @@
                         "shape": "rect"
                     }
                 ]
+            },
+            {
+                "name": "Fish Vore",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Beenie HQ Front",
+                        "x": 622,
+                        "y": 1203,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Pirate",
+                        "ref": "Fish Vore/Store Pirate/"
+                    },
+                    {
+                        "name": "Store Pirate 2",
+                        "ref": "Fish Vore/Store Pirate 2/"
+                    },
+                    {
+                        "name": "Store Pirate 3",
+                        "ref": "Fish Vore/Store Pirate 3/"
+                    }
+                ]
             }
         ]
     }

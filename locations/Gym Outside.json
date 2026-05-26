@@ -52,7 +52,9 @@
                     {
                         "name": "Find Concrete Cat",
                         "access_rules": [],
-                        "visibility_rules": ["cat"],
+                        "visibility_rules": [
+                            "cat"
+                        ],
                         "item_count": 1
                     }
                 ],
@@ -100,7 +102,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -127,7 +131,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -154,7 +160,9 @@
                 "access_rules": [
                     "brobenergy"
                 ],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -181,7 +189,9 @@
                 "access_rules": [
                     " "
                 ],
-                "visibility_rules": ["euro"],
+                "visibility_rules": [
+                    "euro"
+                ],
                 "sections": [
                     {
                         "name": "",
@@ -197,6 +207,154 @@
                         "y": 722,
                         "size": 40,
                         "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Norwich",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gym Outside",
+                        "x": 784,
+                        "y": 686,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Lama Alpaca Maybe",
+                        "ref": "Norwich/Store Lama Alpaca Maybe/"
+                    },
+                    {
+                        "name": "Store Gym",
+                        "ref": "Norwich/Store Gym/"
+                    },
+                    {
+                        "name": "Store Vending Machine (accepts doubloons)",
+                        "ref": "Norwich/Vending Machine and Brob Energy/Store Vending Machine (accepts doubloons)"
+                    },
+                    {
+                        "name": "Store Brob Energy",
+                        "ref": "Norwich/Vending Machine and Brob Energy/Store Brob Energy"
+                    },
+                    {
+                        "name": "Store DOUBLOONS",
+                        "ref": "Norwich/Store DOUBLOONS/"
+                    },
+                    {
+                        "name": "Store unregistered firearm",
+                        "ref": "Norwich/Store unregistered firearm/"
+                    },
+                    {
+                        "name": "Store Michelle Cat",
+                        "ref": "Norwich/Michelle Cat/Store Michelle Cat"
+                    },
+                    {
+                        "name": "Find Michelle Cat",
+                        "ref": "Norwich/Michelle Cat/Find Michelle Cat"
+                    },
+                    {
+                        "name": "Store Heavy Stone Torch",
+                        "ref": "Norwich/Store Heavy Stone Torch/"
+                    },
+                    {
+                        "name": "Store Sign",
+                        "ref": "Norwich/Store Sign/"
+                    },
+                    {
+                        "name": "Store Crack Head",
+                        "ref": "Norwich/Store Crack Head/"
+                    },
+                    {
+                        "name": "Store Flower Blimbo",
+                        "ref": "Norwich/Store Flower Blimbo/"
+                    },
+                    {
+                        "name": "Find Sun Hat",
+                        "ref": "Norwich/Find Sun Hat/"
+                    },
+                    {
+                        "name": "Euro at train station",
+                        "ref": "Norwich/Euro at train station/"
+                    },
+                    {
+                        "name": "Euro at chicken farm island",
+                        "ref": "Norwich/Euro at chicken farm island/"
+                    },
+                    {
+                        "name": "Complete Behrman Speedway in under 1 minute",
+                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute"
+                    }
+                ]
+            },
+            {
+                "name": "Tyre World",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gym Outside",
+                        "x": 764,
+                        "y": 862,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Orphan Tyre",
+                        "ref": "Tyre World/Store Orphan Tyre/"
+                    },
+                    {
+                        "name": "Store Papa Tyre",
+                        "ref": "Tyre World/Store Papa Tyre/"
+                    },
+                    {
+                        "name": "Store Smoker",
+                        "ref": "Tyre World/Store Smoker/"
+                    },
+                    {
+                        "name": "Store Broken Truck",
+                        "ref": "Tyre World/Store Broken Truck/"
+                    },
+                    {
+                        "name": "Euro on roof of entrance",
+                        "ref": "Tyre World/Euro on roof of entrance/"
+                    }
+                ]
+            },
+            {
+                "name": "Cleaners",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gym Outside",
+                        "x": 640,
+                        "y": 857,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Washing Machine",
+                        "ref": "Cleaners/Store Washing Machine/"
                     }
                 ]
             }

@@ -68,7 +68,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:1"
+                    "dumbbell:1",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -94,7 +95,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:3"
+                    "dumbbell:3",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -120,7 +122,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2"
+                    "dumbbell:2",
+                    "keiskip"
                 ],
                 "sections": [
                     {
@@ -255,6 +258,90 @@
                         "y": 67,
                         "size": 40,
                         "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Cricket",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blimbo Village Start",
+                        "x": 314,
+                        "y": 1008,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Cricket Bat",
+                        "ref": "Cricket/Store Cricket Bat/"
+                    },
+                    {
+                        "name": "Store Cricket",
+                        "ref": "Cricket/Store Cricket/"
+                    }
+                ]
+            },
+            {
+                "name": "Trasco Carpark",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blimbo Village Start",
+                        "x": 1095,
+                        "y": 1700,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Eat Mystical Dumbbell Act 3",
+                        "ref": "Trasco Carpark/Eat Mystical Dumbbell Act 3/"
+                    },
+                    {
+                        "name": "Euro on edge wall 1",
+                        "ref": "Trasco Carpark/Euro on Edge/Euro on edge wall 1"
+                    },
+                    {
+                        "name": "Euro on edge wall 2",
+                        "ref": "Trasco Carpark/Euro on Edge/Euro on edge wall 2"
+                    },
+                    {
+                        "name": "Euro on edge wall 3",
+                        "ref": "Trasco Carpark/Euro on Edge/Euro on edge wall 3"
+                    },
+                    {
+                        "name": "Store Fridge Key",
+                        "ref": "Trasco Carpark/Store Fridge Key/"
+                    },
+                    {
+                        "name": "Store Coffee Shop (closed)",
+                        "ref": "Trasco Carpark/Store Coffee Shop (closed)/"
+                    },
+                    {
+                        "name": "Store Trolley",
+                        "ref": "Trasco Carpark/Store Trolley/"
+                    },
+                    {
+                        "name": "Store Fridge",
+                        "ref": "Trasco Carpark/Store Fridge/"
+                    },
+                    {
+                        "name": "Store CD Player",
+                        "ref": "Trasco Carpark/Store CD Player/"
                     }
                 ]
             }
