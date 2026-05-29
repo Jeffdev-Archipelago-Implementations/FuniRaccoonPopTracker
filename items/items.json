@@ -68,6 +68,14 @@
         "codes": "fridgekey"
     },
     {
+        "name":"Goo",
+        "type":"toggle",
+        "img": "images/items/goo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "goo"
+    },
+    {
         "name": "Brob Energy",
         "type": "toggle",
         "img": "images/items/brobenergy.png",
@@ -79,7 +87,7 @@
         "name": "Catsanity Toggle",
         "type": "toggle",
         "img": "images/items/cat.png",
-        "initial_active_state": false,
+        "initial_active_state": true,
         "overlay_align": "right",
         "codes": "cat"
     },
@@ -87,7 +95,7 @@
         "name": "Gemsanity Toggle",
         "type": "toggle",
         "img": "images/items/gem.png",
-        "initial_active_state": false,
+        "initial_active_state": true,
         "overlay_align": "right",
         "codes": "gem"
     },
@@ -103,7 +111,7 @@
         "name": "Hatsanity Toggle",
         "type": "toggle",
         "img": "images/items/hat.png",
-        "initial_active_state": false,
+        "initial_active_state": true,
         "overlay_align": "right",
         "codes": "hat"
     },
