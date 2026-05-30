@@ -68,14 +68,6 @@
         "codes": "fridgekey"
     },
     {
-        "name":"Goo",
-        "type":"toggle",
-        "img": "images/items/goo.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "goo"
-    },
-    {
         "name": "Brob Energy",
         "type": "toggle",
         "img": "images/items/brobenergy.png",
@@ -124,14 +116,6 @@
         "codes": "keiskip"
     },
     {
-        "name": "Logic Difficulty",
-        "type": "toggle",
-        "img": "images/items/raccoon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "raccoon"
-    },
-    {
         "name": "Dumpster Items",
         "type": "consumable",
         "increment": 1,
@@ -156,13 +140,5 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "pickaxe"
-    },
-    {
-        "name": "Vending Machine",
-        "type": "toggle",
-        "img": "images/items/vendingmachine.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "vendingmachine"
     }
 ]
