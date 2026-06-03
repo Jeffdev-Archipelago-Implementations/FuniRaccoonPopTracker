@@ -144,7 +144,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "keitruck,dumpster:50"
+                    "dumpster:50,keitruck,keitruckboost",
+                    "dumpster:50,keitruck,keitrucktoaster"
                 ],
                 "sections": [
                     {

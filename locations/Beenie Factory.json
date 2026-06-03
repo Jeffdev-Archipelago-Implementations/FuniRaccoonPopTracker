@@ -71,10 +71,10 @@
                 "map_locations": [
                     {
                         "map": "Beenie Factory",
-                        "x": 100,
-                        "y": 100,
+                        "x": 382,
+                        "y": 661,
                         "size": 40,
-                        "shape": "rect"
+                        "shape": "trapezoid"
                     }
                 ],
                 "sections": [

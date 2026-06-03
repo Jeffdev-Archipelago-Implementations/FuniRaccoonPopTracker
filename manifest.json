@@ -12,5 +12,6 @@
             ]
         }
     },
-    "min_poptracker_version": "0.31.0"
+    "min_poptracker_version": "0.31.0",
+    "versions_url": ""
 }
