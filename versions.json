@@ -3,7 +3,7 @@
             {
                 "package_version": "1.1.4",
                 "download_url": "https://github.com/Jeffdev-Archipelago-Implementations/FuniRaccoonPopTracker/releases/download/1.1.4/FuniRaccoonPopTracker.zip",
-                "sha256": "",
+                "sha256": "46e7ace98adc444a7e88ee5f6d5becc1da5aa5ccb5b407a7fe57c9f6e03c0a75",
                 "changelog": ["Logic fixes, auto updater"]
             },
     ]
