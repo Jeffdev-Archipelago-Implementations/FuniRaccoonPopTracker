@@ -120,8 +120,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2",
-                    "keiskip"
+                    "dumbbell:2,keitrucktoaster",
+                    "dumbbell:2,keitruckboost",
+                    "keiskip,keitrucktoaster",
+                    "keiskip,keitruckboost"
                 ],
                 "sections": [
                     {

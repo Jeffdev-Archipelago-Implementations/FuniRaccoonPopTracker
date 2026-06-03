@@ -22,7 +22,7 @@
                 "sections": [
                     {
                         "name": "Store Michi Cat",
-                        "access_rules": [],
+                        "access_rules": ["dumpster:25"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
