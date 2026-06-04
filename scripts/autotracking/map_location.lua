@@ -36,6 +36,7 @@ MAP_LOCATION = {
     ["ACT_1_CLUSTER"]       = {"Act View", "Act 1 Cluster"},
     ["ACT_2_CLUSTER"]       = {"Act View", "Act 2 Cluster"},
     ["ACT_3_CLUSTER"]       = {"Act View", "Act 3 Cluster"},
+    ["PARKING_LOT"]         = {"Act 3", "Trasco Carpark", "Trasco Carpark"},
     ["DESERT"]              = {"Act 4", "Desert"},
     ["PETROL_STATION"]      = {"Act 3", "Petrol Station"},
     ["NORWICH_RUINS"]       = {"Act 4", "Norwich Ruins"},
