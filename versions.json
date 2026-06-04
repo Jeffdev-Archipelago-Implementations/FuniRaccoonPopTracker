@@ -2,8 +2,8 @@
     "versions": [
             {
                 "package_version": "1.1.6",
-                "download_url": "",
-                "sha256": "",
+                "download_url": "https://github.com/Jeffdev-Archipelago-Implementations/FuniRaccoonPopTracker/releases/download/1.1.6/FuniRaccoonPopTracker.zip",
+                "sha256": "40d96025b546aae05be903636e4174b80ad35ff785a66c3c203b8f537ccd8206",
                 "changelog": ["Crisp requires dumbbell, trasco auto tab"]
             },
             {
