@@ -220,8 +220,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo City Middle",
-                        "x": 500,
-                        "y": 500,
+                        "x": 3135,
+                        "y": 637,
                         "size": 28,
                         "shape": "rect"
                     }
