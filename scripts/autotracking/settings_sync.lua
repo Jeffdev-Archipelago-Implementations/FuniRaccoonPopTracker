@@ -3,7 +3,8 @@ SANITY_KEYS = {
     ["eurosanity"] = "euro",
     ["hatsanity"]  = "hat",
     ["catsanity"]  = "cat",
-    ["dumpster_weight_blocking"] = "keiskip"
+    ["dumpster_weight_blocking"] = "keiskip",
+    ["lugh_quest_locking"] = "lugh"
 }
 
 function UpdateSanitySetting(key, value)

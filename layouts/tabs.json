@@ -72,6 +72,10 @@
                             "content": {"type": "map", "maps": ["Raccoon Central Station"]}
                         },
                         {
+                            "title": "Brazil",
+                            "content": {"type": "map", "maps": ["Brazil"]}
+                        },
+                        {
                             "title": "Museum",
                             "content": {"type": "map", "maps": ["Museum"]}
                         },
@@ -311,6 +315,10 @@
                         {
                             "title": "Raccoon Central Station",
                             "content": {"type": "map", "maps": ["Raccoon Central Station"]}
+                        },
+                        {
+                            "title": "Brazil",
+                            "content": {"type": "map", "maps": ["Brazil"]}
                         },
                         {
                             "title": "Gym",

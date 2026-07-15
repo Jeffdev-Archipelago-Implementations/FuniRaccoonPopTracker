@@ -372,6 +372,32 @@
                 ]
             },
             {
+                "name": "Store Hintblo",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Norwich",
+                        "x": 820,
+                        "y": 361,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
                 "name": "Behrman Speedway",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
@@ -399,8 +425,8 @@
                         "map_locations": [
                             {
                                 "map": "Norwich",
-                                "x": 1188,
-                                "y": 680,
+                                "x": 1200,
+                                "y": 666,
                                 "size": 40,
                                 "shape": "rect"
                             },

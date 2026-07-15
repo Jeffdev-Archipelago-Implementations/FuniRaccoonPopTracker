@@ -58,4 +58,5 @@
 {"name": "Cricket", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Cricket.png"},
 {"name": "Beenie's Ascension", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Beenies Ascension.png"},
 {"name": "Chamber", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Chamber.png"},
-{"name": "Salmon of Knowledge", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Salmon of Knowledge.png"}]
+{"name": "Salmon of Knowledge", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Salmon of Knowledge.png"},
+{"name": "Brazil", "location_size": 6, "location_border_thickness": 1, "img": "images/maps/Brazil.png"}]

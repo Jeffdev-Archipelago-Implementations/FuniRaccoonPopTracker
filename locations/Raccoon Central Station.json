@@ -144,8 +144,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumpster:50,keitruck,keitruckboost",
-                    "dumpster:50,keitruck,keitrucktoaster"
+                    "$has_act|act4,keitruck,keitruckboost",
+                    "$has_act|act4,keitruck,keitrucktoaster"
                 ],
                 "sections": [
                     {
@@ -409,11 +409,47 @@
                     },
                     {
                         "name": "Store Fridge",
-                        "ref": "Trasco Carpark/Store Fridge/"
+                        "ref": "Store Fridge/"
                     },
                     {
                         "name": "Store CD Player",
                         "ref": "Trasco Carpark/Store CD Player/"
+                    }
+                ]
+            },
+            {
+                "name": "Brazil",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "braziltrainticket"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Raccoon Central Station",
+                        "x": 1400,
+                        "y": 1500,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Brazil Knight",
+                        "ref": "Brazil/Store Brazil Knight/"
+                    },
+                    {
+                        "name": "Store Doggy",
+                        "ref": "Brazil/Store Doggy/"
+                    },
+                    {
+                        "name": "Store Real Football",
+                        "ref": "Brazil/Store Real Football/"
+                    },
+                    {
+                        "name": "Euro on middle hill",
+                        "ref": "Brazil/Euro on middle hill/"
                     }
                 ]
             }

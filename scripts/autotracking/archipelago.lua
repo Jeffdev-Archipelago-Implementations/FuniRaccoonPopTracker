@@ -144,8 +144,11 @@ function preOnClear()
             table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
         end
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
-        Archipelago:SetNotify({HINTS_ID, "map_location", "gemsanity", "eurosanity", "hatsanity", "catsanity"})
-        Archipelago:Get({HINTS_ID, "map_location", "gemsanity", "eurosanity", "hatsanity", "catsanity"})
+        -- The mod writes the current map location to a per-slot key ("map_location_<slotname>").
+        -- PopTracker's Lua API only exposes the alias (which defaults to the slot name), so use that.
+        MAP_LOCATION_KEY = "map_location_"..(Archipelago:GetPlayerAlias(PLAYER_ID) or "")
+        Archipelago:SetNotify({HINTS_ID, MAP_LOCATION_KEY, "gemsanity", "eurosanity", "hatsanity", "catsanity"})
+        Archipelago:Get({HINTS_ID, MAP_LOCATION_KEY, "gemsanity", "eurosanity", "hatsanity", "catsanity"})
     end
 
 
@@ -245,6 +248,17 @@ function onClear(slot_data)
             end
         end
     end
+    -- Act/Museum access thresholds are configurable per-seed. Pull them from
+    -- slot_data.options (falling back to the apworld defaults) so the
+    -- "$has_act" logic rules gate on the correct dumpster-item counts.
+    local defaults = DEFAULT_ACT_THRESHOLDS or { museum = 15, act2 = 25, act3 = 35, act4 = 50 }
+    local opts = (slot_data and slot_data.options) or {}
+    ACT_THRESHOLDS = {
+        museum = tonumber(opts.museum_threshold) or defaults.museum,
+        act2   = tonumber(opts.act2_threshold)   or defaults.act2,
+        act3   = tonumber(opts.act3_threshold)   or defaults.act3,
+        act4   = tonumber(opts.act4_threshold)   or defaults.act4,
+    }
     -- print(PLAYER_ID, TEAM_NUMBER)
     if Archipelago.PlayerNumber > -1 then
         if #ALL_LOCATIONS > 0 then
@@ -259,8 +273,11 @@ function onClear(slot_data)
         end
 
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
-        Archipelago:SetNotify({HINTS_ID, "map_location", "gemsanity", "eurosanity", "hatsanity", "catsanity"})
-        Archipelago:Get({HINTS_ID, "map_location", "gemsanity", "eurosanity", "hatsanity", "catsanity"})
+        -- The mod writes the current map location to a per-slot key ("map_location_<slotname>").
+        -- PopTracker's Lua API only exposes the alias (which defaults to the slot name), so use that.
+        MAP_LOCATION_KEY = "map_location_"..(Archipelago:GetPlayerAlias(PLAYER_ID) or "")
+        Archipelago:SetNotify({HINTS_ID, MAP_LOCATION_KEY, "gemsanity", "eurosanity", "hatsanity", "catsanity"})
+        Archipelago:Get({HINTS_ID, MAP_LOCATION_KEY, "gemsanity", "eurosanity", "hatsanity", "catsanity"})
     end
     ScriptHost:AddOnFrameHandler("load handler", OnFrameHandler)
     MANUAL_CHECKED = true
@@ -307,7 +324,7 @@ function onItem(index, item_id, item_name, player_number)
             print(string.format("onItem: could not find object for code %s", item_code[1]))
         end
     end
-    if item_id >= 1 and item_id <= 175 then
+    if item_id >= 1 and item_id <= 180 then
         local dumpster = Tracker:FindObjectForCode("dumpster")
         if dumpster then
             dumpster.AcquiredCount = dumpster.AcquiredCount + 1
@@ -376,7 +393,7 @@ end
 
 function OnNotify(key, value, old_value)
     print("OnNotify", key, value, old_value)
-    if key == "map_location" and value ~= old_value then
+    if key == MAP_LOCATION_KEY and value ~= old_value then
         UpdateMapLocation(value)
     end
     if SANITY_KEYS[key] and value ~= old_value then
@@ -398,7 +415,7 @@ function OnNotify(key, value, old_value)
 end
 
 function OnNotifyLaunch(key, value)
-    if key == "map_location" then
+    if key == MAP_LOCATION_KEY then
         UpdateMapLocation(value)
     end
     if SANITY_KEYS[key] then

@@ -5,9 +5,36 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "dumpster:35,keitruck"
+            "$has_act|act3,keitruck"
         ],
         "children": [
+            {
+                "name": "Store Blimbo City Sign",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dumbbell:4",
+                    "keiskip"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blimbo City Bottom Main",
+                        "x": 1381,
+                        "y": 756,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
             {
                 "name": "Store Fone",
                 "chest_unopened_img": "/images/items/close.png",

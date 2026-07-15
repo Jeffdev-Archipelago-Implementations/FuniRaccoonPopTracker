@@ -9,6 +9,42 @@
         ],
         "children": [
             {
+                "name": "Brazil",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "braziltrainticket"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Act 1 Cluster",
+                        "x": 1000,
+                        "y": 1000,
+                        "size": 40,
+                        "shape": "diamond"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Brazil Knight",
+                        "ref": "Brazil/Store Brazil Knight/"
+                    },
+                    {
+                        "name": "Store Doggy",
+                        "ref": "Brazil/Store Doggy/"
+                    },
+                    {
+                        "name": "Store Real Football",
+                        "ref": "Brazil/Store Real Football/"
+                    },
+                    {
+                        "name": "Euro on middle hill",
+                        "ref": "Brazil/Euro on middle hill/"
+                    }
+                ]
+            },
+            {
                 "name": "Norwich",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",

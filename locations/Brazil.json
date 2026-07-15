@@ -1,20 +1,20 @@
 [
     {
-        "name": "Beenie's Ascension",
+        "name": "Brazil",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "$has_act|act2,goo"
+            "braziltrainticket"
         ],
         "children": [
             {
-                "name": "Store Priestess",
+                "name": "Store Brazil Knight",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:1"
+                    " "
                 ],
                 "sections": [
                     {
@@ -26,20 +26,74 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Beenie's Ascension",
-                        "x": 1388,
-                        "y": 867,
+                        "map": "Brazil",
+                        "x": 900,
+                        "y": 800,
                         "size": 40,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Euro behind cross",
+                "name": "Store Doggy",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
-                "access_rules": [],
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Brazil",
+                        "x": 1400,
+                        "y": 900,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Real Football",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Brazil",
+                        "x": 1900,
+                        "y": 800,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Euro on middle hill",
+                "chest_unopened_img": "/images/items/euro.png",
+                "chest_opened_img": "/images/items/euro_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
                 "visibility_rules": [
                     "euro"
                 ],
@@ -53,43 +107,11 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Beenie's Ascension",
-                        "x": 2111,
-                        "y": 669,
+                        "map": "Brazil",
+                        "x": 1400,
+                        "y": 500,
                         "size": 40,
                         "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "THE MACHINE",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "map_locations": [
-                    {
-                        "map": "Beenie's Ascension",
-                        "x": 271,
-                        "y": 1269,
-                        "size": 40,
-                        "shape": "trapezoid"
-                    }
-                ],
-                "sections": [
-                    {
-                        "name": "Store Beenie, Our Savior",
-                        "ref": "THE MACHINE/Store Beenie, Our Savior/"
-                    },
-                    {
-                        "name": "Store Candle",
-                        "ref": "THE MACHINE/Store Candle/"
-                    },
-                    {
-                        "name": "Store Beenie Saves The Orphans",
-                        "ref": "THE MACHINE/Store Beenie Saves The Orphans/"
                     }
                 ]
             }
