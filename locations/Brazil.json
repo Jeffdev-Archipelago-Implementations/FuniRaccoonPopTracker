@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Brazil",
-                        "x": 900,
-                        "y": 800,
-                        "size": 40,
+                        "x": 385,
+                        "y": 747,
+                        "size": 26,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Brazil",
-                        "x": 1400,
-                        "y": 900,
-                        "size": 40,
+                        "x": 736,
+                        "y": 425,
+                        "size": 26,
                         "shape": "rect"
                     }
                 ]
@@ -79,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "Brazil",
-                        "x": 1900,
-                        "y": 800,
-                        "size": 40,
+                        "x": 749,
+                        "y": 845,
+                        "size": 26,
                         "shape": "rect"
                     }
                 ]
@@ -108,9 +108,9 @@
                 "map_locations": [
                     {
                         "map": "Brazil",
-                        "x": 1400,
-                        "y": 500,
-                        "size": 40,
+                        "x": 308,
+                        "y": 887,
+                        "size": 26,
                         "shape": "rect"
                     }
                 ]
