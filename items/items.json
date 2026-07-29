@@ -118,7 +118,7 @@
     {
         "name": "Lugh Quest Locking",
         "type": "toggle",
-        "img": "images/items/keitruck.png",
+        "img": "images/items/lugh.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "lugh"
@@ -136,7 +136,7 @@
     {
         "name": "Brazil Train Ticket",
         "type": "toggle",
-        "img": "images/items/braziltrainticket.png",
+        "img": "images/items/brazil.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "braziltrainticket"
@@ -160,7 +160,7 @@
     {
         "name": "Unregistered Firearm",
         "type": "toggle",
-        "img": "images/items/orb.png",
+        "img": "images/items/gun.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "unregisteredfirearm"
@@ -168,7 +168,7 @@
     {
         "name": "Funi Marketable Plushie",
         "type": "toggle",
-        "img": "images/items/orb.png",
+        "img": "images/items/plushie.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "funimarketableplushie"
@@ -176,7 +176,7 @@
     {
         "name": "Flowian",
         "type": "toggle",
-        "img": "images/items/orb.png",
+        "img": "images/items/flowian.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "flowian"
@@ -184,7 +184,7 @@
     {
         "name": "Antisads",
         "type": "toggle",
-        "img": "images/items/orb.png",
+        "img": "images/items/antisads.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "antisads"

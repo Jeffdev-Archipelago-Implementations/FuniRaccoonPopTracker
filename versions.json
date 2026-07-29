@@ -1,6 +1,12 @@
 {
     "versions": [
             {
+                "package_version": "1.2.1",
+                "download_url": "https://github.com/Jeffdev-Archipelago-Implementations/FuniRaccoonPopTracker/releases/download/1.2.1/FuniRaccoonPopTracker.zip",
+                "sha256": "868c79415a529f9f319928c25f83ff1d387a95da2f2431bc7eec384bbcfe69c8",
+                "changelog": ["Fixed various item icon issues"]
+            },
+            {
                 "package_version": "1.2.0",
                 "download_url": "https://github.com/Jeffdev-Archipelago-Implementations/FuniRaccoonPopTracker/releases/download/1.2.0/FuniRaccoonPopTracker.zip",
                 "sha256": "a5984fc3a6bb29c43aaa0756c86803a7b8839f4c141ae9ef790bdc1b8a5a76e1",
