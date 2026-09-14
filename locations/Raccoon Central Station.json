@@ -424,8 +424,8 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 1400,
-                        "y": 1500,
+                        "x": 2631,
+                        "y": 1377,
                         "size": 40,
                         "shape": "trapezoid"
                     }
