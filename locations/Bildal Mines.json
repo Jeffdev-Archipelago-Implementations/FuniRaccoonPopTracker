@@ -54,7 +54,8 @@
                     {
                         "name": "",
                         "access_rules": [
-                            "dumbbell:1"
+                            "dumbbell:1",
+                            "keiskip"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -109,8 +110,8 @@
                 "map_locations": [
                     {
                         "map": "Bildal Mines",
-                        "x": 717,
-                        "y": 407,
+                        "x": 1076,
+                        "y": 476,
                         "size": 40,
                         "shape": "trapezoid"
                     }
@@ -175,10 +176,6 @@
                     {
                         "name": "Euro on castle",
                         "ref": "Blimbo Village Town/Euro on castle/"
-                    },
-                    {
-                        "name": "Euro near furnace",
-                        "ref": "Blimbo Village Town/Euro near furnace/"
                     }
                 ]
             }

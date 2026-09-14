@@ -23,7 +23,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$has_act|act3,keitruck,fridgekey,dumbbell:1"
+                    "$has_act|act3,keitruck,fridgekey,dumbbell:1",
+                    "$has_act|act3,keitruck,fridgekey,keiskip"
                 ],
                 "sections": [
                     {
@@ -82,10 +83,6 @@
                         "ref": "Trasco Carpark/Store Fridge Key/"
                     },
                     {
-                        "name": "Store Coffee Shop (closed)",
-                        "ref": "Trasco Carpark/Store Coffee Shop (closed)/"
-                    },
-                    {
                         "name": "Store Trolley",
                         "ref": "Trasco Carpark/Store Trolley/"
                     },
@@ -95,7 +92,7 @@
                     },
                     {
                         "name": "Store CD Player",
-                        "ref": "Trasco Carpark/Store CD Player/"
+                        "ref": "Piss Shrine/Store CD Player/"
                     }
                 ]
             }

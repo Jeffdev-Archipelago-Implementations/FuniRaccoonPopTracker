@@ -1,6 +1,12 @@
 {
     "versions": [
             {
+                "package_version": "1.3.0",
+                "download_url": "https://github.com/Jeffdev-Archipelago-Implementations/FuniRaccoonPopTracker/releases/download/1.3.0/FuniRaccoonPopTracker.zip",
+                "sha256": "505dee2f52fcd32f6758d731fadd56839199ec20670cffd550bb56b2cb040003",
+                "changelog": ["Added compatibility for the vehicle update, fixed icon placements, other adjustments"]
+            },
+            {
                 "package_version": "1.2.1",
                 "download_url": "https://github.com/Jeffdev-Archipelago-Implementations/FuniRaccoonPopTracker/releases/download/1.2.1/FuniRaccoonPopTracker.zip",
                 "sha256": "868c79415a529f9f319928c25f83ff1d387a95da2f2431bc7eec384bbcfe69c8",

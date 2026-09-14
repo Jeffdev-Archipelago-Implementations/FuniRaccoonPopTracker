@@ -9,7 +9,7 @@
         ],
         "children": [
             {
-                "name": "Eat Blue Mystical Gem",
+                "name": "Eat Blue Mystical Jewel",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -66,6 +66,10 @@
                     {
                         "name": "Store Patrick OHara",
                         "ref": "Beenie HQ Front/Store Patrick OHara/"
+                    },
+                    {
+                        "name": "Store Factory Sign",
+                        "ref": "Beenie HQ Front/Store Factory Sign/"
                     },
                     {
                         "name": "Store Letter B",

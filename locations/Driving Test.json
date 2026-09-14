@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Driving Test",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "$has_act|act3"
+        ],
+        "children": [
+            {
+                "name": "Cricket",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Driving Test",
+                        "x": 527,
+                        "y": 457,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Cricket Bat",
+                        "ref": "Cricket/Store Cricket Bat/"
+                    },
+                    {
+                        "name": "Store Cricket",
+                        "ref": "Cricket/Store Cricket/"
+                    }
+                ]
+            }
+        ]
+    }
+]

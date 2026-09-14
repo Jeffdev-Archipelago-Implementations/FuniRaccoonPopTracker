@@ -27,8 +27,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Town",
-                        "x": 767,
-                        "y": 1268,
+                        "x": 711,
+                        "y": 942,
                         "size": 40,
                         "shape": "rect"
                     }
@@ -54,8 +54,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Town",
-                        "x": 1055,
-                        "y": 351,
+                        "x": 904,
+                        "y": 84,
                         "size": 40,
                         "shape": "rect"
                     }
@@ -81,8 +81,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Town",
-                        "x": 1993,
-                        "y": 1214,
+                        "x": 1869,
+                        "y": 803,
                         "size": 40,
                         "shape": "rect"
                     }
@@ -108,8 +108,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Town",
-                        "x": 2002,
-                        "y": 1315,
+                        "x": 1790,
+                        "y": 876,
                         "size": 40,
                         "shape": "rect"
                     }
@@ -146,8 +146,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Town",
-                        "x": 1427,
-                        "y": 527,
+                        "x": 1259,
+                        "y": 230,
                         "size": 40,
                         "shape": "rect"
                     }
@@ -175,37 +175,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Town",
-                        "x": 1660,
-                        "y": 1247,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Euro near furnace",
-                "chest_unopened_img": "/images/items/euro.png",
-                "chest_opened_img": "/images/items/euro_open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "visibility_rules": [
-                    "euro"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Blimbo Village Town",
-                        "x": 2089,
-                        "y": 880,
+                        "x": 1540,
+                        "y": 855,
                         "size": 40,
                         "shape": "rect"
                     }
@@ -222,8 +193,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Town",
-                        "x": 759,
-                        "y": 1352,
+                        "x": 525,
+                        "y": 75,
                         "size": 40,
                         "shape": "trapezoid"
                     }
@@ -250,8 +221,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Town",
-                        "x": 1945,
-                        "y": 1314,
+                        "x": 1839,
+                        "y": 880,
                         "size": 40,
                         "shape": "trapezoid"
                     }
@@ -276,6 +247,30 @@
                     {
                         "name": "Store Police Car",
                         "ref": "Petrol Station/Store Police Car/"
+                    },
+                    {
+                        "name": "Store Coffee Shop (closed)",
+                        "ref": "Petrol Station/Store Coffee Shop (closed)/"
+                    },
+                    {
+                        "name": "Store Outdoor Chair",
+                        "ref": "Petrol Station/Store Outdoor Chair/"
+                    },
+                    {
+                        "name": "Store Lightning Rod",
+                        "ref": "Petrol Station/Store Lightning Rod/"
+                    },
+                    {
+                        "name": "Store Gacha Machine",
+                        "ref": "Petrol Station/Store Gacha Machine/"
+                    },
+                    {
+                        "name": "Store Good Engine",
+                        "ref": "Petrol Station/Store Good Engine/"
+                    },
+                    {
+                        "name": "Unlock Horse Vehicle",
+                        "ref": "Petrol Station/Unlock Horse Vehicle/"
                     }
                 ]
             },
@@ -290,8 +285,8 @@
                 "map_locations": [
                     {
                         "map": "Blimbo Village Town",
-                        "x": 1826,
-                        "y": 678,
+                        "x": 1920,
+                        "y": 337,
                         "size": 40,
                         "shape": "trapezoid"
                     }

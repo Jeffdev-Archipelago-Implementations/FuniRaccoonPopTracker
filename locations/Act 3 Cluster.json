@@ -98,10 +98,6 @@
                         "ref": "Blimbo Village Town/Euro on castle/"
                     },
                     {
-                        "name": "Euro near furnace",
-                        "ref": "Blimbo Village Town/Euro near furnace/"
-                    },
-                    {
                         "name": "Store Knifedog",
                         "ref": "Petrol Station/Store Knifedog/"
                     },
@@ -120,6 +116,30 @@
                     {
                         "name": "Store Police Car",
                         "ref": "Petrol Station/Store Police Car/"
+                    },
+                    {
+                        "name": "Store Coffee Shop (closed)",
+                        "ref": "Petrol Station/Store Coffee Shop (closed)/"
+                    },
+                    {
+                        "name": "Store Outdoor Chair",
+                        "ref": "Petrol Station/Store Outdoor Chair/"
+                    },
+                    {
+                        "name": "Store Lightning Rod",
+                        "ref": "Petrol Station/Store Lightning Rod/"
+                    },
+                    {
+                        "name": "Store Gacha Machine",
+                        "ref": "Petrol Station/Store Gacha Machine/"
+                    },
+                    {
+                        "name": "Store Good Engine",
+                        "ref": "Petrol Station/Store Good Engine/"
+                    },
+                    {
+                        "name": "Unlock Horse Vehicle",
+                        "ref": "Petrol Station/Unlock Horse Vehicle/"
                     }
                 ],
                 "map_locations": [
@@ -226,10 +246,6 @@
                         "ref": "Trasco Carpark/Store Fridge Key/"
                     },
                     {
-                        "name": "Store Coffee Shop (closed)",
-                        "ref": "Trasco Carpark/Store Coffee Shop (closed)/"
-                    },
-                    {
                         "name": "Store Trolley",
                         "ref": "Trasco Carpark/Store Trolley/"
                     },
@@ -243,7 +259,7 @@
                     },
                     {
                         "name": "Store CD Player",
-                        "ref": "Trasco Carpark/Store CD Player/"
+                        "ref": "Piss Shrine/Store CD Player/"
                     }
                 ],
                 "map_locations": [
@@ -274,8 +290,8 @@
                         "ref": "Garden/Store Radio Blimbo/"
                     },
                     {
-                        "name": "Mikk Barge - Eat Purple Mystical Gem",
-                        "ref": "Mikk Barge/Eat Purple Mystical Gem/"
+                        "name": "Mikk Barge - Eat Purple Mystical Jewel",
+                        "ref": "Mikk Barge/Eat Purple Mystical Jewel/"
                     }
                 ],
                 "map_locations": [
@@ -372,6 +388,14 @@
                     {
                         "name": "Euro next to Robin P. Bobin Store",
                         "ref": "Blimbo City Middle Back/Euro next to Robin P. Bobin Store/"
+                    },
+                    {
+                        "name": "Store Robin P. Bobin",
+                        "ref": "The Forklift Problem/Store Robin P. Bobin/"
+                    },
+                    {
+                        "name": "Unlock Tony & Fork Vehicle",
+                        "ref": "The Forklift Problem/Unlock Tony & Fork Vehicle/"
                     },
                     {
                         "name": "Euro under city on girders 4",

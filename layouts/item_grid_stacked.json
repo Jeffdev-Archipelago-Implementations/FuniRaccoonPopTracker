@@ -1,0 +1,10 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "layout",
+        "key": "item_group_stack"
+    },
+    "shared_item_grid_vertical": {
+        "type": "layout",
+        "key": "item_group_stack"
+    }
+}

@@ -245,7 +245,7 @@
                     },
                     {
                         "name": "Complete Behrman Speedway in under 1 minute",
-                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute"
+                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
                     }
                 ]
             },
@@ -352,8 +352,8 @@
                         "ref": "Water Zone/Store Fan/"
                     },
                     {
-                        "name": "Eat Green Mystical Gem",
-                        "ref": "Water Zone/Eat Green Mystical Gem/"
+                        "name": "Eat Green Mystical Jewel",
+                        "ref": "Water Zone/Eat Green Mystical Jewel/"
                     },
                     {
                         "name": "Euro under stairs underwater",
@@ -400,10 +400,6 @@
                         "ref": "Trasco Carpark/Store Fridge Key/"
                     },
                     {
-                        "name": "Store Coffee Shop (closed)",
-                        "ref": "Trasco Carpark/Store Coffee Shop (closed)/"
-                    },
-                    {
                         "name": "Store Trolley",
                         "ref": "Trasco Carpark/Store Trolley/"
                     },
@@ -413,7 +409,7 @@
                     },
                     {
                         "name": "Store CD Player",
-                        "ref": "Trasco Carpark/Store CD Player/"
+                        "ref": "Piss Shrine/Store CD Player/"
                     }
                 ]
             },

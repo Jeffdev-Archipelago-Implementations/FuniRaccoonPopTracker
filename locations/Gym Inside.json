@@ -14,7 +14,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:1"
+                    "dumbbell:1",
+                    "keiskip,keitruck"
                 ],
                 "sections": [
                     {
@@ -166,7 +167,7 @@
                     },
                     {
                         "name": "Complete Behrman Speedway in under 1 minute",
-                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute"
+                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
                     }
                 ]
             }

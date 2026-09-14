@@ -397,8 +397,8 @@
                 ],
                 "sections": [
                     {
-                        "name": "Eat Red Mystical Gem",
-                        "ref": "Dry Zone/Eat Red Mystical Gem/"
+                        "name": "Eat Red Mystical Jewel",
+                        "ref": "Dry Zone/Eat Red Mystical Jewel/"
                     }
                 ]
             },
@@ -545,8 +545,8 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 1244,
-                        "y": 1413,
+                        "x": 1385,
+                        "y": 1141,
                         "size": 40,
                         "shape": "trapezoid"
                     }
@@ -559,6 +559,30 @@
                     {
                         "name": "Store Lughling",
                         "ref": "Cliffs of Nowher/Store Lughling/"
+                    }
+                ]
+            },
+            {
+                "name": "Salmon of Knowledge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Desert",
+                        "x": 1763,
+                        "y": 845,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Hazelnut",
+                        "ref": "Salmon of Knowledge/Store Hazelnut/"
                     }
                 ]
             }

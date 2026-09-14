@@ -28,9 +28,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 1742,
-                        "y": 899,
-                        "size": 40,
+                        "x": 1924,
+                        "y": 818,
+                        "size": 28,
                         "shape": "rect"
                     }
                 ]
@@ -54,9 +54,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 2006,
-                        "y": 949,
-                        "size": 40,
+                        "x": 1778,
+                        "y": 830,
+                        "size": 28,
                         "shape": "rect"
                     }
                 ]
@@ -81,9 +81,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 809,
-                        "y": 761,
-                        "size": 40,
+                        "x": 1621,
+                        "y": 954,
+                        "size": 28,
                         "shape": "rect"
                     }
                 ]
@@ -107,9 +107,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 606,
-                        "y": 1004,
-                        "size": 40,
+                        "x": 2120,
+                        "y": 966,
+                        "size": 28,
                         "shape": "rect"
                     }
                 ]
@@ -134,9 +134,168 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 748,
-                        "y": 925,
-                        "size": 40,
+                        "x": 1842,
+                        "y": 956,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Coffee Shop (closed)",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dumbbell:3",
+                    "keiskip"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Petrol Station",
+                        "x": 1024,
+                        "y": 894,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Outdoor Chair",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dumbbell:1",
+                    "keiskip"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Petrol Station",
+                        "x": 1090,
+                        "y": 932,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Lightning Rod",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dumbbell:2",
+                    "keiskip"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Petrol Station",
+                        "x": 1337,
+                        "y": 195,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Gacha Machine",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Petrol Station",
+                        "x": 229,
+                        "y": 876,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Good Engine",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "tonyvehicle"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Petrol Station",
+                        "x": 1381,
+                        "y": 912,
+                        "size": 28,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Unlock Horse Vehicle",
+                "chest_unopened_img": "/images/items/keitruck.png",
+                "chest_opened_img": "/images/items/keitruck_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Petrol Station",
+                        "x": 1930,
+                        "y": 664,
+                        "size": 28,
                         "shape": "rect"
                     }
                 ]
@@ -152,9 +311,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 1873,
-                        "y": 889,
-                        "size": 40,
+                        "x": 1708,
+                        "y": 824,
+                        "size": 28,
                         "shape": "trapezoid"
                     }
                 ],
@@ -190,10 +349,6 @@
                     {
                         "name": "Euro on castle",
                         "ref": "Blimbo Village Town/Euro on castle/"
-                    },
-                    {
-                        "name": "Euro near furnace",
-                        "ref": "Blimbo Village Town/Euro near furnace/"
                     }
                 ]
             }

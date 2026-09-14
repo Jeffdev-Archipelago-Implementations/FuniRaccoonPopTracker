@@ -30,6 +30,10 @@
                         "ref": "Beenie HQ Front/Store Patrick OHara/"
                     },
                     {
+                        "name": "Store Factory Sign",
+                        "ref": "Beenie HQ Front/Store Factory Sign/"
+                    },
+                    {
                         "name": "Store Letter B",
                         "ref": "Beenie HQ Back/Store Letter B/"
                     },
@@ -314,8 +318,8 @@
                         "ref": "Howth Start/Store Kettle/"
                     },
                     {
-                        "name": "Eat Blue Mystical Gem",
-                        "ref": "Howth End/Eat Blue Mystical Gem/"
+                        "name": "Eat Blue Mystical Jewel",
+                        "ref": "Howth End/Eat Blue Mystical Jewel/"
                     }
                 ],
                 "map_locations": [

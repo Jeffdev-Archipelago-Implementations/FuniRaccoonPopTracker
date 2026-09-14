@@ -46,7 +46,7 @@
                     {
                         "name": "",
                         "access_rules": [
-                            "dumbbell:1"
+                            " "
                         ],
                         "visibility_rules": [],
                         "item_count": 1

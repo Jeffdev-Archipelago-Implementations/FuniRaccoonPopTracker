@@ -144,6 +144,10 @@
                     "type": "tabbed",
                     "tabs": [
                         {
+                            "title": "Driving Test",
+                            "content": {"type": "map", "maps": ["Driving Test"]}
+                        },
+                        {
                             "title": "Blimbo Village",
                             "content": {"type": "map", "maps": ["Blimbo Village Start", "Blimbo Village Town"]}
                         },
@@ -191,6 +195,10 @@
                                     {
                                         "title": "Middle Back",
                                         "content": {"type": "map", "maps": ["Blimbo City Middle Back"]}
+                                    },
+                                    {
+                                        "title": "Forklift Problem",
+                                        "content": {"type": "map", "maps": ["The Forklift Problem"]}
                                     },
                                     {
                                         "title": "Casino",
@@ -413,6 +421,10 @@
                     "type": "tabbed",
                     "tabs": [
                         {
+                            "title": "Driving Test",
+                            "content": {"type": "map", "maps": ["Driving Test"]}
+                        },
+                        {
                             "title": "Blimbo Village",
                             "content": {"type": "map", "maps": ["Blimbo Village Start", "Blimbo Village Town"]}
                         },
@@ -460,6 +472,10 @@
                                     {
                                         "title": "Middle Back",
                                         "content": {"type": "map", "maps": ["Blimbo City Middle Back"]}
+                                    },
+                                    {
+                                        "title": "Forklift Problem",
+                                        "content": {"type": "map", "maps": ["The Forklift Problem"]}
                                     },
                                     {
                                         "title": "Casino",

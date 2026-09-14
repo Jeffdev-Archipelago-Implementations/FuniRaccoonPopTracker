@@ -1,6 +1,6 @@
 [
     {
-        "name": "Mystical Gems",
+        "name": "Mystical Jewels",
         "type": "consumable",
         "increment": 1,
         "max_quantity": 4,
@@ -84,7 +84,7 @@
         "codes": "cat"
     },
     {
-        "name": "Gemsanity Toggle",
+        "name": "Jewelsanity Toggle",
         "type": "toggle",
         "img": "images/items/gem.png",
         "initial_active_state": true,
@@ -204,5 +204,13 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "butterfly"
+    },
+    {
+        "name": "Tony Vehicle",
+        "type": "toggle",
+        "img": "images/items/tonyvehicle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tonyvehicle"
     }
 ]

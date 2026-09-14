@@ -9,12 +9,12 @@
         ],
         "children": [
             {
-                "name": "Eat Red Mystical Gem",
+                "name": "Eat Red Mystical Jewel",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:1"
+                    " "
                 ],
                 "visibility_rules": [
                     "gem"

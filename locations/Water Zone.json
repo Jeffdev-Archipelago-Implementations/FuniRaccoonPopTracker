@@ -69,7 +69,7 @@
                 ]
             },
             {
-                "name": "Eat Green Mystical Gem",
+                "name": "Eat Green Mystical Jewel",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -250,7 +250,7 @@
                     },
                     {
                         "name": "Complete Behrman Speedway in under 1 minute",
-                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute"
+                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
                     }
                 ]
             }

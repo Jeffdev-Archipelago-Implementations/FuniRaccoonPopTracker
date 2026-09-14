@@ -65,6 +65,34 @@
                         "shape": "rect"
                     }
                 ]
+            },
+            {
+                "name": "The Forklift Problem",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Blimbo City Middle Back",
+                        "x": 1538,
+                        "y": 784,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Robin P. Bobin",
+                        "ref": "The Forklift Problem/Store Robin P. Bobin/"
+                    },
+                    {
+                        "name": "Unlock Tony & Fork Vehicle",
+                        "ref": "The Forklift Problem/Unlock Tony & Fork Vehicle/"
+                    }
+                ]
             }
         ]
     }

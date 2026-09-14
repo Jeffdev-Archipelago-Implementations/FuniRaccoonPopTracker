@@ -242,9 +242,15 @@ function onClear(slot_data)
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
     if slot_data then
+        -- Some settings are only sent inside slot_data.options (e.g. dumpster_weight_blocking, lugh_quest_locking)
+        local slot_options = slot_data.options or {}
         for key, _ in pairs(SANITY_KEYS) do
-            if slot_data[key] ~= nil then
-                UpdateSanitySetting(key, slot_data[key])
+            local value = slot_data[key]
+            if value == nil then
+                value = slot_options[key]
+            end
+            if value ~= nil then
+                UpdateSanitySetting(key, value)
             end
         end
     end
@@ -324,7 +330,7 @@ function onItem(index, item_id, item_name, player_number)
             print(string.format("onItem: could not find object for code %s", item_code[1]))
         end
     end
-    if item_id >= 1 and item_id <= 180 then
+    if item_id >= 1 and item_id <= 185 then
         local dumpster = Tracker:FindObjectForCode("dumpster")
         if dumpster then
             dumpster.AcquiredCount = dumpster.AcquiredCount + 1

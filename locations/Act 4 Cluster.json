@@ -170,6 +170,10 @@
                         "ref": "Cliffs of Nowher/Store Lughling/"
                     },
                     {
+                        "name": "Well of Knowledge - Store Hazelnut",
+                        "ref": "Salmon of Knowledge/Store Hazelnut/"
+                    },
+                    {
                         "name": "Find Fridge Crown",
                         "ref": "Desert/Find Fridge Crown/"
                     },
@@ -272,8 +276,8 @@
                 ],
                 "sections": [
                     {
-                        "name": "Eat Red Mystical Gem",
-                        "ref": "Dry Zone/Eat Red Mystical Gem/"
+                        "name": "Eat Red Mystical Jewel",
+                        "ref": "Dry Zone/Eat Red Mystical Jewel/"
                     }
                 ],
                 "map_locations": [

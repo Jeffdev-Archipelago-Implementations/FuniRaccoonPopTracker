@@ -89,7 +89,7 @@
                     {
                         "name": "Store Crisps Undying Love",
                         "access_rules": [
-                            "dumbbell:3"
+                            "dumbbell:2,unregisteredfirearm"
                         ],
                         "visibility_rules": [],
                         "item_count": 1
@@ -134,6 +134,10 @@
                     {
                         "name": "Store Patrick OHara",
                         "ref": "Beenie HQ Front/Store Patrick OHara/"
+                    },
+                    {
+                        "name": "Store Factory Sign",
+                        "ref": "Beenie HQ Front/Store Factory Sign/"
                     },
                     {
                         "name": "Store Letter B",

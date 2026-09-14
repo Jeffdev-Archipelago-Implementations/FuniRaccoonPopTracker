@@ -1,54 +1,80 @@
 {
-    "shared_item_grid_horizontal": {
-        "type": "array",
-        "orientation": "vertical",
-        "margin": "0,0",
-        "content": [
-            {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "2, 2",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 36,
-                        "item_width": 36,
-                        "rows": [
-                            ["dumpster","keitruck","oldassrustyasskey","dumbbell","keitruckboost","fridgekey","progressivecoolingrod","keitrucktoaster","brobenergy","goo","pickaxe","mysticalgems","braziltrainticket","unregisteredfirearm","funimarketableplushie","flowian","antisads","chicken","butterfly"]
-                        ]
-                    }
-                ]
-            }
+    "item_group_progress": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 36,
+        "item_width": 36,
+        "rows": [
+            ["dumpster", "dumbbell", "progressivecoolingrod", "mysticalgems"]
         ]
     },
-    "shared_item_grid_vertical": {
+    "item_group_vehicles": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 36,
+        "item_width": 36,
+        "rows": [
+            ["keitruck", "keitruckboost", "keitrucktoaster", "tonyvehicle"]
+        ]
+    },
+    "item_group_key_items": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 36,
+        "item_width": 36,
+        "rows": [
+            ["oldassrustyasskey", "fridgekey", "pickaxe", "goo"],
+            ["brobenergy", "braziltrainticket", "chicken", "butterfly"]
+        ]
+    },
+    "item_group_lugh_quest": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 36,
+        "item_width": 36,
+        "rows": [
+            ["unregisteredfirearm", "funimarketableplushie", "flowian", "antisads"]
+        ]
+    },
+    "item_group_stack": {
         "type": "array",
         "orientation": "vertical",
         "margin": "0,0",
         "content": [
-            {
-                "type": "array",
-                "orientation": "vertical",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "2, 2",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 36,
-                        "item_width": 36,
-                        "rows": [
-                            ["dumpster","keitruck","oldassrustyasskey","dumbbell","keitruckboost","fridgekey","progressivecoolingrod","keitrucktoaster","brobenergy","goo","pickaxe","mysticalgems","braziltrainticket","unregisteredfirearm","funimarketableplushie","flowian","antisads","chicken","butterfly"]
-                        ]
-                    }
-                ]
-            }
+            {"type": "layout", "key": "item_group_progress"},
+            {"type": "layout", "key": "item_group_vehicles"},
+            {"type": "layout", "key": "item_group_key_items"},
+            {"type": "layout", "key": "item_group_lugh_quest"}
+        ]
+    },
+    "item_flat_row": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 36,
+        "item_width": 36,
+        "rows": [
+            [
+                "dumpster", "dumbbell", "progressivecoolingrod", "mysticalgems",
+                "keitruck", "keitruckboost", "keitrucktoaster", "tonyvehicle",
+                "oldassrustyasskey", "fridgekey", "pickaxe", "goo",
+                "brobenergy", "braziltrainticket", "chicken", "butterfly",
+                "unregisteredfirearm", "funimarketableplushie", "flowian", "antisads"
+            ]
         ]
     },
     "setting_grid": {

@@ -62,7 +62,7 @@
                 ]
             },
             {
-                "name": "Euro from saving Toastie",
+                "name": "Euro reward after saving Toastie",
                 "chest_unopened_img": "/images/items/euro.png",
                 "chest_opened_img": "/images/items/euro_open.png",
                 "overlay_background": "#000000",
@@ -170,7 +170,7 @@
                     },
                     {
                         "name": "Complete Behrman Speedway in under 1 minute",
-                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute"
+                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
                     }
                 ]
             }

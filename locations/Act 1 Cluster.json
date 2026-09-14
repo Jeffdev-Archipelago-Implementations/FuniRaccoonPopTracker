@@ -71,8 +71,8 @@
                         "ref": "Norwich/Store Gym/"
                     },
                     {
-                        "name": "Vending Machine - Store Vending Machine",
-                        "ref": "Norwich/Vending Machine and Brob Energy/Store Vending Machine"
+                        "name": "Vending Machine - Store Vending Machine (accepts doubloons)",
+                        "ref": "Norwich/Vending Machine and Brob Energy/Store Vending Machine (accepts doubloons)"
                     },
                     {
                         "name": "Vending Machine - Store Brob Energy",
@@ -167,8 +167,8 @@
                         "ref": "Water Zone/Store Fan/"
                     },
                     {
-                        "name": "Eat Green Mystical Gem",
-                        "ref": "Water Zone/Eat Green Mystical Gem/"
+                        "name": "Eat Green Mystical Jewel",
+                        "ref": "Water Zone/Eat Green Mystical Jewel/"
                     },
                     {
                         "name": "Euro under stairs underwater",
