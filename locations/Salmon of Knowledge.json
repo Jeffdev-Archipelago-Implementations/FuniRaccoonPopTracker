@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Salmon of Knowledge",
-                        "x": 1982,
-                        "y": 614,
-                        "size": 40,
+                        "x": 759,
+                        "y": 235,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -45,9 +45,9 @@
                 "map_locations": [
                     {
                         "map": "Salmon of Knowledge",
-                        "x": 947,
-                        "y": 734,
-                        "size": 40,
+                        "x": 440,
+                        "y": 265,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -77,9 +77,9 @@
                 "map_locations": [
                     {
                         "map": "Salmon of Knowledge",
-                        "x": 2742,
-                        "y": 1314,
-                        "size": 40,
+                        "x": 871,
+                        "y": 433,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],

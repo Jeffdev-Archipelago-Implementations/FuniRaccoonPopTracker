@@ -30,9 +30,9 @@
                 "map_locations": [
                     {
                         "map": "Dry Zone",
-                        "x": 2254,
-                        "y": 145,
-                        "size": 40,
+                        "x": 215,
+                        "y": 329,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -48,9 +48,9 @@
                 "map_locations": [
                     {
                         "map": "Dry Zone",
-                        "x": 1623,
-                        "y": 1153,
-                        "size": 40,
+                        "x": 562,
+                        "y": 407,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],

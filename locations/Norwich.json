@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 1433,
-                        "y": 885,
-                        "size": 40,
+                        "x": 344,
+                        "y": 404,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 1205,
-                        "y": 568,
-                        "size": 40,
+                        "x": 371,
+                        "y": 273,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -87,9 +87,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 994,
-                        "y": 426,
-                        "size": 40,
+                        "x": 312,
+                        "y": 215,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -113,9 +113,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 1211,
-                        "y": 729,
-                        "size": 40,
+                        "x": 280,
+                        "y": 351,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -139,9 +139,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 1173,
-                        "y": 66,
-                        "size": 40,
+                        "x": 717,
+                        "y": 218,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -173,9 +173,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 937,
-                        "y": 288,
-                        "size": 40,
+                        "x": 330,
+                        "y": 161,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -199,9 +199,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 807,
-                        "y": 152,
-                        "size": 40,
+                        "x": 852,
+                        "y": 232,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -225,9 +225,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 1225,
-                        "y": 1032,
-                        "size": 40,
+                        "x": 213,
+                        "y": 451,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -251,9 +251,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 1611,
-                        "y": 1363,
-                        "size": 40,
+                        "x": 190,
+                        "y": 626,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -277,9 +277,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 1167,
-                        "y": 1156,
-                        "size": 40,
+                        "x": 145,
+                        "y": 496,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -306,9 +306,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 1516,
-                        "y": 386,
-                        "size": 40,
+                        "x": 639,
+                        "y": 299,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -335,9 +335,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 792,
-                        "y": 689,
-                        "size": 40,
+                        "x": 843,
+                        "y": 389,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -364,9 +364,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 3039,
-                        "y": 732,
-                        "size": 40,
+                        "x": 630,
+                        "y": 538,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -390,9 +390,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 820,
-                        "y": 361,
-                        "size": 40,
+                        "x": 221,
+                        "y": 207,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -403,50 +403,21 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "brobenergy,dumbbell:4"
-                ],
-                "children": [
-                    {
-                        "name": "Complete Behrman Speedway in under 1 minute",
-                        "chest_unopened_img": "/images/items/brobenergy.png",
-                        "chest_opened_img": "/images/items/brobenergy_open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            "brobenergy,dumbbell:4"
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Norwich",
-                                "x": 1200,
-                                "y": 666,
-                                "size": 40,
-                                "shape": "rect"
-                            },
-                            {
-                                "map": "Behrman Speedway",
-                                "x": 500,
-                                "y": 500,
-                                "size": 40,
-                                "shape": "rect"
-                            }
-                        ]
-                    }
+                    " "
                 ],
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 100,
-                        "y": 100,
-                        "size": 40,
-                        "shape": "rect"
+                        "x": 338,
+                        "y": 301,
+                        "size": 20,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Complete Behrman Speedway in under 1 minute",
+                        "ref": "Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
                     }
                 ]
             },
@@ -489,56 +460,56 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 1256,
-                        "y": 672,
-                        "size": 40,
+                        "x": 363,
+                        "y": 305,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
                 "sections": [
                     {
                         "name": "Store Dumbbells",
-                        "ref": "Gym Inside/Store Dumbbells/"
+                        "ref": "Gym/Store Dumbbells/"
                     },
                     {
                         "name": "Store Paracetamol 650mg",
-                        "ref": "Gym Inside/Store Paracetamol 650mg/"
+                        "ref": "Gym/Store Paracetamol 650mg/"
                     },
                     {
                         "name": "Eat Mystical Dumbbell Act 1",
-                        "ref": "Gym Inside/Eat Mystical Dumbbell Act 1/"
+                        "ref": "Gym/Eat Mystical Dumbbell Act 1/"
                     },
                     {
                         "name": "Store Radio",
-                        "ref": "Gym Outside/Store Radio/"
+                        "ref": "Gym/Store Radio/"
                     },
                     {
                         "name": "Store Concrete Cat",
-                        "ref": "Gym Outside/Concrete Cat/Store Concrete Cat"
+                        "ref": "Gym/Concrete Cat/Store Concrete Cat"
                     },
                     {
                         "name": "Find Concrete Cat",
-                        "ref": "Gym Outside/Concrete Cat/Find Concrete Cat"
+                        "ref": "Gym/Concrete Cat/Find Concrete Cat"
                     },
                     {
                         "name": "Store Digital Polaroid Camera",
-                        "ref": "Gym Outside/Store Digital Polaroid Camera/"
+                        "ref": "Gym/Store Digital Polaroid Camera/"
                     },
                     {
                         "name": "Euro on roof with vending machine",
-                        "ref": "Gym Outside/Euro on roof with vending machine/"
+                        "ref": "Gym/Euro on roof with vending machine/"
                     },
                     {
                         "name": "Euro behind building",
-                        "ref": "Gym Outside/Euro behind building/"
+                        "ref": "Gym/Euro behind building/"
                     },
                     {
                         "name": "Euro at end of train tracks",
-                        "ref": "Gym Outside/Euro at end of train tracks/"
+                        "ref": "Gym/Euro at end of train tracks/"
                     },
                     {
                         "name": "Euro on bee sign under clouds",
-                        "ref": "Gym Outside/Euro on bee sign under clouds/"
+                        "ref": "Gym/Euro on bee sign under clouds/"
                     }
                 ]
             },
@@ -553,9 +524,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 1013,
-                        "y": 558,
-                        "size": 40,
+                        "x": 267,
+                        "y": 234,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -581,9 +552,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 2936,
-                        "y": 734,
-                        "size": 40,
+                        "x": 595,
+                        "y": 535,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -613,9 +584,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 589,
-                        "y": 775,
-                        "size": 40,
+                        "x": 913,
+                        "y": 395,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -657,9 +628,9 @@
                 "map_locations": [
                     {
                         "map": "Norwich",
-                        "x": 889,
-                        "y": 749,
-                        "size": 40,
+                        "x": 861,
+                        "y": 386,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],

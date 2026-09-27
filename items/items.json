@@ -108,14 +108,6 @@
         "codes": "hat"
     },
     {
-        "name": "Kei Truck Weight Skip Logic",
-        "type": "toggle",
-        "img": "images/items/keitruck.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "keiskip"
-    },
-    {
         "name": "Lugh Quest Locking",
         "type": "toggle",
         "img": "images/items/lugh.png",

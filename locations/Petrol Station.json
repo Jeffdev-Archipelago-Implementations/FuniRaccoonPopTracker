@@ -14,8 +14,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2",
-                    "keiskip"
+                    "dumbbell:2"
                 ],
                 "sections": [
                     {
@@ -28,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 1924,
-                        "y": 818,
-                        "size": 28,
+                        "x": 447,
+                        "y": 476,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -54,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 1778,
-                        "y": 830,
-                        "size": 28,
+                        "x": 393,
+                        "y": 463,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -67,8 +66,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2",
-                    "keiskip"
+                    "dumbbell:2"
                 ],
                 "sections": [
                     {
@@ -81,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 1621,
-                        "y": 954,
-                        "size": 28,
+                        "x": 648,
+                        "y": 471,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -107,9 +105,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 2120,
-                        "y": 966,
-                        "size": 28,
+                        "x": 711,
+                        "y": 430,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -120,8 +118,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:3",
-                    "keiskip"
+                    "dumbbell:3"
                 ],
                 "sections": [
                     {
@@ -134,21 +131,20 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 1842,
-                        "y": 956,
-                        "size": 28,
+                        "x": 676,
+                        "y": 451,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Store Coffee Shop (closed)",
+                "name": "Store Coffee Shop (open)",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:3",
-                    "keiskip"
+                    "dumbbell:3"
                 ],
                 "sections": [
                     {
@@ -161,9 +157,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 1024,
-                        "y": 894,
-                        "size": 28,
+                        "x": 481,
+                        "y": 514,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -174,8 +170,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:1",
-                    "keiskip"
+                    "dumbbell:1"
                 ],
                 "sections": [
                     {
@@ -188,9 +183,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 1090,
-                        "y": 932,
-                        "size": 28,
+                        "x": 543,
+                        "y": 516,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -201,8 +196,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2",
-                    "keiskip"
+                    "dumbbell:2"
                 ],
                 "sections": [
                     {
@@ -215,9 +209,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 1337,
-                        "y": 195,
-                        "size": 28,
+                        "x": 284,
+                        "y": 253,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -241,9 +235,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 229,
-                        "y": 876,
-                        "size": 28,
+                        "x": 398,
+                        "y": 561,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -267,9 +261,9 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 1381,
-                        "y": 912,
-                        "size": 28,
+                        "x": 570,
+                        "y": 507,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -293,15 +287,15 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 1930,
-                        "y": 664,
-                        "size": 28,
+                        "x": 638,
+                        "y": 326,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Blimbo Village Town",
+                "name": "Blimbo Village",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -311,44 +305,116 @@
                 "map_locations": [
                     {
                         "map": "Petrol Station",
-                        "x": 1708,
-                        "y": 824,
-                        "size": 28,
+                        "x": 753,
+                        "y": 382,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
                 "sections": [
                     {
+                        "name": "Store Under Construction",
+                        "ref": "Blimbo Village/Store Under Construction/"
+                    },
+                    {
+                        "name": "Store ROAD NOT DONE",
+                        "ref": "Blimbo Village/Store ROAD NOT DONE/"
+                    },
+                    {
+                        "name": "Store Blimbo Village Sign",
+                        "ref": "Blimbo Village/Store Blimbo Village Sign/"
+                    },
+                    {
+                        "name": "Store Ougham Stone",
+                        "ref": "Blimbo Village/Store Ougham Stone/"
+                    },
+                    {
+                        "name": "Store \"Cow\"",
+                        "ref": "Blimbo Village/Store \"Cow\"/"
+                    },
+                    {
+                        "name": "Store Old Ass Rusty Ass Key",
+                        "ref": "Blimbo Village/Store Old Ass Rusty Ass Key/"
+                    },
+                    {
+                        "name": "Get 1000 Score with Kei Truck",
+                        "ref": "Blimbo Village/Kei Truck Score/Get 1000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Get 2000 Score with Kei Truck",
+                        "ref": "Blimbo Village/Kei Truck Score/Get 2000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Get 3000 Score with Kei Truck",
+                        "ref": "Blimbo Village/Kei Truck Score/Get 3000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Get 4000 Score with Kei Truck",
+                        "ref": "Blimbo Village/Kei Truck Score/Get 4000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Get 5000 Score with Kei Truck",
+                        "ref": "Blimbo Village/Kei Truck Score/Get 5000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Find Media Player Hat",
+                        "ref": "Blimbo Village/Find Media Player Hat/"
+                    },
+                    {
                         "name": "Store Plimbo",
-                        "ref": "Blimbo Village Town/Store Plimbo/"
+                        "ref": "Blimbo Village/Store Plimbo/"
                     },
                     {
                         "name": "Store CHEESE",
-                        "ref": "Blimbo Village Town/Store CHEESE/"
+                        "ref": "Blimbo Village/Store CHEESE/"
                     },
                     {
                         "name": "Store Gas Drum",
-                        "ref": "Blimbo Village Town/Store Gas Drum/"
+                        "ref": "Blimbo Village/Store Gas Drum/"
                     },
                     {
                         "name": "Store Door",
-                        "ref": "Blimbo Village Town/Store Door/"
+                        "ref": "Blimbo Village/Store Door/"
                     },
                     {
                         "name": "Purchase Kei Truck Radio",
-                        "ref": "Blimbo Village Town/Kei Truck Upgrades/Purchase Kei Truck Radio"
+                        "ref": "Blimbo Village/Kei Truck Upgrades/Purchase Kei Truck Radio"
                     },
                     {
                         "name": "Purchase Kei Truck Toaster",
-                        "ref": "Blimbo Village Town/Kei Truck Upgrades/Purchase Kei Truck Toaster"
+                        "ref": "Blimbo Village/Kei Truck Upgrades/Purchase Kei Truck Toaster"
                     },
                     {
                         "name": "Purchase Kei Truck Boost",
-                        "ref": "Blimbo Village Town/Kei Truck Upgrades/Purchase Kei Truck Boost"
+                        "ref": "Blimbo Village/Kei Truck Upgrades/Purchase Kei Truck Boost"
                     },
                     {
                         "name": "Euro on castle",
-                        "ref": "Blimbo Village Town/Euro on castle/"
+                        "ref": "Blimbo Village/Euro on castle/"
+                    }
+                ]
+            },
+            {
+                "name": "Store Coffee Cup",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Petrol Station",
+                        "x": 499,
+                        "y": 514,
+                        "size": 16,
+                        "shape": "rect"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Coffee Cup",
+                        "ref": "Blimbo City 2/Store Coffee Cup/"
                     }
                 ]
             }

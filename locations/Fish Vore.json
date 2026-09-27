@@ -9,10 +9,10 @@
         ],
         "map_locations": [
             {
-                "map": "Beenie HQ Front",
+                "map": "Beenie HQ",
                 "x": 714,
                 "y": 1362,
-                "size": 40,
+                "size": 16,
                 "shape": "rect"
             }
         ],
@@ -36,9 +36,9 @@
                 "map_locations": [
                     {
                         "map": "Fish Vore",
-                        "x": 1216,
-                        "y": 1078,
-                        "size": 40,
+                        "x": 305,
+                        "y": 388,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -62,9 +62,9 @@
                 "map_locations": [
                     {
                         "map": "Fish Vore",
-                        "x": 1591,
-                        "y": 549,
-                        "size": 40,
+                        "x": 404,
+                        "y": 345,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -88,9 +88,9 @@
                 "map_locations": [
                     {
                         "map": "Fish Vore",
-                        "x": 1861,
-                        "y": 507,
-                        "size": 40,
+                        "x": 612,
+                        "y": 527,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]

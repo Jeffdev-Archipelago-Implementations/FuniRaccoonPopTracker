@@ -22,7 +22,9 @@
                 "sections": [
                     {
                         "name": "Store Michi Cat",
-                        "access_rules": ["$has_act|act2"],
+                        "access_rules": [
+                            "$has_act|act2"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -38,9 +40,9 @@
                 "map_locations": [
                     {
                         "map": "Chamber",
-                        "x": 1720,
-                        "y": 748,
-                        "size": 40,
+                        "x": 568,
+                        "y": 401,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -64,9 +66,9 @@
                 "map_locations": [
                     {
                         "map": "Chamber",
-                        "x": 1631,
-                        "y": 753,
-                        "size": 40,
+                        "x": 529,
+                        "y": 408,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]

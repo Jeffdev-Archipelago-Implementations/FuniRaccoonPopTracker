@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "The Machine",
-                        "x": 2419,
-                        "y": 664,
-                        "size": 40,
+                        "x": 655,
+                        "y": 408,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "The Machine",
-                        "x": 2948,
-                        "y": 675,
-                        "size": 40,
+                        "x": 768,
+                        "y": 395,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -79,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "The Machine",
-                        "x": 1681,
-                        "y": 1453,
-                        "size": 40,
+                        "x": 743,
+                        "y": 598,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -97,44 +97,44 @@
                 "map_locations": [
                     {
                         "map": "The Machine",
-                        "x": 2818,
-                        "y": 747,
-                        "size": 40,
+                        "x": 344,
+                        "y": 419,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
                 "sections": [
                     {
                         "name": "Store Crayon",
-                        "ref": "Beenie HQ Front/Store Crayon/"
+                        "ref": "Beenie HQ/Store Crayon/"
                     },
                     {
                         "name": "Store Evil Fish",
-                        "ref": "Beenie HQ Front/Store Evil Fish/"
+                        "ref": "Beenie HQ/Store Evil Fish/"
                     },
                     {
                         "name": "Store Patrick OHara",
-                        "ref": "Beenie HQ Front/Store Patrick OHara/"
+                        "ref": "Beenie HQ/Store Patrick OHara/"
                     },
                     {
                         "name": "Store Factory Sign",
-                        "ref": "Beenie HQ Front/Store Factory Sign/"
+                        "ref": "Beenie HQ/Store Factory Sign/"
                     },
                     {
                         "name": "Store Letter B",
-                        "ref": "Beenie HQ Back/Store Letter B/"
+                        "ref": "Beenie HQ/Store Letter B/"
                     },
                     {
                         "name": "Store Beach Ball",
-                        "ref": "Beenie HQ Back/Store Beach Ball/"
+                        "ref": "Beenie HQ/Store Beach Ball/"
                     },
                     {
                         "name": "Store Funi Marketable Plushie",
-                        "ref": "Beenie HQ Inside/Store Funi Marketable Plushie/"
+                        "ref": "Beenie HQ/Store Funi Marketable Plushie/"
                     },
                     {
                         "name": "Store Beenie the Birthday Boy",
-                        "ref": "Beenie HQ Inside/Store Beenie the Birthday Boy/"
+                        "ref": "Beenie HQ/Store Beenie the Birthday Boy/"
                     }
                 ]
             },
@@ -149,9 +149,9 @@
                 "map_locations": [
                     {
                         "map": "The Machine",
-                        "x": 1875,
-                        "y": 1462,
-                        "size": 40,
+                        "x": 802,
+                        "y": 597,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -163,6 +163,46 @@
                     {
                         "name": "Euro behind cross",
                         "ref": "Beenie's Ascension/Euro behind cross/"
+                    }
+                ]
+            },
+            {
+                "name": "The Process",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Machine",
+                        "x": 758,
+                        "y": 417,
+                        "size": 20,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Buisness Man",
+                        "ref": "The Process/Store Buisness Man/"
+                    },
+                    {
+                        "name": "Store Microwave",
+                        "ref": "The Process/Store Microwave/"
+                    },
+                    {
+                        "name": "Store Beautiful Flower",
+                        "ref": "The Process/Store Beautiful Flower/"
+                    },
+                    {
+                        "name": "Store Patrice",
+                        "ref": "The Process/Store Patrice/"
+                    },
+                    {
+                        "name": "Find Jester Hat",
+                        "ref": "The Process/Find Jester Hat/"
                     }
                 ]
             }

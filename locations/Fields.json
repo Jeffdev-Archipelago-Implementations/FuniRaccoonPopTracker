@@ -9,10 +9,10 @@
         ],
         "map_locations": [
             {
-                "map": "Beenie HQ Front",
+                "map": "Beenie HQ",
                 "x": 1841,
                 "y": 648,
-                "size": 40,
+                "size": 16,
                 "shape": "rect"
             }
         ],
@@ -36,9 +36,9 @@
                 "map_locations": [
                     {
                         "map": "Fields",
-                        "x": 2005,
-                        "y": 1063,
-                        "size": 40,
+                        "x": 598,
+                        "y": 504,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -62,9 +62,9 @@
                 "map_locations": [
                     {
                         "map": "Fields",
-                        "x": 2291,
-                        "y": 1499,
-                        "size": 40,
+                        "x": 600,
+                        "y": 630,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -98,9 +98,9 @@
                 "map_locations": [
                     {
                         "map": "Fields",
-                        "x": 1617,
-                        "y": 590,
-                        "size": 40,
+                        "x": 544,
+                        "y": 328,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -116,44 +116,44 @@
                 "map_locations": [
                     {
                         "map": "Fields",
-                        "x": 1379,
-                        "y": 646,
-                        "size": 40,
+                        "x": 482,
+                        "y": 343,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
                 "sections": [
                     {
                         "name": "Store Crayon",
-                        "ref": "Beenie HQ Front/Store Crayon/"
+                        "ref": "Beenie HQ/Store Crayon/"
                     },
                     {
                         "name": "Store Evil Fish",
-                        "ref": "Beenie HQ Front/Store Evil Fish/"
+                        "ref": "Beenie HQ/Store Evil Fish/"
                     },
                     {
                         "name": "Store Patrick OHara",
-                        "ref": "Beenie HQ Front/Store Patrick OHara/"
+                        "ref": "Beenie HQ/Store Patrick OHara/"
                     },
                     {
                         "name": "Store Factory Sign",
-                        "ref": "Beenie HQ Front/Store Factory Sign/"
+                        "ref": "Beenie HQ/Store Factory Sign/"
                     },
                     {
                         "name": "Store Letter B",
-                        "ref": "Beenie HQ Back/Store Letter B/"
+                        "ref": "Beenie HQ/Store Letter B/"
                     },
                     {
                         "name": "Store Beach Ball",
-                        "ref": "Beenie HQ Back/Store Beach Ball/"
+                        "ref": "Beenie HQ/Store Beach Ball/"
                     },
                     {
                         "name": "Store Funi Marketable Plushie",
-                        "ref": "Beenie HQ Inside/Store Funi Marketable Plushie/"
+                        "ref": "Beenie HQ/Store Funi Marketable Plushie/"
                     },
                     {
                         "name": "Store Beenie the Birthday Boy",
-                        "ref": "Beenie HQ Inside/Store Beenie the Birthday Boy/"
+                        "ref": "Beenie HQ/Store Beenie the Birthday Boy/"
                     }
                 ]
             }

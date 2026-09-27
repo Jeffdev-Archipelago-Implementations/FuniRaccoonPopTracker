@@ -14,8 +14,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2",
-                    "keiskip"
+                    "dumbbell:2"
                 ],
                 "sections": [
                     {
@@ -28,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 3023,
-                        "y": 996,
-                        "size": 40,
+                        "x": 908,
+                        "y": 413,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -54,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 2896,
-                        "y": 823,
-                        "size": 40,
+                        "x": 856,
+                        "y": 368,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -80,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 2558,
-                        "y": 632,
-                        "size": 40,
+                        "x": 792,
+                        "y": 306,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -109,9 +108,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 2597,
-                        "y": 630,
-                        "size": 40,
+                        "x": 780,
+                        "y": 306,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -138,9 +137,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 2031,
-                        "y": 1147,
-                        "size": 40,
+                        "x": 642,
+                        "y": 488,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -197,9 +196,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 2188,
-                        "y": 609,
-                        "size": 40,
+                        "x": 678,
+                        "y": 306,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -226,9 +225,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 634,
-                        "y": 1098,
-                        "size": 40,
+                        "x": 462,
+                        "y": 576,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -255,9 +254,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 2943,
-                        "y": 994,
-                        "size": 40,
+                        "x": 880,
+                        "y": 414,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -284,9 +283,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 2699,
-                        "y": 1271,
-                        "size": 40,
+                        "x": 827,
+                        "y": 517,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -313,9 +312,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 2589,
-                        "y": 561,
-                        "size": 40,
+                        "x": 783,
+                        "y": 280,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -342,9 +341,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 3047,
-                        "y": 644,
-                        "size": 40,
+                        "x": 908,
+                        "y": 301,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -371,9 +370,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 1803,
-                        "y": 310,
-                        "size": 40,
+                        "x": 567,
+                        "y": 185,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -389,9 +388,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 646,
-                        "y": 1164,
-                        "size": 40,
+                        "x": 257,
+                        "y": 494,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -413,9 +412,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 624,
-                        "y": 26,
-                        "size": 40,
+                        "x": 300,
+                        "y": 135,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -441,9 +440,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 2086,
-                        "y": 820,
-                        "size": 40,
+                        "x": 696,
+                        "y": 346,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -513,9 +512,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 2780,
-                        "y": 1472,
-                        "size": 40,
+                        "x": 851,
+                        "y": 599,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -545,9 +544,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 1385,
-                        "y": 1141,
-                        "size": 40,
+                        "x": 456,
+                        "y": 470,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -573,9 +572,9 @@
                 "map_locations": [
                     {
                         "map": "Desert",
-                        "x": 1763,
-                        "y": 845,
-                        "size": 40,
+                        "x": 555,
+                        "y": 368,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -583,6 +582,34 @@
                     {
                         "name": "Store Hazelnut",
                         "ref": "Salmon of Knowledge/Store Hazelnut/"
+                    }
+                ]
+            },
+            {
+                "name": "Church",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Desert",
+                        "x": 479,
+                        "y": 465,
+                        "size": 20,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Folding Chair",
+                        "ref": "Church/Store Folding Chair/"
+                    },
+                    {
+                        "name": "Store GREENISH ABOMINATION",
+                        "ref": "Church/Store GREENISH ABOMINATION/"
                     }
                 ]
             }

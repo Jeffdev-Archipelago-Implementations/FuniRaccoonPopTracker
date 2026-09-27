@@ -1,18 +1,18 @@
 {
     "name": "Funi Raccoon Game Archipelago",
     "game_name": "Funi Raccoon Game",
-    "package_version": "1.3.0",
+    "package_version": "1.4.0",
     "package_uid": "funi raccoon game_ap",
     "author": "Jeffdev",
     "variants": {
         "Map Tracker": {
-            "display_name": "Main Layout",
+            "display_name": "Main Item Layout",
             "flags": [
                 "ap"
             ]
         },
         "Flat Items Tracker": {
-            "display_name": "Flat Layout",
+            "display_name": "Flat Item Layout",
             "flags": [
                 "ap"
             ]

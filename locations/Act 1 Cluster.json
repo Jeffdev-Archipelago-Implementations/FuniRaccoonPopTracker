@@ -132,7 +132,7 @@
                     },
                     {
                         "name": "Complete Behrman Speedway in under 1 minute",
-                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
+                        "ref": "Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
                     }
                 ]
             },
@@ -240,47 +240,47 @@
                 "sections": [
                     {
                         "name": "Store Radio",
-                        "ref": "Gym Outside/Store Radio/"
+                        "ref": "Gym/Store Radio/"
                     },
                     {
                         "name": "Concrete Cat - Store Concrete Cat",
-                        "ref": "Gym Outside/Concrete Cat/Store Concrete Cat"
+                        "ref": "Gym/Concrete Cat/Store Concrete Cat"
                     },
                     {
                         "name": "Concrete Cat - Find Concrete Cat",
-                        "ref": "Gym Outside/Concrete Cat/Find Concrete Cat"
+                        "ref": "Gym/Concrete Cat/Find Concrete Cat"
                     },
                     {
                         "name": "Store Digital Polaroid Camera",
-                        "ref": "Gym Outside/Store Digital Polaroid Camera/"
+                        "ref": "Gym/Store Digital Polaroid Camera/"
                     },
                     {
                         "name": "Euro on roof with vending machine",
-                        "ref": "Gym Outside/Euro on roof with vending machine/"
+                        "ref": "Gym/Euro on roof with vending machine/"
                     },
                     {
                         "name": "Euro behind building",
-                        "ref": "Gym Outside/Euro behind building/"
+                        "ref": "Gym/Euro behind building/"
                     },
                     {
                         "name": "Euro at end of train tracks",
-                        "ref": "Gym Outside/Euro at end of train tracks/"
+                        "ref": "Gym/Euro at end of train tracks/"
                     },
                     {
                         "name": "Euro on bee sign under clouds",
-                        "ref": "Gym Outside/Euro on bee sign under clouds/"
+                        "ref": "Gym/Euro on bee sign under clouds/"
                     },
                     {
                         "name": "Store Dumbbells",
-                        "ref": "Gym Inside/Store Dumbbells/"
+                        "ref": "Gym/Store Dumbbells/"
                     },
                     {
                         "name": "Store Paracetamol 650mg",
-                        "ref": "Gym Inside/Store Paracetamol 650mg/"
+                        "ref": "Gym/Store Paracetamol 650mg/"
                     },
                     {
                         "name": "Eat Mystical Dumbbell Act 1",
-                        "ref": "Gym Inside/Eat Mystical Dumbbell Act 1/"
+                        "ref": "Gym/Eat Mystical Dumbbell Act 1/"
                     }
                 ]
             },

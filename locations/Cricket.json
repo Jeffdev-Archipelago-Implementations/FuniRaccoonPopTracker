@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Cricket",
-                        "x": 1578,
-                        "y": 939,
-                        "size": 40,
+                        "x": 649,
+                        "y": 415,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Cricket",
-                        "x": 1702,
-                        "y": 401,
-                        "size": 40,
+                        "x": 754,
+                        "y": 274,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -71,9 +71,9 @@
                 "map_locations": [
                     {
                         "map": "Cricket",
-                        "x": 1035,
-                        "y": 385,
-                        "size": 40,
+                        "x": 457,
+                        "y": 181,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],

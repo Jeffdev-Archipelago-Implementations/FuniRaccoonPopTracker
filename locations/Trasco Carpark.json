@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 650,
-                        "y": 329,
-                        "size": 40,
+                        "x": 326,
+                        "y": 94,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -68,9 +68,9 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 2570,
-                        "y": 745,
-                        "size": 40,
+                        "x": 150,
+                        "y": 617,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -94,9 +94,9 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 870,
-                        "y": 757,
-                        "size": 40,
+                        "x": 554,
+                        "y": 142,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -107,8 +107,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:1",
-                    "keiskip"
+                    "dumbbell:1"
                 ],
                 "sections": [
                     {
@@ -121,9 +120,9 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 1750,
-                        "y": 977,
-                        "size": 40,
+                        "x": 437,
+                        "y": 364,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -134,8 +133,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:3",
-                    "keiskip"
+                    "dumbbell:3"
                 ],
                 "sections": [
                     {
@@ -148,9 +146,9 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 1611,
-                        "y": 464,
-                        "size": 40,
+                        "x": 398,
+                        "y": 426,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -166,9 +164,9 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 1604,
-                        "y": 599,
-                        "size": 40,
+                        "x": 415,
+                        "y": 437,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -190,100 +188,100 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 257,
-                        "y": 184,
-                        "size": 40,
+                        "x": 926,
+                        "y": 670,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
                 "sections": [
                     {
                         "name": "Store Fone",
-                        "ref": "Blimbo City Bottom Main/Store Fone/"
+                        "ref": "Blimbo City 1/Store Fone/"
                     },
                     {
                         "name": "Store Radiator",
-                        "ref": "Blimbo City Bottom Main/Store Radiator/"
+                        "ref": "Blimbo City 1/Store Radiator/"
                     },
                     {
                         "name": "Store Evil Raccoon",
-                        "ref": "Blimbo City Bottom Main/Store Evil Raccoon/"
+                        "ref": "Blimbo City 1/Store Evil Raccoon/"
                     },
                     {
                         "name": "Store Naked Fella",
-                        "ref": "Blimbo City Bottom Main/Store Naked Fella/"
+                        "ref": "Blimbo City 1/Store Naked Fella/"
                     },
                     {
                         "name": "Store Bell Boy",
-                        "ref": "Blimbo City Bottom Main/Store Bell Boy/"
+                        "ref": "Blimbo City 1/Store Bell Boy/"
                     },
                     {
                         "name": "Euro on watertower",
-                        "ref": "Blimbo City Bottom Main/Euro on watertower/"
+                        "ref": "Blimbo City 1/Euro on watertower/"
                     },
                     {
                         "name": "Euro near boat on edge of city",
-                        "ref": "Blimbo City Bottom Main/Euro near boat on edge of city/"
+                        "ref": "Blimbo City 1/Euro near boat on edge of city/"
                     },
                     {
                         "name": "Store Bin",
-                        "ref": "Blimbo City Middle/Store Bin/"
+                        "ref": "Blimbo City 1/Store Bin/"
                     },
                     {
                         "name": "Store Apple",
-                        "ref": "Blimbo City Middle/Store Apple/"
+                        "ref": "Blimbo City 2/Store Apple/"
                     },
                     {
                         "name": "Store Patrick O Bobble",
-                        "ref": "Blimbo City Middle/Store Patrick O Bobble/"
+                        "ref": "Blimbo City 2/Store Patrick O Bobble/"
                     },
                     {
                         "name": "Store Coffee Cup",
-                        "ref": "Blimbo City Middle/Store Coffee Cup/"
+                        "ref": "Blimbo City 2/Store Coffee Cup/"
                     },
                     {
                         "name": "Store Yolky",
-                        "ref": "Blimbo City Middle/Store Yolky/"
+                        "ref": "Blimbo City 2/Store Yolky/"
                     },
                     {
                         "name": "Euro near Guns stands",
-                        "ref": "Blimbo City Middle/Euro near Guns stands/"
+                        "ref": "Blimbo City 2/Euro near Guns stands/"
                     },
                     {
                         "name": "Euro under city on girders 3",
-                        "ref": "Blimbo City Middle/Euro under city on girders 3/"
+                        "ref": "Blimbo City 2/Euro under city on girders 3/"
                     },
                     {
                         "name": "Euro near cheese wheel",
-                        "ref": "Blimbo City Middle/Euro near cheese wheel/"
+                        "ref": "Blimbo City 2/Euro near cheese wheel/"
                     },
                     {
                         "name": "Euro under city on girders 1",
-                        "ref": "Blimbo City Girders/Euro under city on girders 1/"
+                        "ref": "Blimbo City 2/Euro under city on girders 1/"
                     },
                     {
                         "name": "Euro under city on girders 2",
-                        "ref": "Blimbo City Girders/Euro under city on girders 2/"
+                        "ref": "Blimbo City 2/Euro under city on girders 2/"
                     },
                     {
                         "name": "Store Average Canadian",
-                        "ref": "Blimbo City Top/Store Average Canadian/"
+                        "ref": "Blimbo City 3/Store Average Canadian/"
                     },
                     {
                         "name": "Store Suitcase",
-                        "ref": "Blimbo City Upper Towers/Store Suitcase/"
+                        "ref": "Blimbo City 3/Store Suitcase/"
                     },
                     {
                         "name": "Store Dice",
-                        "ref": "Blimbo City Upper Towers/Store Dice/"
+                        "ref": "Blimbo City 2/Store Dice/"
                     },
                     {
                         "name": "Euro at Robin P. Bobin Store",
-                        "ref": "Blimbo City Middle Back/Euro at Robin P. Bobin Store/"
+                        "ref": "Blimbo City 3/Euro at Robin P. Bobin Store/"
                     },
                     {
                         "name": "Euro next to Robin P. Bobin Store",
-                        "ref": "Blimbo City Middle Back/Euro next to Robin P. Bobin Store/"
+                        "ref": "Blimbo City 3/Euro next to Robin P. Bobin Store/"
                     },
                     {
                         "name": "Store Robin P. Bobin",
@@ -295,7 +293,7 @@
                     },
                     {
                         "name": "Euro under city on girders 4",
-                        "ref": "Blimbo City Middle Casino/Euro under city on girders 4/"
+                        "ref": "Blimbo City 2/Euro under city on girders 4/"
                     }
                 ]
             },
@@ -310,9 +308,9 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 2014,
-                        "y": 752,
-                        "size": 40,
+                        "x": 291,
+                        "y": 518,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -354,92 +352,166 @@
                 "map_locations": [
                     {
                         "map": "Trasco Carpark",
-                        "x": 2219,
-                        "y": 1677,
-                        "size": 40,
+                        "x": 17,
+                        "y": 296,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
                 "sections": [
                     {
                         "name": "Store Under Construction",
-                        "ref": "Blimbo Village Start/Store Under Construction/"
+                        "ref": "Blimbo Village/Store Under Construction/"
                     },
                     {
                         "name": "Store ROAD NOT DONE",
-                        "ref": "Blimbo Village Start/Store ROAD NOT DONE/"
+                        "ref": "Blimbo Village/Store ROAD NOT DONE/"
                     },
                     {
                         "name": "Store Blimbo Village Sign",
-                        "ref": "Blimbo Village Start/Store Blimbo Village Sign/"
+                        "ref": "Blimbo Village/Store Blimbo Village Sign/"
                     },
                     {
                         "name": "Store Ougham Stone",
-                        "ref": "Blimbo Village Start/Store Ougham Stone/"
+                        "ref": "Blimbo Village/Store Ougham Stone/"
                     },
                     {
-                        "name": "Store Cow",
-                        "ref": "Blimbo Village Start/Store Cow/"
+                        "name": "Store \"Cow\"",
+                        "ref": "Blimbo Village/Store \"Cow\"/"
                     },
                     {
                         "name": "Store Old Ass Rusty Ass Key",
-                        "ref": "Blimbo Village Start/Store Old Ass Rusty Ass Key/"
+                        "ref": "Blimbo Village/Store Old Ass Rusty Ass Key/"
                     },
                     {
                         "name": "Get 1000 Score with Kei Truck",
-                        "ref": "Blimbo Village Start/Kei Truck Score/Get 1000 Score with Kei Truck"
+                        "ref": "Blimbo Village/Kei Truck Score/Get 1000 Score with Kei Truck"
                     },
                     {
                         "name": "Get 2000 Score with Kei Truck",
-                        "ref": "Blimbo Village Start/Kei Truck Score/Get 2000 Score with Kei Truck"
+                        "ref": "Blimbo Village/Kei Truck Score/Get 2000 Score with Kei Truck"
                     },
                     {
                         "name": "Get 3000 Score with Kei Truck",
-                        "ref": "Blimbo Village Start/Kei Truck Score/Get 3000 Score with Kei Truck"
+                        "ref": "Blimbo Village/Kei Truck Score/Get 3000 Score with Kei Truck"
                     },
                     {
                         "name": "Get 4000 Score with Kei Truck",
-                        "ref": "Blimbo Village Start/Kei Truck Score/Get 4000 Score with Kei Truck"
+                        "ref": "Blimbo Village/Kei Truck Score/Get 4000 Score with Kei Truck"
                     },
                     {
                         "name": "Get 5000 Score with Kei Truck",
-                        "ref": "Blimbo Village Start/Kei Truck Score/Get 5000 Score with Kei Truck"
+                        "ref": "Blimbo Village/Kei Truck Score/Get 5000 Score with Kei Truck"
                     },
                     {
                         "name": "Find Media Player Hat",
-                        "ref": "Blimbo Village Start/Find Media Player Hat/"
+                        "ref": "Blimbo Village/Find Media Player Hat/"
                     },
                     {
                         "name": "Store Plimbo",
-                        "ref": "Blimbo Village Town/Store Plimbo/"
+                        "ref": "Blimbo Village/Store Plimbo/"
                     },
                     {
                         "name": "Store CHEESE",
-                        "ref": "Blimbo Village Town/Store CHEESE/"
+                        "ref": "Blimbo Village/Store CHEESE/"
                     },
                     {
                         "name": "Store Gas Drum",
-                        "ref": "Blimbo Village Town/Store Gas Drum/"
+                        "ref": "Blimbo Village/Store Gas Drum/"
                     },
                     {
                         "name": "Store Door",
-                        "ref": "Blimbo Village Town/Store Door/"
+                        "ref": "Blimbo Village/Store Door/"
                     },
                     {
                         "name": "Purchase Kei Truck Radio",
-                        "ref": "Blimbo Village Town/Kei Truck Upgrades/Purchase Kei Truck Radio"
+                        "ref": "Blimbo Village/Kei Truck Upgrades/Purchase Kei Truck Radio"
                     },
                     {
                         "name": "Purchase Kei Truck Toaster",
-                        "ref": "Blimbo Village Town/Kei Truck Upgrades/Purchase Kei Truck Toaster"
+                        "ref": "Blimbo Village/Kei Truck Upgrades/Purchase Kei Truck Toaster"
                     },
                     {
                         "name": "Purchase Kei Truck Boost",
-                        "ref": "Blimbo Village Town/Kei Truck Upgrades/Purchase Kei Truck Boost"
+                        "ref": "Blimbo Village/Kei Truck Upgrades/Purchase Kei Truck Boost"
                     },
                     {
                         "name": "Euro on castle",
-                        "ref": "Blimbo Village Town/Euro on castle/"
+                        "ref": "Blimbo Village/Euro on castle/"
+                    }
+                ]
+            },
+            {
+                "name": "Store CD Player",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dumbbell:1,keitruckboost"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 887,
+                        "y": 172,
+                        "size": 16,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Fridge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 425,
+                        "y": 428,
+                        "size": 16,
+                        "shape": "rect"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Fridge",
+                        "ref": "Brazil/Store Fridge/"
+                    }
+                ]
+            },
+            {
+                "name": "Store Street Lamp",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Trasco Carpark",
+                        "x": 245,
+                        "y": 319,
+                        "size": 16,
+                        "shape": "rect"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Street Lamp",
+                        "ref": "Howth/Store Street Lamp/"
                     }
                 ]
             }

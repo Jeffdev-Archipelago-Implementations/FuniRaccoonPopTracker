@@ -12,7 +12,7 @@
                 "map": "Norwich",
                 "x": 1663,
                 "y": 974,
-                "size": 40,
+                "size": 16,
                 "shape": "rect"
             }
         ],
@@ -36,9 +36,9 @@
                 "map_locations": [
                     {
                         "map": "Church",
-                        "x": 1960,
-                        "y": 977,
-                        "size": 40,
+                        "x": 448,
+                        "y": 346,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -62,10 +62,34 @@
                 "map_locations": [
                     {
                         "map": "Church",
-                        "x": 1150,
-                        "y": 440,
-                        "size": 40,
+                        "x": 622,
+                        "y": 294,
+                        "size": 16,
                         "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Priestess",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Church",
+                        "x": 750,
+                        "y": 308,
+                        "size": 16,
+                        "shape": "rect"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Priestess",
+                        "ref": "Beenie's Ascension/Store Priestess/"
                     }
                 ]
             }

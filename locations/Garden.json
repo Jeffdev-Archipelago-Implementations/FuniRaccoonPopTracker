@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "$has_act|act3,keitruck,pickaxe,oldassrustyasskey"
+            " "
         ],
         "children": [
             {
@@ -14,8 +14,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2",
-                    "keiskip"
+                    "$has_act|act3,keitruck,pickaxe,oldassrustyasskey,dumbbell:2"
                 ],
                 "sections": [
                     {
@@ -28,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Garden",
-                        "x": 1353,
-                        "y": 1280,
-                        "size": 40,
+                        "x": 411,
+                        "y": 355,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -41,8 +40,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2",
-                    "keiskip"
+                    "$has_act|act3,keitruck,pickaxe,oldassrustyasskey,dumbbell:2",
+                    "$has_act|act3,keitruck,progressivecoolingrod:1,dumbbell:2"
                 ],
                 "sections": [
                     {
@@ -55,9 +54,9 @@
                 "map_locations": [
                     {
                         "map": "Garden",
-                        "x": 1658,
-                        "y": 386,
-                        "size": 40,
+                        "x": 552,
+                        "y": 202,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]

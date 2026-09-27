@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Beenie Factory",
-                        "x": 944,
-                        "y": 1399,
-                        "size": 40,
+                        "x": 460,
+                        "y": 561,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Beenie Factory",
-                        "x": 834,
-                        "y": 1410,
-                        "size": 40,
+                        "x": 483,
+                        "y": 561,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -71,9 +71,9 @@
                 "map_locations": [
                     {
                         "map": "Beenie Factory",
-                        "x": 382,
-                        "y": 661,
-                        "size": 40,
+                        "x": 275,
+                        "y": 236,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -111,20 +111,44 @@
                 "map_locations": [
                     {
                         "map": "Beenie Factory",
-                        "x": 2211,
-                        "y": 1733,
-                        "size": 40,
+                        "x": 896,
+                        "y": 672,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
                 "sections": [
                     {
                         "name": "Store Letter B",
-                        "ref": "Beenie HQ Back/Store Letter B/"
+                        "ref": "Beenie HQ/Store Letter B/"
                     },
                     {
                         "name": "Store Beach Ball",
-                        "ref": "Beenie HQ Back/Store Beach Ball/"
+                        "ref": "Beenie HQ/Store Beach Ball/"
+                    }
+                ]
+            },
+            {
+                "name": "Store Plimbo",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Beenie Factory",
+                        "x": 77,
+                        "y": 51,
+                        "size": 16,
+                        "shape": "rect"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Plimbo",
+                        "ref": "Blimbo Village/Store Plimbo/"
                     }
                 ]
             }

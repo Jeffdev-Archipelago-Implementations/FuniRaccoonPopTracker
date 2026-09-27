@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Rackheath",
-                        "x": 2586,
-                        "y": 1211,
-                        "size": 40,
+                        "x": 931,
+                        "y": 521,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Rackheath",
-                        "x": 1969,
-                        "y": 969,
-                        "size": 40,
+                        "x": 708,
+                        "y": 416,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -79,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "Rackheath",
-                        "x": 1729,
-                        "y": 951,
-                        "size": 40,
+                        "x": 603,
+                        "y": 401,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -105,9 +105,9 @@
                 "map_locations": [
                     {
                         "map": "Rackheath",
-                        "x": 1299,
-                        "y": 818,
-                        "size": 40,
+                        "x": 460,
+                        "y": 346,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -131,9 +131,9 @@
                 "map_locations": [
                     {
                         "map": "Rackheath",
-                        "x": 402,
-                        "y": 377,
-                        "size": 40,
+                        "x": 153,
+                        "y": 169,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -157,9 +157,9 @@
                 "map_locations": [
                     {
                         "map": "Rackheath",
-                        "x": 368,
-                        "y": 405,
-                        "size": 40,
+                        "x": 132,
+                        "y": 180,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -183,9 +183,9 @@
                 "map_locations": [
                     {
                         "map": "Rackheath",
-                        "x": 1541,
-                        "y": 858,
-                        "size": 40,
+                        "x": 540,
+                        "y": 355,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]

@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Beenie's Ascension",
-                        "x": 1388,
-                        "y": 867,
-                        "size": 40,
+                        "x": 464,
+                        "y": 322,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -54,9 +54,9 @@
                 "map_locations": [
                     {
                         "map": "Beenie's Ascension",
-                        "x": 2111,
-                        "y": 669,
-                        "size": 40,
+                        "x": 763,
+                        "y": 246,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -72,9 +72,9 @@
                 "map_locations": [
                     {
                         "map": "Beenie's Ascension",
-                        "x": 271,
-                        "y": 1269,
-                        "size": 40,
+                        "x": 237,
+                        "y": 491,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],

@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Cliffs of Nowher",
-                        "x": 1629,
-                        "y": 1223,
-                        "size": 40,
+                        "x": 348,
+                        "y": 442,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Cliffs of Nowher",
-                        "x": 1553,
-                        "y": 40,
-                        "size": 40,
+                        "x": 931,
+                        "y": 87,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -71,9 +71,9 @@
                 "map_locations": [
                     {
                         "map": "Cliffs of Nowher",
-                        "x": 1607,
-                        "y": 1447,
-                        "size": 40,
+                        "x": 303,
+                        "y": 624,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],

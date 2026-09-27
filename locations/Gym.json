@@ -1,6 +1,6 @@
 [
     {
-        "name": "Gym Outside",
+        "name": "Gym",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
@@ -26,10 +26,10 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 756,
-                        "y": 639,
-                        "size": 40,
+                        "map": "Gym",
+                        "x": 686,
+                        "y": 156,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -60,10 +60,10 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 981,
-                        "y": 710,
-                        "size": 40,
+                        "map": "Gym",
+                        "x": 580,
+                        "y": 348,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -86,10 +86,10 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 699,
-                        "y": 597,
-                        "size": 40,
+                        "map": "Gym",
+                        "x": 753,
+                        "y": 118,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -115,10 +115,10 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 356,
-                        "y": 856,
-                        "size": 40,
+                        "map": "Gym",
+                        "x": 453,
+                        "y": 75,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -144,10 +144,10 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 513,
-                        "y": 1005,
-                        "size": 40,
+                        "map": "Gym",
+                        "x": 276,
+                        "y": 129,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -173,10 +173,10 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 3015,
-                        "y": 954,
-                        "size": 40,
+                        "map": "Gym",
+                        "x": 45,
+                        "y": 602,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -202,10 +202,10 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 567,
-                        "y": 722,
-                        "size": 40,
+                        "map": "Gym",
+                        "x": 812,
+                        "y": 551,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -220,10 +220,10 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 784,
-                        "y": 686,
-                        "size": 40,
+                        "map": "Gym",
+                        "x": 864,
+                        "y": 300,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -290,7 +290,7 @@
                     },
                     {
                         "name": "Complete Behrman Speedway in under 1 minute",
-                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
+                        "ref": "Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
                     }
                 ]
             },
@@ -304,10 +304,10 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 764,
-                        "y": 862,
-                        "size": 40,
+                        "map": "Gym",
+                        "x": 271,
+                        "y": 274,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -344,10 +344,10 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Gym Outside",
-                        "x": 640,
-                        "y": 857,
-                        "size": 40,
+                        "map": "Gym",
+                        "x": 340,
+                        "y": 257,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -355,6 +355,84 @@
                     {
                         "name": "Store Washing Machine",
                         "ref": "Cleaners/Store Washing Machine/"
+                    }
+                ]
+            },
+            {
+                "name": "Store Dumbbells",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dumbbell:1"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gym",
+                        "x": 881,
+                        "y": 247,
+                        "size": 16,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Store Paracetamol 650mg",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "dumbbell:1"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gym",
+                        "x": 962,
+                        "y": 309,
+                        "size": 16,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Eat Mystical Dumbbell Act 1",
+                "chest_unopened_img": "/images/items/dumbbell.png",
+                "chest_opened_img": "/images/items/dumbbell_open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gym",
+                        "x": 1037,
+                        "y": 275,
+                        "size": 16,
+                        "shape": "rect"
                     }
                 ]
             }

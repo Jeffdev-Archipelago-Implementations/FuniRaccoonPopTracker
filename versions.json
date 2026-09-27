@@ -1,6 +1,12 @@
 {
     "versions": [
             {
+                "package_version": "1.4.0",
+                "download_url": "https://github.com/Jeffdev-Archipelago-Implementations/FuniRaccoonPopTracker/releases/download/1.4.0/FuniRaccoonPopTracker.zip",
+                "sha256": "",
+                "changelog": ["Large scale map update"]
+            },
+            {
                 "package_version": "1.3.0",
                 "download_url": "https://github.com/Jeffdev-Archipelago-Implementations/FuniRaccoonPopTracker/releases/download/1.3.0/FuniRaccoonPopTracker.zip",
                 "sha256": "614336e066676aa84478391201d7f27dbff20cfc2a9f204986ee84866806121e",

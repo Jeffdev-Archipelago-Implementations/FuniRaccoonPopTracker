@@ -1,20 +1,21 @@
 [
     {
-        "name": "Beenie HQ Front",
+        "name": "Howth",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "$has_act|act2"
+            " "
         ],
         "children": [
             {
-                "name": "Store Crayon",
+                "name": "Store Street Lamp",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$has_act|act2,goo,$lugh_lock|funimarketableplushie",
+                    "$has_act|act3,keitruck"
                 ],
                 "sections": [
                     {
@@ -26,21 +27,52 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Beenie HQ Front",
-                        "x": 1585,
-                        "y": 801,
-                        "size": 40,
+                        "map": "Howth",
+                        "x": 309,
+                        "y": 207,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Store Evil Fish",
+                "name": "Store Kettle",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "$has_act|act2,goo,$lugh_lock|funimarketableplushie"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [
+                            " "
+                        ],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Howth",
+                        "x": 407,
+                        "y": 267,
+                        "size": 16,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Eat Blue Mystical Jewel",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$has_act|act2,goo,$lugh_lock|funimarketableplushie,dumbbell:2"
+                ],
+                "visibility_rules": [
+                    "gem"
                 ],
                 "sections": [
                     {
@@ -52,96 +84,63 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Beenie HQ Front",
-                        "x": 862,
-                        "y": 1202,
-                        "size": 40,
+                        "map": "Howth",
+                        "x": 941,
+                        "y": 358,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
             },
             {
-                "name": "Store Patrick OHara",
+                "name": "Beenie HQ",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "dumbbell:2,goo",
-                    "$has_act|act3,dumbbell:2,keitruck"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
+                    "$has_act|act2,goo,$lugh_lock|funimarketableplushie"
                 ],
                 "map_locations": [
                     {
-                        "map": "Beenie HQ Front",
-                        "x": 2035,
-                        "y": 1193,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Store Factory Sign",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    "dumbbell:3"
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Beenie HQ Front",
-                        "x": 948,
-                        "y": 114,
-                        "size": 40,
-                        "shape": "rect"
-                    }
-                ]
-            },
-            {
-                "name": "Fish Vore",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    "[goo]"
-                ],
-                "map_locations": [
-                    {
-                        "map": "Beenie HQ Front",
-                        "x": 622,
-                        "y": 1203,
-                        "size": 40,
+                        "map": "Howth",
+                        "x": 747,
+                        "y": 338,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
                 "sections": [
                     {
-                        "name": "Store Pirate",
-                        "ref": "Fish Vore/Store Pirate/"
+                        "name": "Store Crayon",
+                        "ref": "Beenie HQ/Store Crayon/"
                     },
                     {
-                        "name": "Store Pirate 2",
-                        "ref": "Fish Vore/Store Pirate 2/"
+                        "name": "Store Evil Fish",
+                        "ref": "Beenie HQ/Store Evil Fish/"
                     },
                     {
-                        "name": "Store Pirate 3",
-                        "ref": "Fish Vore/Store Pirate 3/"
+                        "name": "Store Patrick OHara",
+                        "ref": "Beenie HQ/Store Patrick OHara/"
+                    },
+                    {
+                        "name": "Store Factory Sign",
+                        "ref": "Beenie HQ/Store Factory Sign/"
+                    },
+                    {
+                        "name": "Store Letter B",
+                        "ref": "Beenie HQ/Store Letter B/"
+                    },
+                    {
+                        "name": "Store Beach Ball",
+                        "ref": "Beenie HQ/Store Beach Ball/"
+                    },
+                    {
+                        "name": "Store Funi Marketable Plushie",
+                        "ref": "Beenie HQ/Store Funi Marketable Plushie/"
+                    },
+                    {
+                        "name": "Store Beenie the Birthday Boy",
+                        "ref": "Beenie HQ/Store Beenie the Birthday Boy/"
                     }
                 ]
             }

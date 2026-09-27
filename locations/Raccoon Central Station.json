@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 1163,
-                        "y": 527,
-                        "size": 40,
+                        "x": 394,
+                        "y": 323,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 717,
-                        "y": 1435,
-                        "size": 40,
+                        "x": 242,
+                        "y": 564,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -79,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 1628,
-                        "y": 792,
-                        "size": 40,
+                        "x": 250,
+                        "y": 645,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -105,9 +105,9 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 875,
-                        "y": 313,
-                        "size": 40,
+                        "x": 338,
+                        "y": 340,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -131,9 +131,9 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 1701,
-                        "y": 615,
-                        "size": 40,
+                        "x": 532,
+                        "y": 346,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -158,9 +158,9 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 1650,
-                        "y": 1211,
-                        "size": 40,
+                        "x": 511,
+                        "y": 512,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -176,9 +176,9 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 923,
-                        "y": 731,
-                        "size": 40,
+                        "x": 313,
+                        "y": 373,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -245,7 +245,7 @@
                     },
                     {
                         "name": "Complete Behrman Speedway in under 1 minute",
-                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
+                        "ref": "Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
                     }
                 ]
             },
@@ -260,9 +260,9 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 960,
-                        "y": 361,
-                        "size": 40,
+                        "x": 331,
+                        "y": 272,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -332,9 +332,9 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 557,
-                        "y": 1398,
-                        "size": 40,
+                        "x": 199,
+                        "y": 551,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -372,9 +372,9 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 1892,
-                        "y": 1120,
-                        "size": 40,
+                        "x": 250,
+                        "y": 608,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -405,11 +405,11 @@
                     },
                     {
                         "name": "Store Fridge",
-                        "ref": "Store Fridge/"
+                        "ref": "Brazil/Store Fridge/"
                     },
                     {
                         "name": "Store CD Player",
-                        "ref": "Piss Shrine/Store CD Player/"
+                        "ref": "Trasco Carpark/Store CD Player/"
                     }
                 ]
             },
@@ -424,9 +424,9 @@
                 "map_locations": [
                     {
                         "map": "Raccoon Central Station",
-                        "x": 2631,
-                        "y": 1377,
-                        "size": 40,
+                        "x": 720,
+                        "y": 648,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -446,6 +446,126 @@
                     {
                         "name": "Euro on middle hill",
                         "ref": "Brazil/Euro on middle hill/"
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo City",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Raccoon Central Station",
+                        "x": 657,
+                        "y": 262,
+                        "size": 20,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Fone",
+                        "ref": "Blimbo City 1/Store Fone/"
+                    },
+                    {
+                        "name": "Store Radiator",
+                        "ref": "Blimbo City 1/Store Radiator/"
+                    },
+                    {
+                        "name": "Store Evil Raccoon",
+                        "ref": "Blimbo City 1/Store Evil Raccoon/"
+                    },
+                    {
+                        "name": "Store Naked Fella",
+                        "ref": "Blimbo City 1/Store Naked Fella/"
+                    },
+                    {
+                        "name": "Store Bell Boy",
+                        "ref": "Blimbo City 1/Store Bell Boy/"
+                    },
+                    {
+                        "name": "Euro on watertower",
+                        "ref": "Blimbo City 1/Euro on watertower/"
+                    },
+                    {
+                        "name": "Euro near boat on edge of city",
+                        "ref": "Blimbo City 1/Euro near boat on edge of city/"
+                    },
+                    {
+                        "name": "Store Bin",
+                        "ref": "Blimbo City 1/Store Bin/"
+                    },
+                    {
+                        "name": "Store Apple",
+                        "ref": "Blimbo City 2/Store Apple/"
+                    },
+                    {
+                        "name": "Store Patrick O Bobble",
+                        "ref": "Blimbo City 2/Store Patrick O Bobble/"
+                    },
+                    {
+                        "name": "Store Coffee Cup",
+                        "ref": "Blimbo City 2/Store Coffee Cup/"
+                    },
+                    {
+                        "name": "Store Yolky",
+                        "ref": "Blimbo City 2/Store Yolky/"
+                    },
+                    {
+                        "name": "Euro near Guns stands",
+                        "ref": "Blimbo City 2/Euro near Guns stands/"
+                    },
+                    {
+                        "name": "Euro under city on girders 3",
+                        "ref": "Blimbo City 2/Euro under city on girders 3/"
+                    },
+                    {
+                        "name": "Euro near cheese wheel",
+                        "ref": "Blimbo City 2/Euro near cheese wheel/"
+                    },
+                    {
+                        "name": "Euro under city on girders 1",
+                        "ref": "Blimbo City 2/Euro under city on girders 1/"
+                    },
+                    {
+                        "name": "Euro under city on girders 2",
+                        "ref": "Blimbo City 2/Euro under city on girders 2/"
+                    },
+                    {
+                        "name": "Store Average Canadian",
+                        "ref": "Blimbo City 3/Store Average Canadian/"
+                    },
+                    {
+                        "name": "Store Suitcase",
+                        "ref": "Blimbo City 3/Store Suitcase/"
+                    },
+                    {
+                        "name": "Store Dice",
+                        "ref": "Blimbo City 2/Store Dice/"
+                    },
+                    {
+                        "name": "Euro at Robin P. Bobin Store",
+                        "ref": "Blimbo City 3/Euro at Robin P. Bobin Store/"
+                    },
+                    {
+                        "name": "Euro next to Robin P. Bobin Store",
+                        "ref": "Blimbo City 3/Euro next to Robin P. Bobin Store/"
+                    },
+                    {
+                        "name": "Store Robin P. Bobin",
+                        "ref": "The Forklift Problem/Store Robin P. Bobin/"
+                    },
+                    {
+                        "name": "Unlock Tony & Fork Vehicle",
+                        "ref": "The Forklift Problem/Unlock Tony & Fork Vehicle/"
+                    },
+                    {
+                        "name": "Euro under city on girders 4",
+                        "ref": "Blimbo City 2/Euro under city on girders 4/"
                     }
                 ]
             }

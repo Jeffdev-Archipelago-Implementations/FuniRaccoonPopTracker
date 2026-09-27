@@ -28,9 +28,9 @@
                 "map_locations": [
                     {
                         "map": "Chicken Farm",
-                        "x": 1366,
-                        "y": 809,
-                        "size": 40,
+                        "x": 396,
+                        "y": 431,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -57,9 +57,9 @@
                 "map_locations": [
                     {
                         "map": "Chicken Farm",
-                        "x": 1323,
-                        "y": 178,
-                        "size": 40,
+                        "x": 368,
+                        "y": 249,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -86,9 +86,9 @@
                 "map_locations": [
                     {
                         "map": "Chicken Farm",
-                        "x": 753,
-                        "y": 862,
-                        "size": 40,
+                        "x": 136,
+                        "y": 422,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -104,9 +104,9 @@
                 "map_locations": [
                     {
                         "map": "Chicken Farm",
-                        "x": 2068,
-                        "y": 328,
-                        "size": 40,
+                        "x": 516,
+                        "y": 307,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -173,7 +173,7 @@
                     },
                     {
                         "name": "Complete Behrman Speedway in under 1 minute",
-                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
+                        "ref": "Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
                     }
                 ]
             }

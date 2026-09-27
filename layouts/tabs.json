@@ -49,7 +49,7 @@
                         },
                         {
                             "title": "Gym",
-                            "content": {"type": "map", "maps": ["Gym Outside", "Gym Inside"]}
+                            "content": {"type": "map", "maps": ["Gym"]}
                         },
                         {
                             "title": "Cleaners",
@@ -97,7 +97,7 @@
                     "tabs": [
                         {
                             "title": "Beenie HQ",
-                            "content": {"type": "map", "maps": ["Beenie HQ Front", "Beenie HQ Back", "Beenie HQ Inside"]}
+                            "content": {"type": "map", "maps": ["Beenie HQ"]}
                         },
                         {
                             "title": "Underground Metro",
@@ -121,7 +121,7 @@
                         },
                         {
                             "title": "Howth",
-                            "content": {"type": "map", "maps": ["Howth Start", "Howth End"]}
+                            "content": {"type": "map", "maps": ["Howth"]}
                         },
                         {
                             "title": "Fish Vore",
@@ -149,7 +149,7 @@
                         },
                         {
                             "title": "Blimbo Village",
-                            "content": {"type": "map", "maps": ["Blimbo Village Start", "Blimbo Village Town"]}
+                            "content": {"type": "map", "maps": ["Blimbo Village"]}
                         },
                         {
                             "title": "Petrol Station",
@@ -169,7 +169,7 @@
                         },
                         {
                             "title": "Trasco Carpark",
-                            "content": {"type": "map", "maps": ["Trasco Carpark", "Trasco Carpark Piss Shrine"]}
+                            "content": {"type": "map", "maps": ["Trasco Carpark"]}
                         },
                         {
                             "title": "FRIDGE WORLD",
@@ -181,28 +181,20 @@
                                 "type": "tabbed",
                                 "tabs": [
                                     {
-                                        "title": "Bottom Main",
-                                        "content": {"type": "map", "maps": ["Blimbo City Bottom Main"]}
-                                    },
-                                    {
-                                        "title": "Girders",
-                                        "content": {"type": "map", "maps": ["Blimbo City Girders"]}
+                                        "title": "Front/Back",
+                                        "content": {"type": "map", "maps": ["Blimbo City 1"]}
                                     },
                                     {
                                         "title": "Middle",
-                                        "content": {"type": "map", "maps": ["Blimbo City Middle"]}
+                                        "content": {"type": "map", "maps": ["Blimbo City 2"]}
                                     },
                                     {
-                                        "title": "Middle Back",
-                                        "content": {"type": "map", "maps": ["Blimbo City Middle Back"]}
+                                        "title": "Upper",
+                                        "content": {"type": "map", "maps": ["Blimbo City 3"]}
                                     },
                                     {
                                         "title": "Forklift Problem",
                                         "content": {"type": "map", "maps": ["The Forklift Problem"]}
-                                    },
-                                    {
-                                        "title": "Casino",
-                                        "content": {"type": "map", "maps": ["Blimbo City Middle Casino"]}
                                     },
                                     {
                                         "title": "PURGATORY",
@@ -211,14 +203,6 @@
                                     {
                                         "title": "Pub",
                                         "content": {"type": "map", "maps": ["Pub"]}
-                                    },
-                                    {
-                                        "title": "Upper Towers",
-                                        "content": {"type": "map", "maps": ["Blimbo City Upper Towers"]}
-                                    },
-                                    {
-                                        "title": "Top",
-                                        "content": {"type": "map", "maps": ["Blimbo City Top"]}
                                     },
                                     {
                                         "title": "Reactor",
@@ -330,7 +314,7 @@
                         },
                         {
                             "title": "Gym",
-                            "content": {"type": "map", "maps": ["Gym Outside", "Gym Inside"]}
+                            "content": {"type": "map", "maps": ["Gym"]}
                         },
                         {
                             "title": "Rackheath",
@@ -378,7 +362,7 @@
                     "tabs": [
                         {
                             "title": "Beenie HQ",
-                            "content": {"type": "map", "maps": ["Beenie HQ Front", "Beenie HQ Back", "Beenie HQ Inside", "Underground Metro"]}
+                            "content": {"type": "map", "maps": ["Beenie HQ", "Underground Metro"]}
                         },
                         {
                             "title": "Beenie Factory",
@@ -398,7 +382,7 @@
                         },
                         {
                             "title": "Howth",
-                            "content": {"type": "map", "maps": ["Howth Start", "Howth End"]}
+                            "content": {"type": "map", "maps": ["Howth"]}
                         },
                         {
                             "title": "Fish Vore",
@@ -426,7 +410,7 @@
                         },
                         {
                             "title": "Blimbo Village",
-                            "content": {"type": "map", "maps": ["Blimbo Village Start", "Blimbo Village Town"]}
+                            "content": {"type": "map", "maps": ["Blimbo Village"]}
                         },
                         {
                             "title": "Bildal Mines",
@@ -439,10 +423,6 @@
                         {
                             "title": "FRIDGE WORLD",
                             "content": {"type": "map", "maps": ["FRIDGE WORLD"]}
-                        },
-                        {
-                            "title": "Piss Shrine",
-                            "content": {"type": "map", "maps": ["Trasco Carpark Piss Shrine"]}
                         },
                         {
                             "title": "Petrol Station",
@@ -458,28 +438,20 @@
                                 "type": "tabbed",
                                 "tabs": [
                                     {
-                                        "title": "Bottom Main",
-                                        "content": {"type": "map", "maps": ["Blimbo City Bottom Main"]}
-                                    },
-                                    {
-                                        "title": "Girders",
-                                        "content": {"type": "map", "maps": ["Blimbo City Girders"]}
+                                        "title": "Front/Back",
+                                        "content": {"type": "map", "maps": ["Blimbo City 1"]}
                                     },
                                     {
                                         "title": "Middle",
-                                        "content": {"type": "map", "maps": ["Blimbo City Middle"]}
+                                        "content": {"type": "map", "maps": ["Blimbo City 2"]}
                                     },
                                     {
-                                        "title": "Middle Back",
-                                        "content": {"type": "map", "maps": ["Blimbo City Middle Back"]}
+                                        "title": "Upper",
+                                        "content": {"type": "map", "maps": ["Blimbo City 3"]}
                                     },
                                     {
                                         "title": "Forklift Problem",
                                         "content": {"type": "map", "maps": ["The Forklift Problem"]}
-                                    },
-                                    {
-                                        "title": "Casino",
-                                        "content": {"type": "map", "maps": ["Blimbo City Middle Casino"]}
                                     },
                                     {
                                         "title": "PURGATORY",
@@ -492,14 +464,6 @@
                                     {
                                         "title": "Reactor",
                                         "content": {"type": "map", "maps": ["Blimbo City Reactor"]}
-                                    },
-                                    {
-                                        "title": "Top",
-                                        "content": {"type": "map", "maps": ["Blimbo City Top"]}
-                                    },
-                                    {
-                                        "title": "Upper Towers",
-                                        "content": {"type": "map", "maps": ["Blimbo City Upper Towers"]}
                                     }
                                 ]
                             }

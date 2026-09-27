@@ -19,35 +19,35 @@
                 "sections": [
                     {
                         "name": "Store Crayon",
-                        "ref": "Beenie HQ Front/Store Crayon/"
+                        "ref": "Beenie HQ/Store Crayon/"
                     },
                     {
                         "name": "Store Evil Fish",
-                        "ref": "Beenie HQ Front/Store Evil Fish/"
+                        "ref": "Beenie HQ/Store Evil Fish/"
                     },
                     {
                         "name": "Store Patrick OHara",
-                        "ref": "Beenie HQ Front/Store Patrick OHara/"
+                        "ref": "Beenie HQ/Store Patrick OHara/"
                     },
                     {
                         "name": "Store Factory Sign",
-                        "ref": "Beenie HQ Front/Store Factory Sign/"
+                        "ref": "Beenie HQ/Store Factory Sign/"
                     },
                     {
                         "name": "Store Letter B",
-                        "ref": "Beenie HQ Back/Store Letter B/"
+                        "ref": "Beenie HQ/Store Letter B/"
                     },
                     {
                         "name": "Store Beach Ball",
-                        "ref": "Beenie HQ Back/Store Beach Ball/"
+                        "ref": "Beenie HQ/Store Beach Ball/"
                     },
                     {
                         "name": "Store Funi Marketable Plushie",
-                        "ref": "Beenie HQ Inside/Store Funi Marketable Plushie/"
+                        "ref": "Beenie HQ/Store Funi Marketable Plushie/"
                     },
                     {
                         "name": "Store Beenie the Birthday Boy",
-                        "ref": "Beenie HQ Inside/Store Beenie the Birthday Boy/"
+                        "ref": "Beenie HQ/Store Beenie the Birthday Boy/"
                     },
                     {
                         "name": "Underground Metro - Store Keksz Cat",
@@ -311,15 +311,15 @@
                 "sections": [
                     {
                         "name": "Store Street Lamp",
-                        "ref": "Howth Start/Store Street Lamp/"
+                        "ref": "Howth/Store Street Lamp/"
                     },
                     {
                         "name": "Store Kettle",
-                        "ref": "Howth Start/Store Kettle/"
+                        "ref": "Howth/Store Kettle/"
                     },
                     {
                         "name": "Eat Blue Mystical Jewel",
-                        "ref": "Howth End/Eat Blue Mystical Jewel/"
+                        "ref": "Howth/Eat Blue Mystical Jewel/"
                     }
                 ],
                 "map_locations": [

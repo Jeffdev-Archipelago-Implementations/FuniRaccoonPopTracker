@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 1028,
-                        "y": 1152,
-                        "size": 40,
+                        "x": 607,
+                        "y": 450,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -53,9 +53,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 1284,
-                        "y": 1352,
-                        "size": 40,
+                        "x": 636,
+                        "y": 515,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -79,9 +79,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 1616,
-                        "y": 996,
-                        "size": 40,
+                        "x": 721,
+                        "y": 416,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -105,9 +105,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 933,
-                        "y": 1176,
-                        "size": 40,
+                        "x": 600,
+                        "y": 494,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -131,9 +131,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 977,
-                        "y": 1097,
-                        "size": 40,
+                        "x": 597,
+                        "y": 435,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -157,9 +157,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 1087,
-                        "y": 1196,
-                        "size": 40,
+                        "x": 628,
+                        "y": 502,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -183,9 +183,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 1204,
-                        "y": 1273,
-                        "size": 40,
+                        "x": 626,
+                        "y": 488,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -209,9 +209,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 1148,
-                        "y": 1205,
-                        "size": 40,
+                        "x": 619,
+                        "y": 474,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -235,9 +235,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 2970,
-                        "y": 1247,
-                        "size": 40,
+                        "x": 978,
+                        "y": 542,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -261,9 +261,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 903,
-                        "y": 603,
-                        "size": 40,
+                        "x": 642,
+                        "y": 293,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -290,9 +290,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 562,
-                        "y": 513,
-                        "size": 40,
+                        "x": 556,
+                        "y": 182,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -316,9 +316,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 1993,
-                        "y": 185,
-                        "size": 40,
+                        "x": 887,
+                        "y": 233,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -342,9 +342,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 2067,
-                        "y": 1242,
-                        "size": 40,
+                        "x": 822,
+                        "y": 509,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -360,9 +360,9 @@
                 "map_locations": [
                     {
                         "map": "Museum",
-                        "x": 1085,
-                        "y": 579,
-                        "size": 40,
+                        "x": 679,
+                        "y": 293,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],

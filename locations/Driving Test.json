@@ -19,9 +19,9 @@
                 "map_locations": [
                     {
                         "map": "Driving Test",
-                        "x": 527,
-                        "y": 457,
-                        "size": 40,
+                        "x": 650,
+                        "y": 533,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -33,6 +33,106 @@
                     {
                         "name": "Store Cricket",
                         "ref": "Cricket/Store Cricket/"
+                    }
+                ]
+            },
+            {
+                "name": "Blimbo Village",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "map_locations": [
+                    {
+                        "map": "Driving Test",
+                        "x": 57,
+                        "y": 580,
+                        "size": 20,
+                        "shape": "trapezoid"
+                    }
+                ],
+                "sections": [
+                    {
+                        "name": "Store Under Construction",
+                        "ref": "Blimbo Village/Store Under Construction/"
+                    },
+                    {
+                        "name": "Store ROAD NOT DONE",
+                        "ref": "Blimbo Village/Store ROAD NOT DONE/"
+                    },
+                    {
+                        "name": "Store Blimbo Village Sign",
+                        "ref": "Blimbo Village/Store Blimbo Village Sign/"
+                    },
+                    {
+                        "name": "Store Ougham Stone",
+                        "ref": "Blimbo Village/Store Ougham Stone/"
+                    },
+                    {
+                        "name": "Store \"Cow\"",
+                        "ref": "Blimbo Village/Store \"Cow\"/"
+                    },
+                    {
+                        "name": "Store Old Ass Rusty Ass Key",
+                        "ref": "Blimbo Village/Store Old Ass Rusty Ass Key/"
+                    },
+                    {
+                        "name": "Get 1000 Score with Kei Truck",
+                        "ref": "Blimbo Village/Kei Truck Score/Get 1000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Get 2000 Score with Kei Truck",
+                        "ref": "Blimbo Village/Kei Truck Score/Get 2000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Get 3000 Score with Kei Truck",
+                        "ref": "Blimbo Village/Kei Truck Score/Get 3000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Get 4000 Score with Kei Truck",
+                        "ref": "Blimbo Village/Kei Truck Score/Get 4000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Get 5000 Score with Kei Truck",
+                        "ref": "Blimbo Village/Kei Truck Score/Get 5000 Score with Kei Truck"
+                    },
+                    {
+                        "name": "Find Media Player Hat",
+                        "ref": "Blimbo Village/Find Media Player Hat/"
+                    },
+                    {
+                        "name": "Store Plimbo",
+                        "ref": "Blimbo Village/Store Plimbo/"
+                    },
+                    {
+                        "name": "Store CHEESE",
+                        "ref": "Blimbo Village/Store CHEESE/"
+                    },
+                    {
+                        "name": "Store Gas Drum",
+                        "ref": "Blimbo Village/Store Gas Drum/"
+                    },
+                    {
+                        "name": "Store Door",
+                        "ref": "Blimbo Village/Store Door/"
+                    },
+                    {
+                        "name": "Purchase Kei Truck Radio",
+                        "ref": "Blimbo Village/Kei Truck Upgrades/Purchase Kei Truck Radio"
+                    },
+                    {
+                        "name": "Purchase Kei Truck Toaster",
+                        "ref": "Blimbo Village/Kei Truck Upgrades/Purchase Kei Truck Toaster"
+                    },
+                    {
+                        "name": "Purchase Kei Truck Boost",
+                        "ref": "Blimbo Village/Kei Truck Upgrades/Purchase Kei Truck Boost"
+                    },
+                    {
+                        "name": "Euro on castle",
+                        "ref": "Blimbo Village/Euro on castle/"
                     }
                 ]
             }

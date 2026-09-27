@@ -12,7 +12,7 @@
                 "map": "Garden",
                 "x": 1484,
                 "y": 357,
-                "size": 40,
+                "size": 16,
                 "shape": "rect"
             }
         ],
@@ -39,9 +39,9 @@
                 "map_locations": [
                     {
                         "map": "Mikk Barge",
-                        "x": 2216,
-                        "y": 525,
-                        "size": 40,
+                        "x": 730,
+                        "y": 273,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -65,9 +65,9 @@
                 "map_locations": [
                     {
                         "map": "Mikk Barge",
-                        "x": 2324,
-                        "y": 234,
-                        "size": 40,
+                        "x": 786,
+                        "y": 161,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]

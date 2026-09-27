@@ -27,9 +27,9 @@
                 "map_locations": [
                     {
                         "map": "Cleaners",
-                        "x": 1860,
-                        "y": 741,
-                        "size": 40,
+                        "x": 488,
+                        "y": 343,
+                        "size": 16,
                         "shape": "rect"
                     }
                 ]
@@ -45,9 +45,9 @@
                 "map_locations": [
                     {
                         "map": "Cleaners",
-                        "x": 1052,
-                        "y": 583,
-                        "size": 40,
+                        "x": 352,
+                        "y": 447,
+                        "size": 20,
                         "shape": "trapezoid"
                     }
                 ],
@@ -114,7 +114,7 @@
                     },
                     {
                         "name": "Complete Behrman Speedway in under 1 minute",
-                        "ref": "Norwich/Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
+                        "ref": "Behrman Speedway/Complete Behrman Speedway in under 1 minute/"
                     }
                 ]
             }
